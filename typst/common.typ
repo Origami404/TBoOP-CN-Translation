@@ -82,3 +82,6 @@
 }
 
 #let t_img = image
+
+// First level heading only as a marker
+#show heading.where(level: 1): it => []

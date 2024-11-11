@@ -1,5 +1,16 @@
 #import "common.typ": *
 
+#page[
+  #align(center + horizon, image("./images/00001.jpeg"))
+]
+
+#page[
+  #show super: it => [ ]
+  #outline()
+]
+
+
+= Foreword
 
 #character[
   #p_title[
@@ -159,7 +170,7 @@
   #p_normal[
     THE PRESENT TRANSLATION of #emph[Three Books of Occult Philosophy] (hereafter called #emph[Three Books]) marks the first translation from Latin to English since the J.F. translation in 1651. #emph[Three Books]’s influence in the metaphysical textual tradition is incalculable. Its influence is especially found in modern books on herbalism, stones, incense, and in nineteenth-century British lodge magical systems. While all the information contained in #emph[Three Books] can be found in other books, Agrippa’s text is unique in its scope and organization. While some individual texts that Agrippa quoted may contain more detailed information, #emph[Three Books] systematically organizes the vast array into a cohesive whole. This introduction will summarize #emph[Three Books,] explain its textual history, and discuss why a new translation is necessary. Notes on the new translation detail some important considerations that distinguish the present edition from the epochal 1651 version of J.F.
   ]
-  #l_section[ 
+  #l_section[
     #p_normal[
       All prior English editions of #emph[Three Books] are based on the 1651 J.F. translation. This translation has served as a basis, as mentioned above, for many sources and spiritual practices—particularly over the past two centuries. After beginning a fresh translation from the original Latin, some interesting highlights began to appear.
     ]
@@ -182,7 +193,7 @@
       l_ordered_item[
         #strong[All of these have compounded errors in later editions]. All post-1651 English editions up to this point are based on the J.F. translation. We will discuss the textual history later in this introduction. However, it should be noted here that the various editors worked with the flaws in J.F.’s translation. Sometimes these flaws were noticed but were attributed to Agrippa. Other times the flaws were not noticed and were expounded upon. This is most notably apparent in Donald Tyson’s 1993 edition. In his version, Tyson attempts to explain all of Agrippa’s sources and concepts in as much detail as possible. Because he is using J.F.’s translation, these explanations often make these errors worse. That they have been expounded upon by an expert also has the effect of making them seem more authoritative. For example, Tyson incorrectly explains J.F.’s mistranslation of
         #emph[profection] as referring to a new or full Moon. Actually, the term refers to a practice of counting the houses around the chart in which each is understood to represent a year. Tyson also accuses Agrippa of “not reading his Plato correctly,” when in fact it is J.F. who mistranslates the element of Earth as changeable instead of unchangeable in Book One, ch. 3. Some of these discrepancies in Tyson are noted in our own translation, but the present text aims to emphasize the core English translations rather than later editions.
-      ]
+      ],
     )
     #p_normal[
       Most importantly, the primary purpose of creating a new, authoritative edition of Agrippa’s #emph[Three Books] is to take a fresh look at the original Latin. The secondary purpose was to obtain and cross-reference as many of Agrippa’s sources as possible. Tyson attempted this in his 1993 edition, but he often favored sources that Agrippa either could not have read because they were not available in his time, sources that Agrippa simply would not have used, or sources that did not exist during Agrippa’s lifetime. Our translation attempts as much as possible to cite sources that were available to Agrippa. This has allowed us to largely reconstruct Agrippa’s library and has demystified his method of obtaining it. This shows that Agrippa, rather than the writing from texts now missing or obtaining books from secret sources, instead was a mainstream scholar of his day, using texts widely available. These are noted in our translation. In a few cases, identification of Agrippa’s sources has shown some transcription errors on his part. These are noted as well.
@@ -343,7 +354,9 @@
     #p_normal[
       Despite the clear structure of #emph[Three Books,] Agrippa does not completely isolate the individual subjects within their respective chapters. He builds upon his earlier comments and revisits previous points of discussion throughout the text. Because of this, approaching #emph[Three Books] as a reference only without reading it through will leave the reader with an incomplete understanding. Agrippa states this in his conclusion, explaining that he has “scattered” the material. This is not entirely correct as the book still follows its structure. He does, however, define or introduce items in one section of the book and then reintroduce them later as part of a related or larger subject, assuming the reader has read the entire book and understands the subject matter. Picking and choosing individual chapters based on their titles can result in an incomplete picture of Agrippa’s ideas.
     ]
-  ]#l_section[ #p_normal[
+  ]
+  #l_section[
+    #p_normal[
       In 1510, when Agrippa was twenty-four years old, he presented the first draft of #emph[Three Books] to a friend, the Abbot Johannes Trithemius. Agrippa spent a short time the previous year with Trithemius, who encouraged him with his studies and approved of his work in progress. After Agrippa sent his draft to Trithemius, the abbot sent a reply further encouraging Agrippa and cautioned him to be circumspect with the material he divulges.
     ]
     #p_normal[
@@ -385,7 +398,9 @@
     #p_normal[
       Agrippa uses about two hundred sources to write #emph[Three Books,] but the bulk of the book is made of a smaller fraction of that total. Tyson notes as many primary sources as he can find, but in 1993 a number of academic studies that might have assisted him in this task had yet to be published. He also adds references to secondary or more modern sources with the aim of shedding additional light on Agrippa’s ideas. Though these are sometimes useful, they do not help the reader understand Agrippa’s methodology.
     ]
-  ]#l_section[ #p_normal[
+  ]
+  #l_section[
+    #p_normal[
       The present volume is a new translation of Agrippa’s original Latin text. The primary source is V. Perrone Compagni’s 1992 critical edition of #emph[Three Books,] published by Brill. Compagni gathers every extant edition of the text and notes their variations so as to create a “perfect” version. Since #emph[Three Books] has always existed in printed form, it might seem surprising that there would be variations. However, in the sixteenth century, printed books were typeset by hand, and thus the different editions contained slight variations. These are noted. Compagni also had access to the first manuscript of #emph[Three Books,] which Agrippa gave to Trithemius, and notes variations from this manuscript. Finally, in perhaps her most valuable contribution, she adds notation regarding most of Agrippa’s sources and, in some cases, secondary sources.
     ]
     #p_normal[

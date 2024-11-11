@@ -2,10 +2,13 @@
 
 #character[
   #p_title[
-    Letter from Agrippa to TrithemiusUpon Presentation of His 1510 Manuscript ofThe Occult Philosophy
+    Letter from Agrippa to Trithemius
   ]
   #p_normal[
     #t_img("./images/00003.jpeg")
+  ]
+  #p_normal[
+    Upon Presentation of His 1510 Manuscript of The Occult Philosophy
   ]
   #p_normal(italic: true)[
     R.P.D.#t_footnote(18)[1] Johannes Trithemius, abbot of Saint James in the suburbs of Wurzburg,#t_footnote(19)[2] Heinrich Cornelius Agrippa of Nettesheim sends greetings.
