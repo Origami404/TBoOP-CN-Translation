@@ -159,24 +159,31 @@
   #p_normal[
     THE PRESENT TRANSLATION of #emph[Three Books of Occult Philosophy] (hereafter called #emph[Three Books]) marks the first translation from Latin to English since the J.F. translation in 1651. #emph[Three Books]’s influence in the metaphysical textual tradition is incalculable. Its influence is especially found in modern books on herbalism, stones, incense, and in nineteenth-century British lodge magical systems. While all the information contained in #emph[Three Books] can be found in other books, Agrippa’s text is unique in its scope and organization. While some individual texts that Agrippa quoted may contain more detailed information, #emph[Three Books] systematically organizes the vast array into a cohesive whole. This introduction will summarize #emph[Three Books,] explain its textual history, and discuss why a new translation is necessary. Notes on the new translation detail some important considerations that distinguish the present edition from the epochal 1651 version of J.F.
   ]
-  #l_section[ #p_normal[
+  #l_section[ 
+    #p_normal[
       All prior English editions of #emph[Three Books] are based on the 1651 J.F. translation. This translation has served as a basis, as mentioned above, for many sources and spiritual practices—particularly over the past two centuries. After beginning a fresh translation from the original Latin, some interesting highlights began to appear.
     ]
-    #l_ordered[
-      #l_ordered_item[
-        #strong[Mistranslations]. While all translations contain errors, many fundamental errors or unusual translation choices in the J.F. version have resulted in a sometimes confusing text. For example, the Latin #emph[daemon,] literally “demon” in English but with a historically and theologically more complex meaning, is often translated as “spirit” by J.F. This creates a misunderstanding in Agrippa’s chapter on planetary seals in Book Two, ch. 22, where spirit is defined as evil. Another example is Book Three, ch. 43, in which J.F. translated the term #emph[idolum] as “sense” or “sensitive.” #emph[Idolum] is a technical term referring to the lowest level of the soul. Translating it as “sense” is misleading.]
-      #l_ordered_item[
-        #strong[Lack of technical knowledge]. Several examples of mistranslations of basic astrological terms and techniques suggest that J.F.’s astrological knowledge was lacking. In Book 1, ch. 59, J.F. translated the Latin #emph[profectionis] as “perfection.” The correct translation should be “profection.” Profections are a well-known premodern astrological predictive technique. At the time of J.F.’s translation, profections were still widely used, so it is surprising he translated it incorrectly. Another example is in Book Two, ch. 22, where J.F. translated #emph[termini] as “marks.” This is known in premodern astrology as “terms” or “bounds,” a five-fold division of each of the zodiacal signs. In the same chapter, he confused a section on planetary rulerships, giving the wrong planets to the wrong set of rulerships. This was likely due to the way the Latin sentence was constructed, but had he some basic astrological knowledge this would have been clear. Our translation is the first one written by a practitioner of premodern astrology.]
-      #l_ordered_item[
-        #strong[Animal and botanical names.] Just as today, local names for animals, plants, and stones can be unique to regions or countries even if they speak the same language. As such, translations from older texts can be problematic. Modern Latin dictionaries are sometimes more helpful today than in J.F.’s seventeenth century, but they are not foolproof. However, J.F. made several questionable translation choices. All of these discrepancies are noted. In some cases, Agrippa most likely did not know a few of the herbs and stones about which he was writing as many were sourced from Pliny. Even today, some of Pliny’s references remain mysterious. Every effort was made to show the original Latin, probable English translation, and incorrect translations.]
-      #l_ordered_item[
-        #strong[The archaic English is sometimes distracting or misleading.] J.F.’s English is more than 350 years old. While his English is quite readable, some styles and terminology can be distracting to modern eyes. In some cases, the meanings have changed or words have fallen out of common use. In this translation, we refer to the original Latin directly rather than modernizing an earlier translation.]
-      #l_ordered_item[
-        #strong[Some graphics are incorrect.] Agrippa’s works were published in many editions, and some graphical differences appeared in various printings. J.F. reproduces some incorrect graphics or introduces new ones. For example, some of the planetary seals in J. F.’s Book Two, ch. 22, differ from the Latin original in that they are oriented incorrectly. All of these errors have been corrected and noted.]
-      #l_ordered_item[
+    #l_ordered(
+      l_ordered_item[
+        #strong[Mistranslations]. While all translations contain errors, many fundamental errors or unusual translation choices in the J.F. version have resulted in a sometimes confusing text. For example, the Latin #emph[daemon,] literally “demon” in English but with a historically and theologically more complex meaning, is often translated as “spirit” by J.F. This creates a misunderstanding in Agrippa’s chapter on planetary seals in Book Two, ch. 22, where spirit is defined as evil. Another example is Book Three, ch. 43, in which J.F. translated the term #emph[idolum] as “sense” or “sensitive.” #emph[Idolum] is a technical term referring to the lowest level of the soul. Translating it as “sense” is misleading.
+      ],
+      l_ordered_item[
+        #strong[Lack of technical knowledge]. Several examples of mistranslations of basic astrological terms and techniques suggest that J.F.’s astrological knowledge was lacking. In Book 1, ch. 59, J.F. translated the Latin #emph[profectionis] as “perfection.” The correct translation should be “profection.” Profections are a well-known premodern astrological predictive technique. At the time of J.F.’s translation, profections were still widely used, so it is surprising he translated it incorrectly. Another example is in Book Two, ch. 22, where J.F. translated #emph[termini] as “marks.” This is known in premodern astrology as “terms” or “bounds,” a five-fold division of each of the zodiacal signs. In the same chapter, he confused a section on planetary rulerships, giving the wrong planets to the wrong set of rulerships. This was likely due to the way the Latin sentence was constructed, but had he some basic astrological knowledge this would have been clear. Our translation is the first one written by a practitioner of premodern astrology.
+      ],
+      l_ordered_item[
+        #strong[Animal and botanical names.] Just as today, local names for animals, plants, and stones can be unique to regions or countries even if they speak the same language. As such, translations from older texts can be problematic. Modern Latin dictionaries are sometimes more helpful today than in J.F.’s seventeenth century, but they are not foolproof. However, J.F. made several questionable translation choices. All of these discrepancies are noted. In some cases, Agrippa most likely did not know a few of the herbs and stones about which he was writing as many were sourced from Pliny. Even today, some of Pliny’s references remain mysterious. Every effort was made to show the original Latin, probable English translation, and incorrect translations.
+      ],
+      l_ordered_item[
+        #strong[The archaic English is sometimes distracting or misleading.] J.F.’s English is more than 350 years old. While his English is quite readable, some styles and terminology can be distracting to modern eyes. In some cases, the meanings have changed or words have fallen out of common use. In this translation, we refer to the original Latin directly rather than modernizing an earlier translation.
+      ],
+      l_ordered_item[
+        #strong[Some graphics are incorrect.] Agrippa’s works were published in many editions, and some graphical differences appeared in various printings. J.F. reproduces some incorrect graphics or introduces new ones. For example, some of the planetary seals in J. F.’s Book Two, ch. 22, differ from the Latin original in that they are oriented incorrectly. All of these errors have been corrected and noted.
+      ],
+      l_ordered_item[
         #strong[All of these have compounded errors in later editions]. All post-1651 English editions up to this point are based on the J.F. translation. We will discuss the textual history later in this introduction. However, it should be noted here that the various editors worked with the flaws in J.F.’s translation. Sometimes these flaws were noticed but were attributed to Agrippa. Other times the flaws were not noticed and were expounded upon. This is most notably apparent in Donald Tyson’s 1993 edition. In his version, Tyson attempts to explain all of Agrippa’s sources and concepts in as much detail as possible. Because he is using J.F.’s translation, these explanations often make these errors worse. That they have been expounded upon by an expert also has the effect of making them seem more authoritative. For example, Tyson incorrectly explains J.F.’s mistranslation of
-        #emph[profection] as referring to a new or full Moon. Actually, the term refers to a practice of counting the houses around the chart in which each is understood to represent a year. Tyson also accuses Agrippa of “not reading his Plato correctly,” when in fact it is J.F. who mistranslates the element of Earth as changeable instead of unchangeable in Book One, ch. 3. Some of these discrepancies in Tyson are noted in our own translation, but the present text aims to emphasize the core English translations rather than later editions.]
-    ]
+        #emph[profection] as referring to a new or full Moon. Actually, the term refers to a practice of counting the houses around the chart in which each is understood to represent a year. Tyson also accuses Agrippa of “not reading his Plato correctly,” when in fact it is J.F. who mistranslates the element of Earth as changeable instead of unchangeable in Book One, ch. 3. Some of these discrepancies in Tyson are noted in our own translation, but the present text aims to emphasize the core English translations rather than later editions.
+      ]
+    )
     #p_normal[
       Most importantly, the primary purpose of creating a new, authoritative edition of Agrippa’s #emph[Three Books] is to take a fresh look at the original Latin. The secondary purpose was to obtain and cross-reference as many of Agrippa’s sources as possible. Tyson attempted this in his 1993 edition, but he often favored sources that Agrippa either could not have read because they were not available in his time, sources that Agrippa simply would not have used, or sources that did not exist during Agrippa’s lifetime. Our translation attempts as much as possible to cite sources that were available to Agrippa. This has allowed us to largely reconstruct Agrippa’s library and has demystified his method of obtaining it. This shows that Agrippa, rather than the writing from texts now missing or obtaining books from secret sources, instead was a mainstream scholar of his day, using texts widely available. These are noted in our translation. In a few cases, identification of Agrippa’s sources has shown some transcription errors on his part. These are noted as well.
     ]
@@ -192,104 +199,147 @@
     #p_normal(italic: true)[
       BOOK ONE – THE NATURAL WORLD
     ]
-    #l_unordered[
-      #l_unordered_item[
-        Ch. 1 – An introduction to the book summarizing its contents.]
-      #l_unordered_item[
-        Ch. 2 – A definition of magic.]
-      #l_unordered_item[
-        Chs. 3 to 8 – A definition of the elements and their qualities on earth and heaven.]
-      #l_unordered_item[
-        Chs. 9 to 13 – The natural and occult virtues of things and how they proceed from the elements.]
-      #l_unordered_item[
-        Chs. 14 to 22 – How to understand and find the virtues of things and assign them to elements and celestial bodies.]
-      #l_unordered_item[
-        Chs. 23 to 34 – Details about what things are ruled by the planets, stars, and signs and how celestial bodies impress themselves onto earthly things.]
-      #l_unordered_item[
-        Chs. 35 to 39 – How the mixtures of the elements create certain effects and how they receive special gifts from the heavens, which we can use for our own benefit.]
-      #l_unordered_item[
-        Chs. 40 to 51 – A list of particular techniques foundational to magic and how and why they work. This concludes with a general chapter on other miraculous effects mostly borrowed from Pliny.]
-      #l_unordered_item[
-        Chs. 52 to 60 – A series of chapters about forms of divination.]
-      #l_unordered_item[
-        Chs. 61 to 66 – Begins with an introduction to the components of the mind and then moves on to the different passions of the mind.]
-      #l_unordered_item[
-        Chs. 67 to 68 – How the mind can connect with the heavens and cause changes in the world.]
-      #l_unordered_item[
-        Chs. 69 to 72 – The power and virtue of speech, words, names, and incantations.]
-      #l_unordered_item[
-        Chs. 73 to 74 – The power of writing and letters.]
-    ]
+    #l_unordered(
+      l_unordered_item[
+        Ch. 1 – An introduction to the book summarizing its contents.
+      ],
+      l_unordered_item[
+        Ch. 2 – A definition of magic.
+      ],
+      l_unordered_item[
+        Chs. 3 to 8 – A definition of the elements and their qualities on earth and heaven.
+      ],
+      l_unordered_item[
+        Chs. 9 to 13 – The natural and occult virtues of things and how they proceed from the elements.
+      ],
+      l_unordered_item[
+        Chs. 14 to 22 – How to understand and find the virtues of things and assign them to elements and celestial bodies.
+      ],
+      l_unordered_item[
+        Chs. 23 to 34 – Details about what things are ruled by the planets, stars, and signs and how celestial bodies impress themselves onto earthly things.
+      ],
+      l_unordered_item[
+        Chs. 35 to 39 – How the mixtures of the elements create certain effects and how they receive special gifts from the heavens, which we can use for our own benefit.
+      ],
+      l_unordered_item[
+        Chs. 40 to 51 – A list of particular techniques foundational to magic and how and why they work. This concludes with a general chapter on other miraculous effects mostly borrowed from Pliny.
+      ],
+      l_unordered_item[
+        Chs. 52 to 60 – A series of chapters about forms of divination.
+      ],
+      l_unordered_item[
+        Chs. 61 to 66 – Begins with an introduction to the components of the mind and then moves on to the different passions of the mind.
+      ],
+      l_unordered_item[
+        Chs. 67 to 68 – How the mind can connect with the heavens and cause changes in the world.
+      ],
+      l_unordered_item[
+        Chs. 69 to 72 – The power and virtue of speech, words, names, and incantations.
+      ],
+      l_unordered_item[
+        Chs. 73 to 74 – The power of writing and letters.
+      ],
+    )
     #p_normal(italic: true)[
       BOOK TWO – THE CELESTIAL WORLD
     ]
-    #l_unordered[
-      #l_unordered_item[
-        Chs. 1 to 3 – On the importance and power of numbers and mathematics.]
-      #l_unordered_item[
-        Chs. 4 to 15 – The importance and power of individual numbers, with tables illustrating their correspondences.]
-      #l_unordered_item[
-        Chs. 16 to 21 – On the notation of numbers from various cultures and which numbers are appointed to particular gods and elements.]
-      #l_unordered_item[
-        Ch. 22 – The tables of the planets and the names and seals of their intelligences and daemons.]
-      #l_unordered_item[
-        Ch. 23 – The geometrical properties of natural matter and their magical powers.]
-      #l_unordered_item[
-        Chs. 24 to 28 – The proportion and harmony of music, the celestials, the human body, and the soul.]
-      #l_unordered_item[
-        Chs. 29 to 34 – How the celestials are important to magic, with detailed discussions on magical elections and Lunar mansions.]
-      #l_unordered_item[
-        Chs. 35 to 47 – The images and sigils of the planets, signs, faces, Lunar mansions, and fixed stars.]
-      #l_unordered_item[
-        Chs. 48 to 49 – Images of geomancy and things that come from the mind of the practitioner.]
-      #l_unordered_item[
-        Ch. 50 – Some magical astrological elections for particular effects.]
-      #l_unordered_item[
-        Chs. 51 to 52 – Characters derived from the imitation of the celestials.]
-      #l_unordered_item[
-        Chs. 53 to 54 – How astrology is essential for divination, and divination by lots.]
-      #l_unordered_item[
-        Chs. 55 to 57 – On the nature of the World Soul and its relationship with the celestials.]
-      #l_unordered_item[
-        Chs. 58 to 59 – On the souls of the celestial world, their names, and how they govern the world.]
-      #l_unordered_item[
-        Ch. 60 – How humans can connect to the higher spirits.]
-    ]
+    #l_unordered(
+      l_unordered_item[
+        Chs. 1 to 3 – On the importance and power of numbers and mathematics.
+      ],
+      l_unordered_item[
+        Chs. 4 to 15 – The importance and power of individual numbers, with tables illustrating their correspondences.
+      ],
+      l_unordered_item[
+        Chs. 16 to 21 – On the notation of numbers from various cultures and which numbers are appointed to particular gods and elements.
+      ],
+      l_unordered_item[
+        Ch. 22 – The tables of the planets and the names and seals of their intelligences and daemons.
+      ],
+      l_unordered_item[
+        Ch. 23 – The geometrical properties of natural matter and their magical powers.
+      ],
+      l_unordered_item[
+        Chs. 24 to 28 – The proportion and harmony of music, the celestials, the human body, and the soul.
+      ],
+      l_unordered_item[
+        Chs. 29 to 34 – How the celestials are important to magic, with detailed discussions on magical elections and Lunar mansions.
+      ],
+      l_unordered_item[
+        Chs. 35 to 47 – The images and sigils of the planets, signs, faces, Lunar mansions, and fixed stars.
+      ],
+      l_unordered_item[
+        Chs. 48 to 49 – Images of geomancy and things that come from the mind of the practitioner.
+      ],
+      l_unordered_item[
+        Ch. 50 – Some magical astrological elections for particular effects.
+      ],
+      l_unordered_item[
+        Chs. 51 to 52 – Characters derived from the imitation of the celestials.
+      ],
+      l_unordered_item[
+        Chs. 53 to 54 – How astrology is essential for divination, and divination by lots.
+      ],
+      l_unordered_item[
+        Chs. 55 to 57 – On the nature of the World Soul and its relationship with the celestials.
+      ],
+      l_unordered_item[
+        Chs. 58 to 59 – On the souls of the celestial world, their names, and how they govern the world.
+      ],
+      l_unordered_item[
+        Ch. 60 – How humans can connect to the higher spirits.
+      ],
+    )
     #p_normal(italic: true)[
       BOOK THREE – THE INTELLECTUAL WORLD, THE HEAVENS, AND CEREMONIES
     ]
-    #l_unordered[
-      #l_unordered_item[
-        Chs. 1 to 6 – The importance of religion, its parts, and the necessity of purity and secrecy, as well as the definitions of religion, superstition, and theology.]
-      #l_unordered_item[
-        Chs. 7 to 9 – A discussion on the nature of God and the Holy Trinity.]
-      #l_unordered_item[
-        Chs. 10 to 14 – The names of God and the names and sacred places of pagan gods.]
-      #l_unordered_item[
-        Chs. 15 to 22 – A discussion of the hierarchy and nature of celestial spirits, intelligences, daemons, and personal geniuses.]
-      #l_unordered_item[
-        Ch. 23 – The language of angels and how they communicate with us.]
-      #l_unordered_item[
-        Chs. 24 to 28 – On the names of spirits and various ways of discovering them.]
-      #l_unordered_item[
-        Chs. 29 to 31 – Of the characters and seals of spirits.]
-      #l_unordered_item[
-        Chs. 32 to 33 – How to attract good daemons and expel evil daemons.]
-      #l_unordered_item[
-        Chs. 34 to 35 – On the various orders of lower spirits and gods.]
-      #l_unordered_item[
-        Chs. 36 to 40 – A discussion about humans, the human soul, and the influences of divine and superior forces on humans.]
-      #l_unordered_item[
-        Chs. 41 to 42 – Death and a discussion on necromancy.]
-      #l_unordered_item[
-        Chs. 43 to 44 – The power and parts of the human soul.]
-      #l_unordered_item[
-        Chs. 45 to 52 – Various kinds of prophecies, ecstasies, and frenzies.]
-      #l_unordered_item[
-        Chs. 53 to 64 – The importance of purity and the different ways of purifying oneself. The last chapters move on to consecrations.]
-      #l_unordered_item[
-        Ch. 65 – Conclusion.]
-    ]
+    #l_unordered(
+      l_unordered_item[
+        Chs. 1 to 6 – The importance of religion, its parts, and the necessity of purity and secrecy, as well as the definitions of religion, superstition, and theology.
+      ],
+      l_unordered_item[
+        Chs. 7 to 9 – A discussion on the nature of God and the Holy Trinity.
+      ],
+      l_unordered_item[
+        Chs. 10 to 14 – The names of God and the names and sacred places of pagan gods.
+      ],
+      l_unordered_item[
+        Chs. 15 to 22 – A discussion of the hierarchy and nature of celestial spirits, intelligences, daemons, and personal geniuses.
+      ],
+      l_unordered_item[
+        Ch. 23 – The language of angels and how they communicate with us.
+      ],
+      l_unordered_item[
+        Chs. 24 to 28 – On the names of spirits and various ways of discovering them.
+      ],
+      l_unordered_item[
+        Chs. 29 to 31 – Of the characters and seals of spirits.
+      ],
+      l_unordered_item[
+        Chs. 32 to 33 – How to attract good daemons and expel evil daemons.
+      ],
+      l_unordered_item[
+        Chs. 34 to 35 – On the various orders of lower spirits and gods.
+      ],
+      l_unordered_item[
+        Chs. 36 to 40 – A discussion about humans, the human soul, and the influences of divine and superior forces on humans.
+      ],
+      l_unordered_item[
+        Chs. 41 to 42 – Death and a discussion on necromancy.
+      ],
+      l_unordered_item[
+        Chs. 43 to 44 – The power and parts of the human soul.
+      ],
+      l_unordered_item[
+        Chs. 45 to 52 – Various kinds of prophecies, ecstasies, and frenzies.
+      ],
+      l_unordered_item[
+        Chs. 53 to 64 – The importance of purity and the different ways of purifying oneself. The last chapters move on to consecrations.
+      ],
+      l_unordered_item[
+        Ch. 65 – Conclusion.
+      ],
+    )
     #p_normal[
       Despite the clear structure of #emph[Three Books,] Agrippa does not completely isolate the individual subjects within their respective chapters. He builds upon his earlier comments and revisits previous points of discussion throughout the text. Because of this, approaching #emph[Three Books] as a reference only without reading it through will leave the reader with an incomplete understanding. Agrippa states this in his conclusion, explaining that he has “scattered” the material. This is not entirely correct as the book still follows its structure. He does, however, define or introduce items in one section of the book and then reintroduce them later as part of a related or larger subject, assuming the reader has read the entire book and understands the subject matter. Picking and choosing individual chapters based on their titles can result in an incomplete picture of Agrippa’s ideas.
     ]

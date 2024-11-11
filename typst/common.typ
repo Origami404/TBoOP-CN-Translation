@@ -1,3 +1,5 @@
+#let indent-width = 2em
+
 #let character(it) = {
   it
   pagebreak()
@@ -10,20 +12,60 @@
   italic: false,
   bold: false,
   right: false,
+  spacing: 1em,
   it,
 ) = {
-  it
-  parbreak()
+
+  let it = if center and right {
+    align(center + right, it)
+  } else if center {
+    align(alignment.center, it)
+  } else if right {
+    align(alignment.right, it)
+  } else {
+    it
+  }
+
+  let it = if italic and bold {
+    text(style: "italic", weight: "bold", it)
+  } else if italic {
+    text(style: "italic", it)
+  } else if bold {
+    text(weight: "bold", it)
+  } else {
+    it
+  }
+
+  let first-line-indent-by-word = if word_indent == "first-line" {
+    indent-width
+  } else {
+    0pt
+  }
+  let hanging-indent-by-word = if word_indent == "non-first-line" {
+    indent-width
+  } else {
+    0pt
+  }
+
+  let first-line-indent = first-line-indent-by-word + para_indent * indent-width
+  let hanging-indent = hanging-indent-by-word + para_indent * indent-width
+
+  par(
+    first-line-indent: first-line-indent, 
+    hanging-indent: hanging-indent, 
+    spacing: spacing,
+    it
+  )
 }
-#let p_quote = p_normal
-#let p_poetry = p_normal
-#let p_img = p_normal
+#let p_poetry(it) = p_normal(word_indent: "none", para_indent: 1, italic: true, it)
+#let p_quote(it) = p_normal(word_indent: "none", para_indent: 1, italic: true, spacing: 2.5em, it)
+#let p_img(it) = p_normal(center: true, italic: true, it)
 #let p_title(it) = heading(level: 2, it)
 
-#let l_ordered(it) = enum(it)
+#let l_ordered(..it) = enum(indent: indent-width, ..it)
 #let l_ordered_item(it) = enum.item(it)
 
-#let l_unordered(it) = list(it)
+#let l_unordered(..it) = list(indent: indent-width, ..it)
 #let l_unordered_item(it) = list.item(it)
 
 #let t_footnote(id, it) = {
