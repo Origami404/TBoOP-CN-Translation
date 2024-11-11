@@ -213,12 +213,12 @@
     And from Pliny: “In all medicines it is the custom to spit three times in prayer, and from this effect, one will be cured.”#t_footnote(1210)[8]
   ]
   #p_normal[
-    Accordingly, three is perfected with three increases, length, width, and depth, beyond which no measurement will progress: of which the first number is called cubic. Hence it is said that nothing can be added to a body with three measures and a cubic number: whereby Aristotle at the beginning of his sermon 
-#emph[On the Heavens] said they are as if a law, according to which everything is disposed.
+    Accordingly, three is perfected with three increases, length, width, and depth, beyond which no measurement will progress: of which the first number is called cubic. Hence it is said that nothing can be added to a body with three measures and a cubic number: whereby Aristotle at the beginning of his sermon
+    #emph[On the Heavens] said they are as if a law, according to which everything is disposed.
   ]
   #p_normal[
-    Indeed, bodies have three constants, the beginning, middle, and end. Three (as Trismegistus said) is a world perfected, 
-#emph[heimarmene,]#t_footnote(1211)[9] necessity and order—namely, the mutual agreement of causes, which many call fate, and the distribution of what must be carried out to the fruitful and their offspring.#t_footnote(1212)[10] The entirety of time is contained in three measurements—namely the past, present, and future. All sizes are contained in three, line, surface, and body. All bodies are contained in three intervals, length, width, and thickness.#t_footnote(1213)[11] Harmony is contained in three symphonies, a whole octave, a perfect fifth, and a fourth.#t_footnote(1214)[12] Likewise, there are three kinds of souls, vegetative, sensitive and intellectual, and together with these three are distributed: rationality, irascibility, and desire.#t_footnote(1215)[13]
+    Indeed, bodies have three constants, the beginning, middle, and end. Three (as Trismegistus said) is a world perfected,
+    #emph[heimarmene,]#t_footnote(1211)[9] necessity and order—namely, the mutual agreement of causes, which many call fate, and the distribution of what must be carried out to the fruitful and their offspring.#t_footnote(1212)[10] The entirety of time is contained in three measurements—namely the past, present, and future. All sizes are contained in three, line, surface, and body. All bodies are contained in three intervals, length, width, and thickness.#t_footnote(1213)[11] Harmony is contained in three symphonies, a whole octave, a perfect fifth, and a fourth.#t_footnote(1214)[12] Likewise, there are three kinds of souls, vegetative, sensitive and intellectual, and together with these three are distributed: rationality, irascibility, and desire.#t_footnote(1215)[13]
   ]
   #p_quote[
     #emph[Things in which there are three.]
@@ -294,7 +294,7 @@
   ]
   #p_normal[
     #t_img("./images/00016.jpeg")
-#t_footnote(1243)[17]
+    #t_footnote(1243)[17]
   ]
   #p_normal[
     #t_img("./images/00017.jpeg")
@@ -318,13 +318,13 @@
     #emph[The names of five.]
   ]
   #p_normal[
-    Indeed, the patriarch Noah found in this number the grace of the Lord, which preserved him from the flooding waters;#t_footnote(1254)[11] in the virtue of this number the hundred-year-old Abraham from the ninety-yearold barren woman Sarah begat a son despite being at an age above which nature allows this to happen, from whom arose a great people.#t_footnote(1255)[12] Hence, five letters invoked the name of God Almighty in the time of grace: for in the time of nature, the name of God was invoked with the Trigrammaton 
-#t_img("./images/00019.jpeg") Sadai; in the time of law the unutterable name of God with the Tetragrammaton 
-#t_img("./images/00020.jpeg") which instead the Hebrews pronounced 
-#t_img("./images/00021.jpeg") Adonai; in the time of grace the utterable name of God was the pentagrammaton 
-#t_img("./images/00022.jpeg") Ihesu,#t_footnote(1256)[13] 
-which is no less mysterious than the three lettered invocation 
-#t_img("./images/00023.jpeg").#t_footnote(1257)[14]
+    Indeed, the patriarch Noah found in this number the grace of the Lord, which preserved him from the flooding waters;#t_footnote(1254)[11] in the virtue of this number the hundred-year-old Abraham from the ninety-yearold barren woman Sarah begat a son despite being at an age above which nature allows this to happen, from whom arose a great people.#t_footnote(1255)[12] Hence, five letters invoked the name of God Almighty in the time of grace: for in the time of nature, the name of God was invoked with the Trigrammaton
+    #t_img("./images/00019.jpeg") Sadai; in the time of law the unutterable name of God with the Tetragrammaton
+    #t_img("./images/00020.jpeg") which instead the Hebrews pronounced
+    #t_img("./images/00021.jpeg") Adonai; in the time of grace the utterable name of God was the pentagrammaton
+    #t_img("./images/00022.jpeg") Ihesu,#t_footnote(1256)[13]
+    which is no less mysterious than the three lettered invocation
+    #t_img("./images/00023.jpeg").#t_footnote(1257)[14]
   ]
   #p_normal[
     #t_img("./images/00024.jpeg")
@@ -474,8 +474,8 @@ which is no less mysterious than the three lettered invocation
     Now in the Gospels, we read of seven conditions of blessedness,#t_footnote(1376)[113]
   ]
   #p_normal[
-    seven virtues to which are opposed seven vices, #t_footnote(1377)[114] seven petitions of the Lord’s prayer,#t_footnote(1378)[115] seven words of Christ on the cross, 
-#t_footnote(1379)[116] seven words of the Virgin Mary,#t_footnote(1380)[117] seven breads distributed by the Lord,#t_footnote(1381)[118] seven baskets of fragments,#t_footnote(1382)[119] seven brothers having one wife,#t_footnote(1383)[120] seven disciples of the Lord who were fishers,#t_footnote(1384)[121] seven water pots in Canaan in Galilee,#t_footnote(1385)[122] seven wraths that the Lord threatens to hypocrites,#t_footnote(1386)[123] seven daemons expelled from the sinful woman,#t_footnote(1387)[124] and seven more wicked daemons taken in after expulsion.#t_footnote(1388)[125] Likewise, for seven years, Christ was in refuge in Egypt,#t_footnote(1389)[126] and in the seventh-hour fever left the son of the ruler.#t_footnote(1390)[127]
+    seven virtues to which are opposed seven vices, #t_footnote(1377)[114] seven petitions of the Lord’s prayer,#t_footnote(1378)[115] seven words of Christ on the cross,
+    #t_footnote(1379)[116] seven words of the Virgin Mary,#t_footnote(1380)[117] seven breads distributed by the Lord,#t_footnote(1381)[118] seven baskets of fragments,#t_footnote(1382)[119] seven brothers having one wife,#t_footnote(1383)[120] seven disciples of the Lord who were fishers,#t_footnote(1384)[121] seven water pots in Canaan in Galilee,#t_footnote(1385)[122] seven wraths that the Lord threatens to hypocrites,#t_footnote(1386)[123] seven daemons expelled from the sinful woman,#t_footnote(1387)[124] and seven more wicked daemons taken in after expulsion.#t_footnote(1388)[125] Likewise, for seven years, Christ was in refuge in Egypt,#t_footnote(1389)[126] and in the seventh-hour fever left the son of the ruler.#t_footnote(1390)[127]
   ]
   #p_normal[
     Also in the canonical Epistles, James described seven degrees of the wise,#t_footnote(1391)[128] and Peter seven degrees of virtue.#t_footnote(1392)[129] And in Acts, there are counted seven deacons and seven disciples chosen by the Apostles.#t_footnote(1393)[130] Likewise in Revelation there are many mysteries in this number; indeed, seven candlesticks are gathered, seven stars,#t_footnote(1394)[131] seven crowns,#t_footnote(1395)[132] seven churches, seven spirits watching the throne,#t_footnote(1396)[133] seven rivers of Egypt, seven seals, seven signs, seven horns, seven eyes, seven spirits of God,#t_footnote(1397)[134] seven angels with seven trumpets,#t_footnote(1398)[135] seven horns of the dragon, and seven heads of the dragon, which had seven diadems.#t_footnote(1399)[136] Likewise, seven plagues and seven phials were given to one of the seven angels,#t_footnote(1400)[137] seven heads of the scarlet beast, seven mountains and seven kings sitting on them,#t_footnote(1401)[138] and seven thunders speaking their voices.#t_footnote(1402)[139]
@@ -506,7 +506,7 @@ which is no less mysterious than the three lettered invocation
   ]
   #p_normal[
     #t_img("./images/00026.jpeg")
-#t_footnote(1408)[145]
+    #t_footnote(1408)[145]
   ]
 ]
 
@@ -615,7 +615,7 @@ which is no less mysterious than the three lettered invocation
   ]
   #p_normal[
     #t_img("./images/00032.jpeg")
-#t_footnote(1462)[21]
+    #t_footnote(1462)[21]
   ]
   #p_normal[
     #t_img("./images/00033.jpeg")
@@ -642,8 +642,8 @@ which is no less mysterious than the three lettered invocation
     #emph[XIV.]
   ]
   #p_normal[
-    Fourteen bears the figure of Christ himself, because, on the fourteenth day#t_footnote(1465)[3] on the first month, he sacrificed himself for us, on which day the children of Israel were ordered by the Lord to celebrate 
-#emph[Phase]#t_footnote(1466)[4]—that is, Passover.#t_footnote(1467)[5] This number was so anxiously observed by Matthew that he omitted some generations so that he could everywhere limit the generations [before] Christ [to fourteen].#t_footnote(1468)[6]
+    Fourteen bears the figure of Christ himself, because, on the fourteenth day#t_footnote(1465)[3] on the first month, he sacrificed himself for us, on which day the children of Israel were ordered by the Lord to celebrate
+    #emph[Phase]#t_footnote(1466)[4]—that is, Passover.#t_footnote(1467)[5] This number was so anxiously observed by Matthew that he omitted some generations so that he could everywhere limit the generations [before] Christ [to fourteen].#t_footnote(1468)[6]
   ]
   #p_quote[
     #emph[XV.]
@@ -754,8 +754,8 @@ which is no less mysterious than the three lettered invocation
     “However, 100 is made with the right hand the same way as 10 is made with the left. Two hundred in right is made just as 20 was made with the right hand. Two thousand in the right is made just as two in the left, and the rest all the way to 9,000.
   ]
   #p_normal[
-    “Again, when you say ‘10,000,’ place the left hand flat in the middle of the breast, with only the fingers raised toward heaven. When you say ‘20,000,’ place the same hand on the breast spread widely. When you say ‘30,000,’ place the hand the same as before, but send the straightened thumb to the cartilage in the middle of the breast. When you say ‘40,000,’ make the same turned erect over the navel. When you say ‘50,000,’ do the same on the navel but with the thumb erect placed under. When you say ‘60,000,’ the same but placed on the left thigh holding it from above. When you say ‘70,000,’ the same, but with the palm placed on the thigh facing upwards. When saying ‘80,000,’ the same placed downward over the thigh. When you say ‘90,000,’ do the same but placed on the groin, the thumb placed inward. However, with 100,000, 200,000, and the rest all the way to 900,000 do in the same manner that we have said but make them on the right side of the body. But when saying ‘1,000,000’ join both hands together, with the fingers laced together.”#t_footnote(1518)[3] Let these writings of Bede suffice for now; you will learn many more of these in Frater Luke of St. Sepulchers’s 
-	#emph[Great Arithmetic].#t_footnote(1519)[4]
+    “Again, when you say ‘10,000,’ place the left hand flat in the middle of the breast, with only the fingers raised toward heaven. When you say ‘20,000,’ place the same hand on the breast spread widely. When you say ‘30,000,’ place the hand the same as before, but send the straightened thumb to the cartilage in the middle of the breast. When you say ‘40,000,’ make the same turned erect over the navel. When you say ‘50,000,’ do the same on the navel but with the thumb erect placed under. When you say ‘60,000,’ the same but placed on the left thigh holding it from above. When you say ‘70,000,’ the same, but with the palm placed on the thigh facing upwards. When saying ‘80,000,’ the same placed downward over the thigh. When you say ‘90,000,’ do the same but placed on the groin, the thumb placed inward. However, with 100,000, 200,000, and the rest all the way to 900,000 do in the same manner that we have said but make them on the right side of the body. But when saying ‘1,000,000’ join both hands together, with the fingers laced together.”#t_footnote(1518)[3] Let these writings of Bede suffice for now; you will learn many more of these in Frater Luke of St. Sepulchers’s
+    #emph[Great Arithmetic].#t_footnote(1519)[4]
   ]
   #p_quote[
     #emph[Luke of St. Sepulchers.]
@@ -782,10 +782,10 @@ which is no less mysterious than the three lettered invocation
     #t_img("./images/00036.jpeg")
   ]
   #p_normal[
-    The circle denotes a hundred—that is, 0 placed separately. However, connected to others, it indicates as many numbers as 
-hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three hundred,
-#t_img("./images/00037.jpeg")five hundred, ten 
-#t_img("./images/00038.jpeg") hundred or a thousand. [We may] observe that these marks are frequently added to magical characters.
+    The circle denotes a hundred—that is, 0 placed separately. However, connected to others, it indicates as many numbers as
+    hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three hundred,
+    #t_img("./images/00037.jpeg")five hundred, ten
+    #t_img("./images/00038.jpeg") hundred or a thousand. [We may] observe that these marks are frequently added to magical characters.
   ]
 ]
 
@@ -833,9 +833,9 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
     There were those that do not use the final letters, and for these we write thus: #t_img("./images/00045.jpeg")
   ]
   #p_normal[
-    And from these simple figures, by combining and composing them, describe all remaining composed numbers, such as 11, 12, 110, and 111, by adding ones to tens. [Compose] the rest in a similar way. Yet the number 15 is not written by 10 and 5, but by 9 and 6—namely, 
-#t_img("./images/00046.jpeg"), out of respect of the divine name 
-#t_img("./images/00047.jpeg"), which makes 15, so that the sacred name is not wasted on the profane.
+    And from these simple figures, by combining and composing them, describe all remaining composed numbers, such as 11, 12, 110, and 111, by adding ones to tens. [Compose] the rest in a similar way. Yet the number 15 is not written by 10 and 5, but by 9 and 6—namely,
+    #t_img("./images/00046.jpeg"), out of respect of the divine name
+    #t_img("./images/00047.jpeg"), which makes 15, so that the sacred name is not wasted on the profane.
   ]
   #p_normal[
     And the Egyptians, Ethiopians, Chaldeans, and Arabs have their numerical marks, which most often occur among magical characters: therefore, one may wish to learn these before being skilled in these letters. The Chaldeans signify numbers with the letters of their alphabet according to the custom of the Hebrews. That alphabet is recorded at the end of the first book.#t_footnote(1531)[2] Additionally, I have found in two most ancient astrological and magical books some most elegant marks of numbers, which I have also decided to note here, and they were in both volumes as such: #t_img("./images/00048.jpeg")
@@ -898,8 +898,8 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
     #t_img("./images/00052.jpeg")
   ]
   #p_normal[
-    But now if you wish to know the ruling star of some birth, compute their name and each parent’s name by single letters according to the numbers written above and collect the entire sum and divide by 9, subtracting from that as often as you can. 
-#t_footnote(1537)[5] If 1 or 4 remain, each indicates the Sun; but if 2 or 7, each signifies the Moon; of the others 3 is Jupiter, 5 is Mercury, 6 is Venus, 8 is Saturn, and 9 denotes Mars. This account is shown elsewhere. By a similar rationale, if one wishes to know some horoscope,#t_footnote(1538)[6] compute their name and the name of the mother and father and collect the entire total and divide by 12. If the remainder is 1 it denotes Leo; if Juno 2 then Aquarius, if Vestal 3 then Capricorn, if 4 then Sagittarius, if 5 Cancer, if Venusian 6 Taurus, if Palladian 7 Aries, if Vulcan 8 Libra, if Martial 9 Scorpio, if 10 Virgo, if 11 Pisces, if Phoeban 12 it represents Gemini; and this is also accounted elsewhere.
+    But now if you wish to know the ruling star of some birth, compute their name and each parent’s name by single letters according to the numbers written above and collect the entire sum and divide by 9, subtracting from that as often as you can.
+    #t_footnote(1537)[5] If 1 or 4 remain, each indicates the Sun; but if 2 or 7, each signifies the Moon; of the others 3 is Jupiter, 5 is Mercury, 6 is Venus, 8 is Saturn, and 9 denotes Mars. This account is shown elsewhere. By a similar rationale, if one wishes to know some horoscope,#t_footnote(1538)[6] compute their name and the name of the mother and father and collect the entire total and divide by 12. If the remainder is 1 it denotes Leo; if Juno 2 then Aquarius, if Vestal 3 then Capricorn, if 4 then Sagittarius, if 5 Cancer, if Venusian 6 Taurus, if Palladian 7 Aries, if Vulcan 8 Libra, if Martial 9 Scorpio, if 10 Virgo, if 11 Pisces, if Phoeban 12 it represents Gemini; and this is also accounted elsewhere.
   ]
   #p_quote[
     #emph[Numbers of the planets.]
@@ -1065,7 +1065,7 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
   ]
   #p_normal[
     #t_img("./images/00055.jpeg")
-#t_footnote(1558)[2]
+    #t_footnote(1558)[2]
   ]
   #p_normal(italic: true)[
     Names responding to the numbers of the Sun.
@@ -1078,14 +1078,14 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
   ]
   #p_normal[
     #t_img("./images/00057.jpeg")
-#t_footnote(1559)[3], #t_footnote(1560)[4]
+    #t_footnote(1559)[3], #t_footnote(1560)[4]
   ]
   #p_normal(italic: true)[
     Names responding to the numbers of Mercury.
   ]
   #p_normal[
     #t_img("./images/00058.jpeg")
-#t_footnote(1561)[5]
+    #t_footnote(1561)[5]
   ]
   #p_normal(italic: true)[
     Names responding to the numbers of the Moon.
@@ -1143,7 +1143,7 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
   ]
   #p_normal[
     #t_img("./images/00069.jpeg")
-#t_footnote(1562)[6]
+    #t_footnote(1562)[6]
   ]
   #p_img[
     #strong[Mars.]
@@ -1261,7 +1261,7 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
   ]
   #p_normal[
     #t_img("./images/00091.jpeg")
-#t_footnote(1564)[8]
+    #t_footnote(1564)[8]
   ]
   #p_normal[
     #t_img("./images/00092.jpeg")
@@ -1381,12 +1381,12 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
     Additionally, they said that four kinds of music followed the four elements and agreed with the four humors, and thought that Dorian agreed with water and phlegm, Phrygian with choler and fire, Lydian with sanguine and air, and Mixolydian with black bile and earth. Others respecting the number and virtue of the celestials assigned Dorian for the Sun, Phrygian for Mars, Lydian for Jupiter, Mixolydian for Saturn, Hypophrygian for Mercury, Hypolydian for Venus, Hypodorian for the Moon, and Hypomixolydian for the starry heaven.
   ]
   #p_normal[
-    These modes of harmony also refer to the Muses and strings with the heavens, but not in the order that we have written of the nine Muses among numbers and celestial souls. They say the muse Thalia has no harmony, is silent, and is appointed to earth. Clio is appointed to the Hypodorian Moon and the chord 
-#emph[proslambanomenos].#t_footnote(1598)[8] Calliope holds the Hypophrygian Mercury and 
-#emph[hypate hypaton]. Terpischore with Hypolydian Venus and #emph[parhypate hypaton]. Melpomene is joined with the Dorian Sun and 
-#emph[lichanos hypaton]. Erato observes Phrygian Mars and #emph[hypate mesen]. Euterpe agrees with Lydian Jupiter and 
-#emph[parhypate meson]. Polyhymnia protects Mixolydian Saturn and #emph[lichanos meson]. Urania and the starry heaven are appointed to the Hypomixolydian mode and the chord 
-#emph[meses;]#t_footnote(1599)[9] which we read thus in the following verses: #emph[She spouts in the first nocturnal silences with a song,]
+    These modes of harmony also refer to the Muses and strings with the heavens, but not in the order that we have written of the nine Muses among numbers and celestial souls. They say the muse Thalia has no harmony, is silent, and is appointed to earth. Clio is appointed to the Hypodorian Moon and the chord
+    #emph[proslambanomenos].#t_footnote(1598)[8] Calliope holds the Hypophrygian Mercury and
+    #emph[hypate hypaton]. Terpischore with Hypolydian Venus and #emph[parhypate hypaton]. Melpomene is joined with the Dorian Sun and
+    #emph[lichanos hypaton]. Erato observes Phrygian Mars and #emph[hypate mesen]. Euterpe agrees with Lydian Jupiter and
+    #emph[parhypate meson]. Polyhymnia protects Mixolydian Saturn and #emph[lichanos meson]. Urania and the starry heaven are appointed to the Hypomixolydian mode and the chord
+    #emph[meses;]#t_footnote(1599)[9] which we read thus in the following verses: #emph[She spouts in the first nocturnal silences with a song,]
   ]
   #p_poetry[
     #emph[Thalia who lies in the muffled womb of the earth.]
@@ -1440,29 +1440,29 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
     #emph[Hypomixolydian turns near the Pole.]#t_footnote(1601)[11]
   ]
   #p_normal[
-    Also, there are several who find the harmonies of the heavens from their distance from each other; for that space that lies between the Earth and Moon—namely, 126,000 Italian 
-#emph[stadia]#t_footnote(1602)[12]—makes an interval of a tone. However, from the Moon to Mercury, being half of that space makes a semitone. It is just as much from that to Venus making another semitone. But from there to the Sun is as it were a threefold and a half tone makes a 
-#emph[diapente]. From the Moon to the Sun is twice as much and a half making a 
-#emph[diatessaron]. However, from the Sun to Mars is again as much of an interval as from the Earth to the Moon, making a tone. From there to Jupiter is half that, making another semitone. It is just as much from there to Saturn, also making a semitone. From there to the starry orb again has space of a semitone lying between them. Therefore, from the Sun to the starry orb has a 
-#emph[diatessaron] interval of two and a half tones. However, from the Earth to the end is a 
-#emph[diapason] of six whole tones.
+    Also, there are several who find the harmonies of the heavens from their distance from each other; for that space that lies between the Earth and Moon—namely, 126,000 Italian
+    #emph[stadia]#t_footnote(1602)[12]—makes an interval of a tone. However, from the Moon to Mercury, being half of that space makes a semitone. It is just as much from that to Venus making another semitone. But from there to the Sun is as it were a threefold and a half tone makes a
+    #emph[diapente]. From the Moon to the Sun is twice as much and a half making a
+    #emph[diatessaron]. However, from the Sun to Mars is again as much of an interval as from the Earth to the Moon, making a tone. From there to Jupiter is half that, making another semitone. It is just as much from there to Saturn, also making a semitone. From there to the starry orb again has space of a semitone lying between them. Therefore, from the Sun to the starry orb has a
+    #emph[diatessaron] interval of two and a half tones. However, from the Earth to the end is a
+    #emph[diapason] of six whole tones.
   ]
   #p_normal[
-    The proportion of the planets’ motion about each other and the eighth heaven makes the sweetest harmony of all.#t_footnote(1603)[13] The proportion of the motion of Saturn to Jupiter is twice and a half, Jupiter to Mars is one and a half times,#t_footnote(1604)[14] that to the Sun, Venus, and Mercury, who journey equally, are proportionally doubled, those to the Moon are twelvefold, but Saturn to the starry orb is 1,200—if what Ptolemy said is true, heaven moves contrary to the 
-#emph[Primum Mobile] in a hundred years to one degree.#t_footnote(1605)[15]
+    The proportion of the planets’ motion about each other and the eighth heaven makes the sweetest harmony of all.#t_footnote(1603)[13] The proportion of the motion of Saturn to Jupiter is twice and a half, Jupiter to Mars is one and a half times,#t_footnote(1604)[14] that to the Sun, Venus, and Mercury, who journey equally, are proportionally doubled, those to the Moon are twelvefold, but Saturn to the starry orb is 1,200—if what Ptolemy said is true, heaven moves contrary to the
+    #emph[Primum Mobile] in a hundred years to one degree.#t_footnote(1605)[15]
   ]
   #p_normal[
-    Therefore, the particular motion of the Moon makes a swifter and sharper sound than the starry orb, which makes slower and deeper sound; but the violent motion of the 
-#emph[Primum Mobile] is the swiftest and sharpest of all, and the Moon is the slowest and most grave. This proportionate motion and reciprocation gives the sweetest harmony.#t_footnote(1606)[16] Hence, no songs, sounds, and musical instruments are more powerful in moving a man’s affections and inducing magical impressions than those composed from numbers, measures, and proportions according to their celestial equals.
+    Therefore, the particular motion of the Moon makes a swifter and sharper sound than the starry orb, which makes slower and deeper sound; but the violent motion of the
+    #emph[Primum Mobile] is the swiftest and sharpest of all, and the Moon is the slowest and most grave. This proportionate motion and reciprocation gives the sweetest harmony.#t_footnote(1606)[16] Hence, no songs, sounds, and musical instruments are more powerful in moving a man’s affections and inducing magical impressions than those composed from numbers, measures, and proportions according to their celestial equals.
   ]
   #p_normal[
-    The elements are also elicited from their bases and angles, of which we have spoken earlier: since between fire and water there is a double proportion of their bases and one and a half in solid angles and again double in planes, then a twofold harmony 
-#emph[diapason] and #emph[diapente] arise. Between air and water, there is a double and a half proportion in their bases#t_footnote(1607)[17] (from which is 
-#emph[diapason] and #emph[diapente]), but the angles are double (from which again is 
-#emph[diapason]). But between water and earth is a proportion of three and a third#t_footnote(1608)[18] in bases (from which rise 
-#emph[diapason, diapente,] and #emph[diatessaron]), however in angles, one and a half (again constituting a 
-#emph[diapente]). Again, between the proportions of earth and fire, is one and a half times in bases (making a 
-#emph[diapente]) but double angles (constituting a #emph[diapason]). Between fire and water, and between air and earth, they fail to achieve concord since among these there is a complete contrariety in their qualities. However, they are able to agree through an intervening element.#t_footnote(1609)[19]
+    The elements are also elicited from their bases and angles, of which we have spoken earlier: since between fire and water there is a double proportion of their bases and one and a half in solid angles and again double in planes, then a twofold harmony
+    #emph[diapason] and #emph[diapente] arise. Between air and water, there is a double and a half proportion in their bases#t_footnote(1607)[17] (from which is
+    #emph[diapason] and #emph[diapente]), but the angles are double (from which again is
+    #emph[diapason]). But between water and earth is a proportion of three and a third#t_footnote(1608)[18] in bases (from which rise
+    #emph[diapason, diapente,] and #emph[diatessaron]), however in angles, one and a half (again constituting a
+    #emph[diapente]). Again, between the proportions of earth and fire, is one and a half times in bases (making a
+    #emph[diapente]) but double angles (constituting a #emph[diapason]). Between fire and water, and between air and earth, they fail to achieve concord since among these there is a complete contrariety in their qualities. However, they are able to agree through an intervening element.#t_footnote(1609)[19]
   ]
 ]
 
@@ -1516,8 +1516,8 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
     #t_img("./images/00097.jpeg")
   ]
   #p_normal[
-    Now we come to particular measures: encircling a man under his armpits is the central point of his length, whose middle is the lower pubis. However, up to the middle of the breast between each nipple and from the middle of the breast to the top of the head in both places is a fourth part. Similarly, from the lower pubis to under the knees, to the ends of the feet in man is a fourth part. The width from the end of one shoulder to the other is [also a fourth part]. It is the same length from the elbow to the end of the long finger and is therefore called a 
-#emph[cubit].#t_footnote(1614)[5] Hence, four cubits constitute the length of a man; however, the width of the shoulders is one cubit, but encircling it is one foot. A cubit is made up of six palms, but a foot is four [palms], four fingers a palm, and the entire length of a man is twenty-four palms, six feet, ninety-six fingers. From the pubis to the top of the breast is six parts in length.#t_footnote(1615)[6] From the top of the breast to the top of the forehead and the roots of the hair is a seventh#t_footnote(1616)[7] part in length. A strong and well-squared body is six feet long, but a taller is seven. As Varro and Gellius testify, a human body cannot exceed seven feet in height.#t_footnote(1617)[8]
+    Now we come to particular measures: encircling a man under his armpits is the central point of his length, whose middle is the lower pubis. However, up to the middle of the breast between each nipple and from the middle of the breast to the top of the head in both places is a fourth part. Similarly, from the lower pubis to under the knees, to the ends of the feet in man is a fourth part. The width from the end of one shoulder to the other is [also a fourth part]. It is the same length from the elbow to the end of the long finger and is therefore called a
+    #emph[cubit].#t_footnote(1614)[5] Hence, four cubits constitute the length of a man; however, the width of the shoulders is one cubit, but encircling it is one foot. A cubit is made up of six palms, but a foot is four [palms], four fingers a palm, and the entire length of a man is twenty-four palms, six feet, ninety-six fingers. From the pubis to the top of the breast is six parts in length.#t_footnote(1615)[6] From the top of the breast to the top of the forehead and the roots of the hair is a seventh#t_footnote(1616)[7] part in length. A strong and well-squared body is six feet long, but a taller is seven. As Varro and Gellius testify, a human body cannot exceed seven feet in height.#t_footnote(1617)[8]
   ]
   #p_normal[
     #t_img("./images/00098.jpeg")
@@ -1550,8 +1550,8 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
     The larger joint on the index finger is equal to the height of the forehead. The remaining two to the end of the nail are equal to the nose—that is, from between the eyes at the top of the nose to the bottom, and the largest joint in the middle finger is equal to that space, which is from the bottom of the nose to the end of the chin. The second joint on the middle finger is as much as from the bottom of the chin to the top of the bottom lip. However, the third is as much as from the mouth to the end of the nose, but the entire hand is as great as the entire face.
   ]
   #p_normal[
-    The greater joint on the thumb is as much as the opening of the mouth and what is from the bottom of the chin to the top of the lower lip. However, the smaller [joint] is as much as from the top of the bottom lip to the end of the nose. The ends [joints] of all the fingers, which are called 
-#emph[onychios,] have the nails at their center points.
+    The greater joint on the thumb is as much as the opening of the mouth and what is from the bottom of the chin to the top of the lower lip. However, the smaller [joint] is as much as from the top of the bottom lip to the end of the nose. The ends [joints] of all the fingers, which are called
+    #emph[onychios,] have the nails at their center points.
   ]
   #p_normal[
     From between the eyes to the outside corner of the eye is as much as from that corner to the beginning of the ears. The height of the forehead, the length of the nose, and the width of the mouth through the top lip are equal to each other. Likewise, the width of the palms and feet are equal. The height that is from the bottom of the ankle to the top of the feet is equal to the length that is from the top of the feet to the end of the nail. From the top of the forehead to the gap between the eyes, and from there to the bottom of the nose, and then to the end of the chin are equal parts. The juncture of the eyebrows is equal to the circles of the eyes, and the semicircle of the ear is equal to the opening of the mouth: thus, the circles of the eyes, ears, and opening of the mouth are equal. The width of the nose is as much as the length of the eye: hence that space which is between the ends of both eyes—the eyes having two parts, not counting the third [distance the width of an eye] which takes up the middle of the nose.#t_footnote(1622)[13]
@@ -1563,15 +1563,15 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
     All of these measures are through many proportions and well-balanced harmonies that agree with each other: for instance, the largest finger—which is the thumb—is to the end of the arm#t_footnote(1623)[14] at the pulse and joint of the hand a two and a half proportion in a circular measure#t_footnote(1624)[15]; indeed, this is two and a half, as five is to two. However, the relation [of the wrist] to the upper arm near the shoulder is threefold. The size of the shin is to that of the arm a proportion of one and a half, as three is to two. It is a similar proportion for the neck to the shin as that to the arm. The proportion of the hip to the arm is threefold. The proportion of the entire body to the trunk is nine-eighths. From the trunk or upper body to the leg, all the way to the soles of the feet, is four thirds. The breast from the neck to the navel, to loin or womb all the way to the trunk is double. The width of that to width of the hip is one and a half. From the head to the neck is threefold. Likewise, the head to the knee is threefold, and the same to the thigh and shoulder.#t_footnote(1625)[16] The length of the forehead between the temples is quadruple the height.
   ]
   #p_normal[
-    These are the measures that are found everywhere, with which the members of the human body according to the length, width, height, and circumference agree. They are in harmony with each other and with the heavens themselves. All of these numbers share many proportions, fractions, or mixtures, from which results a many-layered harmony. Indeed, a double proportion makes three 
-#emph[diapasons,] a quadruple twice a #emph[diapason,] and #emph[diapente]. In the same way, the elements, qualities, complexions, and humors are proportional: for these weights of humors and complexions are assigned to a healthy and well-composed man. They are as follows: for blood eight, phlegm four, choler two, and melancholy one. In both places are in a double proportion through the order, but the first [humor] to the third and second to the fourth are quadrupled, but the first to the last are eightfold.#t_footnote(1626)[17]
+    These are the measures that are found everywhere, with which the members of the human body according to the length, width, height, and circumference agree. They are in harmony with each other and with the heavens themselves. All of these numbers share many proportions, fractions, or mixtures, from which results a many-layered harmony. Indeed, a double proportion makes three
+    #emph[diapasons,] a quadruple twice a #emph[diapason,] and #emph[diapente]. In the same way, the elements, qualities, complexions, and humors are proportional: for these weights of humors and complexions are assigned to a healthy and well-composed man. They are as follows: for blood eight, phlegm four, choler two, and melancholy one. In both places are in a double proportion through the order, but the first [humor] to the third and second to the fourth are quadrupled, but the first to the last are eightfold.#t_footnote(1626)[17]
   ]
   #p_normal[
     Dioscorides wrote that the heart of a man in the first year weighs two drachmas, in the second four, and from there throughout the course in the fiftieth year weighs 100 drachmas. After that, it again decreases until it counts up to an equilibrium. The circuit being completed, it returns to the first limit, not surpassing the space of life from the decay of that organ. For this reason, 100 years is the length of life limited to man.#t_footnote(1627)[18] As Pliny writes, this also was believed by the Egyptians.#t_footnote(1628)[19]
   ]
   #p_normal[
-    Also, the motion of the human members correspond to the motion of the celestials, and each man has in himself the motion of the heart, which responds to the motion of the Sun, diffusing through the arteries throughout the entire human body. This indicates to us most certain years, months, days, hours, and moments. Additionally, anatomists know of a certain nerve around the 
-#emph[micham,]#t_footnote(1629)[20] when thus pulled makes all the members of man move, as if each moved by their own movement. Aristotle thought that God moves the members of the world [by an analogous mechanism].#t_footnote(1630)[21] In the neck there are veins, which divide from the throat and enter the head. When [these are] strongly pressed, the man soon collapses and loses his senses until [the veins are] released.
+    Also, the motion of the human members correspond to the motion of the celestials, and each man has in himself the motion of the heart, which responds to the motion of the Sun, diffusing through the arteries throughout the entire human body. This indicates to us most certain years, months, days, hours, and moments. Additionally, anatomists know of a certain nerve around the
+    #emph[micham,]#t_footnote(1629)[20] when thus pulled makes all the members of man move, as if each moved by their own movement. Aristotle thought that God moves the members of the world [by an analogous mechanism].#t_footnote(1630)[21] In the neck there are veins, which divide from the throat and enter the head. When [these are] strongly pressed, the man soon collapses and loses his senses until [the veins are] released.
   ]
   #p_normal[
     The eternal Maker of the world sends out the soul into the body, just as if it were a house: first, [this house is] made worthy for lodging, and gives [the soul] the noblest intellect and most beautiful body. Then the mind itself, conscious of its own divinity, molds and adorns [this house] for its own character. Hence, the people of Ethiopia who were ruled by wise Gymnosophists (as written by Aristotle), did not create kings by their strength and wealth, but by their most beautiful and most excellent form. This was because they observed that [the kings’] magnificent minds were in turn copied to their bodies.#t_footnote(1631)[22] Many ancient and recent philosophers have considered this, and probed into the secret causes of nature hidden in its majesty. They boldly asserted that there were no faults and disproportions in the body, which the fault and intemperance of the mind did not follow, because it is certain that they emerge and unify and operate with each other.
@@ -1589,8 +1589,8 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
     Therefore, when the most proportionate body is joined to the likewise most proportionate soul, the man is of such agreement, that gifts are given to him and the happiest fate is allotted to him, according to how the agreement of the soul is naturally disposed with the body. Indeed, this agreement is hidden, yet it is somewhat outlined by the wise.
   ]
   #p_normal[
-    But hurrying back to the harmony of the soul, we must search to those mediums that pass above us—namely, from the celestial bodies and spheres. By knowing which powers of the soul respond to which planets (a subject discussed above) we should easily recognize their agreements with each other.#t_footnote(1634)[3] Indeed, the Moon rules the power of increase and decrease; Mercury the power of fantasy and ingenuity; Venus the concupiscible virtue; the Sun vitality; Mars impulsiveness and anger; natural [virtues] are assigned to Jupiter; from Saturn [come] all receptive [virtues].#t_footnote(1635)[4] The will [belongs] to the 
-#emph[Primum Mobile,] leading all powers as it pleases and joining with the superior intellect, always with good intentions. Indeed, the intellect shows its way to the will as a light to the eye; yet it does not move by itself but awaits the mistress of its operations, which is why it is called free will. Although it always tends toward good as an object equal to itself, it is yet sometimes blinded by error, and is impelled to the animal powers and chooses evil believing it is good.
+    But hurrying back to the harmony of the soul, we must search to those mediums that pass above us—namely, from the celestial bodies and spheres. By knowing which powers of the soul respond to which planets (a subject discussed above) we should easily recognize their agreements with each other.#t_footnote(1634)[3] Indeed, the Moon rules the power of increase and decrease; Mercury the power of fantasy and ingenuity; Venus the concupiscible virtue; the Sun vitality; Mars impulsiveness and anger; natural [virtues] are assigned to Jupiter; from Saturn [come] all receptive [virtues].#t_footnote(1635)[4] The will [belongs] to the
+    #emph[Primum Mobile,] leading all powers as it pleases and joining with the superior intellect, always with good intentions. Indeed, the intellect shows its way to the will as a light to the eye; yet it does not move by itself but awaits the mistress of its operations, which is why it is called free will. Although it always tends toward good as an object equal to itself, it is yet sometimes blinded by error, and is impelled to the animal powers and chooses evil believing it is good.
   ]
   #p_quote[
     #emph[Free will.]
@@ -1650,8 +1650,8 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
     #emph[When the Moon is powerful.]
   ]
   #p_normal[
-    The Moon is powerful if it is in its domicile, exaltation, triplicity, or decan, or in a degree powerful in the chosen operation, or in one of the twenty-eight mansions suitable for the operation. It should not be in 
-#emph[via combusta,]#t_footnote(1654)[9] slow in course, nor in an eclipse, or in combustion from the Sun, unless strong in a unity with the Sun. Nor should it descend in a southern latitude when it passes out of combustion, nor should it be opposed the Sun, decreasing in light, or impeded by Mars or Saturn. I am unwilling to speak on these points for too long since these and many more vital things are sufficiently handled in the volumes of astrologers.#t_footnote(1655)[10]
+    The Moon is powerful if it is in its domicile, exaltation, triplicity, or decan, or in a degree powerful in the chosen operation, or in one of the twenty-eight mansions suitable for the operation. It should not be in
+    #emph[via combusta,]#t_footnote(1654)[9] slow in course, nor in an eclipse, or in combustion from the Sun, unless strong in a unity with the Sun. Nor should it descend in a southern latitude when it passes out of combustion, nor should it be opposed the Sun, decreasing in light, or impeded by Mars or Saturn. I am unwilling to speak on these points for too long since these and many more vital things are sufficiently handled in the volumes of astrologers.#t_footnote(1655)[10]
   ]
 ]
 
@@ -1891,8 +1891,8 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
     Chapter 35. How artificial things, such as images, sigils, and the like, obtain some virtues from celestial bodies.
   ]
   #p_normal[
-    So great is the magnitude, strength, and power of the celestials that not only natural things but also artificial things, when duly exposed to the superiors, suddenly experience a most powerful agent and wonderful life from above,#t_footnote(1732)[1] which often gives them a wonderful celestial virtue.#t_footnote(1733)[2] The divine teacher Saint Thomas Aquinas confirmed this in his book 
-#emph[On Fate,] where he said that even garments and any artificial works accept certain qualities from the stars.#t_footnote(1734)[3]
+    So great is the magnitude, strength, and power of the celestials that not only natural things but also artificial things, when duly exposed to the superiors, suddenly experience a most powerful agent and wonderful life from above,#t_footnote(1732)[1] which often gives them a wonderful celestial virtue.#t_footnote(1733)[2] The divine teacher Saint Thomas Aquinas confirmed this in his book
+    #emph[On Fate,] where he said that even garments and any artificial works accept certain qualities from the stars.#t_footnote(1734)[3]
   ]
   #p_normal[
     Thus, magicians not only mix and apply natural things but also images, sigils, rings, mirrors, and other suitable instruments—that is, fabricated under a certain constellation. A certain celestial enlightenment is captured, and they can secure something wonderful.
@@ -2387,11 +2387,11 @@ hundreds, such as 00 or II#super[o] is two hundred, 000 or III#super[o] is three
     #emph[Rings for dreams.]
   ]
   #p_normal[
-    This is enough said about images: now you will be able to find more about this sort of thing by yourself. But know that no operations of images of this kind [will work], unless made alive by themselves being either a natural, celestial, heroic, ensouled, daemonic, or angelic virtue instilled or attended into them. But how can a soul be given to an image and vivify a stone or metal or wood or wax and “the sons of Abraham will rise up from stones”?#t_footnote(1806)[14] Surely these secrets cannot enter into an artist with a stiff neck,#t_footnote(1807)[15] 
-nor can [the secrets] give that which [the artist] does not have; no one has 
-them unless they restrain the elements, conquer nature, overcome heaven, 
-transcend the progress of angels all the way to the Archetype itself, can then 
-cooperate with all, of which we will speak later
+    This is enough said about images: now you will be able to find more about this sort of thing by yourself. But know that no operations of images of this kind [will work], unless made alive by themselves being either a natural, celestial, heroic, ensouled, daemonic, or angelic virtue instilled or attended into them. But how can a soul be given to an image and vivify a stone or metal or wood or wax and “the sons of Abraham will rise up from stones”?#t_footnote(1806)[14] Surely these secrets cannot enter into an artist with a stiff neck,#t_footnote(1807)[15]
+    nor can [the secrets] give that which [the artist] does not have; no one has
+    them unless they restrain the elements, conquer nature, overcome heaven,
+    transcend the progress of angels all the way to the Archetype itself, can then
+    cooperate with all, of which we will speak later
   ]
 ]
 
@@ -2400,46 +2400,46 @@ cooperate with all, of which we will speak later
     Chapter 52. Of characters that are derived from things themselves with a certain similarity.#t_footnote(1808)[1]
   ]
   #p_normal[
-    We have said above that certain images are not according to a similarity of celestial image but according to an emulation of what the mind of the operator desires; and for the same reason, certain characters are understood. Accordingly, characters of this kind are no more than badly unarticulated images, yet they have a certain plausible similarity with celestial images or the desires of the operator’s mind, whether it is from the entire image, or from some certain mark portraying the entire image: just as such characters of Aries and Taurus are from the forms of horns 
-#t_img("./images/00119.jpeg"), 
-#t_img("./images/00120.jpeg"), Gemini from embracing 
-#t_img("./images/00121.jpeg"), Cancer from advancing and returning 
-#t_img("./images/00122.jpeg"), Leo, Scorpio, and Capricorn from tails 
-#t_img("./images/00123.jpeg"),
-#t_img("./images/00124.jpeg"),
-#t_img("./images/00125.jpeg"), Virgo from a spike#t_footnote(1809)[2]#t_img("./images/00126.jpeg"), 
-#t_img("./images/00127.jpeg"), Libra from a balance 
-#t_img("./images/00128.jpeg"), Sagittarius from an arrow #t_img("./images/00129.jpeg"), Aquarius from waves #t_img("./images/00130.jpeg"), and Pisces from fish #t_img("./images/00131.jpeg").
+    We have said above that certain images are not according to a similarity of celestial image but according to an emulation of what the mind of the operator desires; and for the same reason, certain characters are understood. Accordingly, characters of this kind are no more than badly unarticulated images, yet they have a certain plausible similarity with celestial images or the desires of the operator’s mind, whether it is from the entire image, or from some certain mark portraying the entire image: just as such characters of Aries and Taurus are from the forms of horns
+    #t_img("./images/00119.jpeg"),
+    #t_img("./images/00120.jpeg"), Gemini from embracing
+    #t_img("./images/00121.jpeg"), Cancer from advancing and returning
+    #t_img("./images/00122.jpeg"), Leo, Scorpio, and Capricorn from tails
+    #t_img("./images/00123.jpeg"),
+    #t_img("./images/00124.jpeg"),
+    #t_img("./images/00125.jpeg"), Virgo from a spike#t_footnote(1809)[2]#t_img("./images/00126.jpeg"),
+    #t_img("./images/00127.jpeg"), Libra from a balance
+    #t_img("./images/00128.jpeg"), Sagittarius from an arrow #t_img("./images/00129.jpeg"), Aquarius from waves #t_img("./images/00130.jpeg"), and Pisces from fish #t_img("./images/00131.jpeg").
   ]
   #p_quote[
     #emph[What characters are.]
   ]
   #p_normal[
-    For a similar reason, the character of Saturn is drawn from a sickle 
-#t_img("./images/00132.jpeg"), 
-#t_img("./images/00133.jpeg"), Jupiter a scepter 
-#t_img("./images/00134.jpeg"), 
-#t_img("./images/00135.jpeg"), Mars from a lance 
-#t_img("./images/00136.jpeg"), the Sun from a round and golden brightness #t_img("./images/00137.jpeg"), #t_img("./images/00138.jpeg"), Venus from a mirror #t_img("./images/00139.jpeg"), Mercury from a caduceus #t_img("./images/00140.jpeg"), #t_img("./images/00141.jpeg"), the Moon from the horns of increasing and decreasing #t_img("./images/00142.jpeg").
+    For a similar reason, the character of Saturn is drawn from a sickle
+    #t_img("./images/00132.jpeg"),
+    #t_img("./images/00133.jpeg"), Jupiter a scepter
+    #t_img("./images/00134.jpeg"),
+    #t_img("./images/00135.jpeg"), Mars from a lance
+    #t_img("./images/00136.jpeg"), the Sun from a round and golden brightness #t_img("./images/00137.jpeg"), #t_img("./images/00138.jpeg"), Venus from a mirror #t_img("./images/00139.jpeg"), Mercury from a caduceus #t_img("./images/00140.jpeg"), #t_img("./images/00141.jpeg"), the Moon from the horns of increasing and decreasing #t_img("./images/00142.jpeg").
   ]
   #p_normal[
-    Following these are the mixtures of the signs and stars and natures are also constituted of mixed characters, such as the triplicity of fire 
-#t_img("./images/00143.jpeg"), earth 
-#t_img("./images/00144.jpeg"), air 
-#t_img("./images/00145.jpeg"), and water 
-#t_img("./images/00146.jpeg").
+    Following these are the mixtures of the signs and stars and natures are also constituted of mixed characters, such as the triplicity of fire
+    #t_img("./images/00143.jpeg"), earth
+    #t_img("./images/00144.jpeg"), air
+    #t_img("./images/00145.jpeg"), and water
+    #t_img("./images/00146.jpeg").
   ]
   #p_normal[
     Similarly, the 120 [possible] conjunctions [of the planets] result in just as many composed characters with multilayered figures—that is,
-#t_img("./images/00147.jpeg"), or thus 
-#t_img("./images/00148.jpeg"), or thus 
-#t_img("./images/00149.jpeg"), Saturn and Mars 
-#t_img("./images/00150.jpeg"), or thus 
-#t_img("./images/00151.jpeg"), Jupiter and Mars 
-#t_img("./images/00152.jpeg"), or thus
-#t_img("./images/00153.jpeg"), Saturn, Jupiter and Mars
-#t_img("./images/00154.jpeg"), or thus
-#t_img("./images/00155.jpeg"). And so these are exemplified by two and three, and also thus from the rest and more can be formed and by the same rationale. Certain celestial images in some rising face or degree in a sign the likeness of images are briefly drawn, which are made according to the way of imitation of the desires of the mind of the operator—such as for love figures are mixed to be embracing each other, obeying each other. However, for hatred they are averted opposing from each other, attaching, separate, and dissolute. There are other characters that Hermes assigned to the fixed and Behenian stars that we must not neglect to depict here. They are:#t_footnote(1810)[3]
+    #t_img("./images/00147.jpeg"), or thus
+    #t_img("./images/00148.jpeg"), or thus
+    #t_img("./images/00149.jpeg"), Saturn and Mars
+    #t_img("./images/00150.jpeg"), or thus
+    #t_img("./images/00151.jpeg"), Jupiter and Mars
+    #t_img("./images/00152.jpeg"), or thus
+    #t_img("./images/00153.jpeg"), Saturn, Jupiter and Mars
+    #t_img("./images/00154.jpeg"), or thus
+    #t_img("./images/00155.jpeg"). And so these are exemplified by two and three, and also thus from the rest and more can be formed and by the same rationale. Certain celestial images in some rising face or degree in a sign the likeness of images are briefly drawn, which are made according to the way of imitation of the desires of the mind of the operator—such as for love figures are mixed to be embracing each other, obeying each other. However, for hatred they are averted opposing from each other, attaching, separate, and dissolute. There are other characters that Hermes assigned to the fixed and Behenian stars that we must not neglect to depict here. They are:#t_footnote(1810)[3]
   ]
   #p_normal[
     #t_img("./images/00156.jpeg")
@@ -2523,8 +2523,8 @@ cooperate with all, of which we will speak later
     With these verses, his hope of acquiring the Empire was not in vain.#t_footnote(1825)[8]
   ]
   #p_normal[
-    Likewise, among the Hebrews and us Christians, and not disapproved of by certain theologians, are lots taken from verses of Psalms. There are many more kinds of lots: there are human lots, which predict nothing, that are observed by the ancients and us and are also entrusted by laws in choosing magistrates to avoid causing envy.#t_footnote(1826)[9] Cicero also makes mention in 
-#emph[In Verrem],#t_footnote(1827)[10] but this is not our intention.
+    Likewise, among the Hebrews and us Christians, and not disapproved of by certain theologians, are lots taken from verses of Psalms. There are many more kinds of lots: there are human lots, which predict nothing, that are observed by the ancients and us and are also entrusted by laws in choosing magistrates to avoid causing envy.#t_footnote(1826)[9] Cicero also makes mention in
+    #emph[In Verrem],#t_footnote(1827)[10] but this is not our intention.
   ]
   #p_normal[
     However, divine and sacred lots are observed from oracles and religion, of these, we will discuss in the following book. In this way, I must admonish you that whatever presages, divinations, or predictions you learn from lots, these are not because of the lots themselves, but by virtue of some higher operation bound to them.

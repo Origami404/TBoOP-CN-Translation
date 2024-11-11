@@ -311,8 +311,8 @@
     In these, by certain numbers, degrees, and orders, is the consummation of all effects in whatever things are natural, celestial, or supercelestial. They are full of wonders and mysteries and can operate in magic as well as with the natural and the divine. Indeed, through the [threefold nature], all things are bound, dissolved, and changed; there is knowledge and prediction of the future, the destruction of evil daemons, and the connection with good spirits after their descent.
   ]
   #p_normal[
-    Therefore, without the triplicities of the elements and the understanding of them, no one can confidently work in the occult sciences of magic and nature. But whoever can learn to reduce impurity into purity, multiplicity into simplicity, and also discernibly know nature, virtue, strength in number, and degree and order without dividing substance, 
-will easily possess the knowledge of all natural things and perfect operation of celestial secrets.#t_footnote(70)[2]
+    Therefore, without the triplicities of the elements and the understanding of them, no one can confidently work in the occult sciences of magic and nature. But whoever can learn to reduce impurity into purity, multiplicity into simplicity, and also discernibly know nature, virtue, strength in number, and degree and order without dividing substance,
+    will easily possess the knowledge of all natural things and perfect operation of celestial secrets.#t_footnote(70)[2]
   ]
 ]
 
@@ -555,8 +555,8 @@ will easily possess the knowledge of all natural things and perfect operation of
     Likewise, in plants, roots imitate earth because of their density, but leaves imitate water because of their juice, flowers after air because of their fineness, and seeds after fire because of their generative spirit. Additionally, some are called hot, some cold, some moist, and others dry, and they borrow their names from the qualities of the elements.
   ]
   #p_normal[
-    Among animals, there are some earthly ones that stand out from the others, because they live in the heart of the earth, such as vermin, worms, moles, and many reptiles. Others are watery, such as fish. Others are airy and are unable to live outside of the air. Some are fiery, inhabiting fire, such as the salamander and some cicadas (which are called 
-		#emph[pyraustae]),#t_footnote(111)[5] and others who boil with a certain heat, such as pigeons, ostriches, and lions,#t_footnote(112)[6] which the #emph[Book of Wisdom] calls “beasts that breathe with a fiery vapor.”#t_footnote(113)[7] Additionally, in animals, bones refer to earth, flesh to air, the vital spirit to fire, and the humors to water. These also share from the elements: for red#t_footnote(114)[8] cholera belongs to fire, blood is air, phlegm is water, and black bile is earth. Finally, in the soul itself, as Augustine testified, the intellect refers to fire, reason to air, imagination to water, and indeed the senses to earth. Also [the senses] are distributed together among the elements: for vision is fiery, for it cannot perceive without fire and light. Hearing is airy, for sound is made from striking the air. Smell and taste refer to water, for without moisture neither smell nor taste happens. Finally, touch is entirely earthy, as it receives dense bodies for itself.#t_footnote(115)[9] Likewise, the elements guide the actions and operations of man. Indeed, slow and dense motion is signified by earth; fear, ignorance, and relaxed operations by water; a cheerful and friendly character by air; sharp impetuosity and anger by fire.#t_footnote(116)[10]
+    Among animals, there are some earthly ones that stand out from the others, because they live in the heart of the earth, such as vermin, worms, moles, and many reptiles. Others are watery, such as fish. Others are airy and are unable to live outside of the air. Some are fiery, inhabiting fire, such as the salamander and some cicadas (which are called
+    #emph[pyraustae]),#t_footnote(111)[5] and others who boil with a certain heat, such as pigeons, ostriches, and lions,#t_footnote(112)[6] which the #emph[Book of Wisdom] calls “beasts that breathe with a fiery vapor.”#t_footnote(113)[7] Additionally, in animals, bones refer to earth, flesh to air, the vital spirit to fire, and the humors to water. These also share from the elements: for red#t_footnote(114)[8] cholera belongs to fire, blood is air, phlegm is water, and black bile is earth. Finally, in the soul itself, as Augustine testified, the intellect refers to fire, reason to air, imagination to water, and indeed the senses to earth. Also [the senses] are distributed together among the elements: for vision is fiery, for it cannot perceive without fire and light. Hearing is airy, for sound is made from striking the air. Smell and taste refer to water, for without moisture neither smell nor taste happens. Finally, touch is entirely earthy, as it receives dense bodies for itself.#t_footnote(115)[9] Likewise, the elements guide the actions and operations of man. Indeed, slow and dense motion is signified by earth; fear, ignorance, and relaxed operations by water; a cheerful and friendly character by air; sharp impetuosity and anger by fire.#t_footnote(116)[10]
   ]
   #p_normal[
     Therefore, the elements are the first, everything exists because of them, everything follows them, and they diffuse their strengths to everything.
@@ -688,8 +688,8 @@ will easily possess the knowledge of all natural things and perfect operation of
     Chapter 11. How occult virtues are infused into kinds of things by ideas through the World Soul, the stellar rays, and which things are most abundant with this virtue.
   ]
   #p_normal[
-    According to Platonists, all inferior ideas come from superior Ideas.#t_footnote(161)[1] 
-They define an Idea as a form above bodies, souls, minds; singular, simple, pure; unchangeable, indivisible, incorporeal, and eternal. The nature of all Ideas is the same.
+    According to Platonists, all inferior ideas come from superior Ideas.#t_footnote(161)[1]
+    They define an Idea as a form above bodies, souls, minds; singular, simple, pure; unchangeable, indivisible, incorporeal, and eternal. The nature of all Ideas is the same.
   ]
   #p_normal[
     But they placed ideas in the Good itself—that is, with God— through the manner of cause. They are only distinguished from each other by certain relative reasons, or else whatever is in the world shall be one thing without variety, yet they agree with each other in essence, or else God would be a multiple substance. In the second place, is the intelligible—that is, the World Soul—through their own forms and absolute superior forms; they are different from each other.
@@ -734,8 +734,8 @@ They define an Idea as a form above bodies, souls, minds; singular, simple, pure
     Chapter 13. From where occult virtues of things proceed.
   ]
   #p_normal[
-    It is well known to all that there is a certain virtue in lodestones#t_footnote(176)[1] that attracts iron and that the presence of a diamond destroys that virtue.#t_footnote(177)[2] Additionally, amber and the balas ruby#t_footnote(178)[3] draw chaff when rubbed. The stone asbestos once kindled cannot be or can hardly be extinguished. The carbuncle#t_footnote(179)[4] shines in darkness. The stone aetite#t_footnote(180)[5] placed above a pregnant woman or [fruit from a] plant strengthens them; if under [the woman or fruit], destroys#t_footnote(181)[6] them. Jasper#t_footnote(182)[7] stops bleeding. The echeneis#t_footnote(183)[8] stops ships. Rhubarb expels choler.#t_footnote(184)[9] A chameleon’s liver burned on the top of a roof raises rain and thunder.#t_footnote(185)[10] The stone heliotrope blinds#t_footnote(186)[11] the eyes and makes the wearer invisible. The stone #emph[lyncurius] removes deceptions from the eye.#t_footnote(187)[12] A fumigation of liparis summons all beasts.#t_footnote(188)[13]#emph[Synochitides] summon infernal shades, but #emph[anachitides] makes the images of gods appear.#t_footnote(189)[14] The 
-#emph[ennectis]#t_footnote(190)[15] placed under someone causes oracular dreams.#t_footnote(191)[16]
+    It is well known to all that there is a certain virtue in lodestones#t_footnote(176)[1] that attracts iron and that the presence of a diamond destroys that virtue.#t_footnote(177)[2] Additionally, amber and the balas ruby#t_footnote(178)[3] draw chaff when rubbed. The stone asbestos once kindled cannot be or can hardly be extinguished. The carbuncle#t_footnote(179)[4] shines in darkness. The stone aetite#t_footnote(180)[5] placed above a pregnant woman or [fruit from a] plant strengthens them; if under [the woman or fruit], destroys#t_footnote(181)[6] them. Jasper#t_footnote(182)[7] stops bleeding. The echeneis#t_footnote(183)[8] stops ships. Rhubarb expels choler.#t_footnote(184)[9] A chameleon’s liver burned on the top of a roof raises rain and thunder.#t_footnote(185)[10] The stone heliotrope blinds#t_footnote(186)[11] the eyes and makes the wearer invisible. The stone #emph[lyncurius] removes deceptions from the eye.#t_footnote(187)[12] A fumigation of liparis summons all beasts.#t_footnote(188)[13]#emph[Synochitides] summon infernal shades, but #emph[anachitides] makes the images of gods appear.#t_footnote(189)[14] The
+    #emph[ennectis]#t_footnote(190)[15] placed under someone causes oracular dreams.#t_footnote(191)[16]
   ]
   #p_normal[
     There is an Ethiopian herb that dries pools and causes everything to be uncovered; and there is an herb called #emph[latacem]#t_footnote(192)[17] that Persian kings gave to their legates so that wherever they go they will have an abundance of things.#t_footnote(193)[18] There is a Spartan#t_footnote(194)[19] or Scythian herb, that when tasted or even held to the mouth, will allow the Scythians to endure twelve days of hunger and thirst.#t_footnote(195)[20] Apuleius said that he was taught well by God#t_footnote(196)[21] that there were many kinds of herbs and stones, which can give perpetual life to men: but could not speak of this knowledge for men to understand it, since men have a short time to live, eagerly desire evil, and do nothing that is not wicked. If their time is extended, the gods themselves would not be spared.#t_footnote(197)[22]
@@ -750,8 +750,8 @@ They define an Idea as a form above bodies, souls, minds; singular, simple, pure
     Consequently, the Academy together with Plato attributed these virtues to Ideas, the fashioner#t_footnote(198)[23] of things. But Avicenna reduced these operations to intelligences, Hermes to the stars, and Albertus to the specific forms of things. Although these authorities saw each other as adversaries, none of them—if correctly understood—departed from the truth, since all spoke to the same effect in most respects.
   ]
   #p_normal[
-    Indeed, God is the primary beginning and end of all virtues. His attendants, the intelligences, administer the seal of the Ideas—who, as faithful executors, seal each thing they believe to be an ideal virtue. Meanwhile, the heavens and stars as instruments dispose the matter for receiving those forms that reside in the Divine Majesty (as Plato said in the 
-#emph[Timaeus]) and are carried by the stars. Then the Giver of Forms distributes them through the ministry of his intelligences, which He placed as rulers and guardians over his works to whom he entrusted the faculty in things, such as the virtue of all stones, herbs, metals and all other things that are from the presiding intelligences.
+    Indeed, God is the primary beginning and end of all virtues. His attendants, the intelligences, administer the seal of the Ideas—who, as faithful executors, seal each thing they believe to be an ideal virtue. Meanwhile, the heavens and stars as instruments dispose the matter for receiving those forms that reside in the Divine Majesty (as Plato said in the
+    #emph[Timaeus]) and are carried by the stars. Then the Giver of Forms distributes them through the ministry of his intelligences, which He placed as rulers and guardians over his works to whom he entrusted the faculty in things, such as the virtue of all stones, herbs, metals and all other things that are from the presiding intelligences.
   ]
   #p_normal[
     Therefore, form and virtue emerge first from the Ideas, then from the presiding and ruling intelligences, then from the aspects set in the heavens, and finally from the elements disposing the complexion of the corresponding celestial influences, from which the elements themselves are disposed. Therefore, these sorts of operations are managed in more inferior things through distinct forms, but in the heavens by disposing virtues; in the intelligences through mediating reason; in the Archetype through Ideas and exemplary forms. All of these must agree to bring about the effect and virtue of each thing.#t_footnote(199)[24]
@@ -895,9 +895,9 @@ They define an Idea as a form above bodies, souls, minds; singular, simple, pure
     Thus, beasts have taught men very well about many remedies from sickness and the virtues of things. For instance, swallows have shown us that celandine#t_footnote(258)[21] is helpful for sight, with which they heal the eyes of their chicks.#t_footnote(259)[22] Magpies when sick bring a laurel leaf into their nest and then grow stronger. Likewise [with laurel], wood pigeons,#t_footnote(260)[23] jackdaws, partridges, and blackbirds purge their nauseous stomachs. Similarly, ravens#t_footnote(261)[24] and chameleons also extinguish poison [with that plant].#t_footnote(262)[25] Lions, if feverish, will grow stronger if they eat an ape.#t_footnote(263)[26] Hoopoes,#t_footnote(264)[27] if injured by eating a grape, are healed by maidenhair.#t_footnote(265)[28]
   ]
   #p_normal[
-    Thus, stags have taught us that dittany is a useful herb for extracting arrows since they eject the piercing dart by eating that herb.#t_footnote(266)[29] It is the same for Cretan goats.#t_footnote(267)[30] Deer, somewhat before they give birth, purge themselves with a certain herb that is called hartwort.#t_footnote(268)[31] Likewise, when venomous spiders wound deer they [the deer] eat crabs to restore their health.#t_footnote(269)[32] Also, pigs, when serpents bite them, cure themselves by eating [crabs].#t_footnote(270)[33] Ravens, when they feel that they are poisoned by a 
-#emph[toxico gallico,]#t_footnote(271)[34] use an oak, or others say the #emph[corvativam,]#t_footnote(272)[35] to seek a cure.#t_footnote(273)[36] Elephants, when they devour a chameleon, help themselves with the wild olive. Bears, when hurt by the mandrake, escape [danger] by eating ants. Geese, ducks and other aquatic birds heal themselves with the herb ironwort.#t_footnote(274)[37] Pigeons, turtledoves, and hens [heal themselves] with the herb 
-#emph[helxine,]#t_footnote(275)[38] and cranes [heal themselves] with rushes. Leopards heal themselves against wolfsbane with human feces, boars with ivy, and deer with the herb artichoke.#t_footnote(276)[39]
+    Thus, stags have taught us that dittany is a useful herb for extracting arrows since they eject the piercing dart by eating that herb.#t_footnote(266)[29] It is the same for Cretan goats.#t_footnote(267)[30] Deer, somewhat before they give birth, purge themselves with a certain herb that is called hartwort.#t_footnote(268)[31] Likewise, when venomous spiders wound deer they [the deer] eat crabs to restore their health.#t_footnote(269)[32] Also, pigs, when serpents bite them, cure themselves by eating [crabs].#t_footnote(270)[33] Ravens, when they feel that they are poisoned by a
+    #emph[toxico gallico,]#t_footnote(271)[34] use an oak, or others say the #emph[corvativam,]#t_footnote(272)[35] to seek a cure.#t_footnote(273)[36] Elephants, when they devour a chameleon, help themselves with the wild olive. Bears, when hurt by the mandrake, escape [danger] by eating ants. Geese, ducks and other aquatic birds heal themselves with the herb ironwort.#t_footnote(274)[37] Pigeons, turtledoves, and hens [heal themselves] with the herb
+    #emph[helxine,]#t_footnote(275)[38] and cranes [heal themselves] with rushes. Leopards heal themselves against wolfsbane with human feces, boars with ivy, and deer with the herb artichoke.#t_footnote(276)[39]
   ]
 ]
 
@@ -921,26 +921,26 @@ They define an Idea as a form above bodies, souls, minds; singular, simple, pure
     #emph[Antipathy and disagreement of animals.]
   ]
   #p_normal[
-    Again, among animals, mice and weasels disagree: so that with cheese, if the brains of a weasel are added to the rennet, mice will not touch it, and [the cheese] will not spoil with age.#t_footnote(293)[17] Scorpions so oppose lizards that even the sight of them causes fear and freezes them in a cold sweat. Therefore, they putrefy [the lizard] in oil, and with it, kill them and also anoint scorpion stings.#t_footnote(294)[18] There is also an enmity between scorpions and mice. We read that if a mouse is placed under a scorpion sting it will be cured.#t_footnote(295)[19] There is an enmity between scorpions and 
-	#emph[stalabores,]#t_footnote(296)[20] asps, and ichneumons.#t_footnote(297)[21] It is also said that there are no such adversaries as serpents against crabs, and if a pig is stung they will eat [a crab] and be healed; also, when the Sun is in Cancer, serpents are tormented.#t_footnote(298)[22] Scorpions and crocodiles destroy each other.#t_footnote(299)[23] If the feather of an ibis touches a crocodile, he will be immobilized.#t_footnote(300)[24] The bird [called a] bustard flies away when it sees a horse.#t_footnote(301)[25] A stag will flee when it sees a ram#t_footnote(302)[26] and also flee when it sees a viper.#t_footnote(303)[27] Elephants react with fear at sound of a grunting pig,#t_footnote(304)[28] just as lions do when they see a rooster.#t_footnote(305)[29] Leopards will not touch something that is anointed with the broth of a hen, especially if garlic is boiled in it.#t_footnote(306)[30] There is also an enmity between foxes, swans, bulls, and crows.#t_footnote(307)[31]
+    Again, among animals, mice and weasels disagree: so that with cheese, if the brains of a weasel are added to the rennet, mice will not touch it, and [the cheese] will not spoil with age.#t_footnote(293)[17] Scorpions so oppose lizards that even the sight of them causes fear and freezes them in a cold sweat. Therefore, they putrefy [the lizard] in oil, and with it, kill them and also anoint scorpion stings.#t_footnote(294)[18] There is also an enmity between scorpions and mice. We read that if a mouse is placed under a scorpion sting it will be cured.#t_footnote(295)[19] There is an enmity between scorpions and
+    #emph[stalabores,]#t_footnote(296)[20] asps, and ichneumons.#t_footnote(297)[21] It is also said that there are no such adversaries as serpents against crabs, and if a pig is stung they will eat [a crab] and be healed; also, when the Sun is in Cancer, serpents are tormented.#t_footnote(298)[22] Scorpions and crocodiles destroy each other.#t_footnote(299)[23] If the feather of an ibis touches a crocodile, he will be immobilized.#t_footnote(300)[24] The bird [called a] bustard flies away when it sees a horse.#t_footnote(301)[25] A stag will flee when it sees a ram#t_footnote(302)[26] and also flee when it sees a viper.#t_footnote(303)[27] Elephants react with fear at sound of a grunting pig,#t_footnote(304)[28] just as lions do when they see a rooster.#t_footnote(305)[29] Leopards will not touch something that is anointed with the broth of a hen, especially if garlic is boiled in it.#t_footnote(306)[30] There is also an enmity between foxes, swans, bulls, and crows.#t_footnote(307)[31]
   ]
   #p_normal[
-    Likewise, among birds, there is a perpetual battle between crows and owls, kites and ravens, 
-#emph[pitalles]#t_footnote(308)[32] and turtledoves, #emph[bicuthus] and #emph[pagrus,]#t_footnote(309)[33] yellow thrush and turtledoves,#t_footnote(310)[34]#emph[Aegepii]#t_footnote(311)[35] and eagles, stags and dragons.#t_footnote(312)[36]
+    Likewise, among birds, there is a perpetual battle between crows and owls, kites and ravens,
+    #emph[pitalles]#t_footnote(308)[32] and turtledoves, #emph[bicuthus] and #emph[pagrus,]#t_footnote(309)[33] yellow thrush and turtledoves,#t_footnote(310)[34]#emph[Aegepii]#t_footnote(311)[35] and eagles, stags and dragons.#t_footnote(312)[36]
   ]
   #p_normal[
-    Among the aquatics, there are also enmities such as between dolphins and whales, 
-#emph[cestris] and the wolf-fish,#t_footnote(313)[37] and eels and congers. Likewise, crustaceans frighten polyps to such an extent that when they see one nearby, they suddenly die. Crustaceans [are against] congers, and again the congers destroy polyps.#t_footnote(314)[38]
+    Among the aquatics, there are also enmities such as between dolphins and whales,
+    #emph[cestris] and the wolf-fish,#t_footnote(313)[37] and eels and congers. Likewise, crustaceans frighten polyps to such an extent that when they see one nearby, they suddenly die. Crustaceans [are against] congers, and again the congers destroy polyps.#t_footnote(314)[38]
   ]
   #p_normal[
-    Likewise, leopards are said to be in fear of hyenas to such an extent that they cannot withstand it, and in any way touch [the hyena’s] skin. If the skins of each are hanged one against the other, the hairs of the leopard skin will drop off;#t_footnote(315)[39] as Horapollo#t_footnote(316)[40] said in the 
-#emph[Hieroglyphics:] “If one is girded with the pelt of a hyena and walks in the midst of his enemies, he will not be hurt and will calmly pass.”#t_footnote(317)[41] Likewise, lambs have an enmity with wolves (which offend them) and flee from them in dread.#t_footnote(318)[42] 
-They say that if a wolf’s tail, skin, or head is hung over a sheep pen, the 
-sheep are sad, will not eat, and are fearful before it. Pliny reported that the small bird 
-#emph[esalon]#t_footnote(319)[43] breaks the eggs of ravens whose chicks are antagonized by the fox and that she will, in turn, pluck the fox’s young. If a raven sees [an 
-#emph[esalon]] it will help [the fox] as they are facing a common enemy. The #emph[acanthus,]#t_footnote(320)[44] a small bird living among thorn bushes, hates asses because they eat the flowers of its thorn bushes. However, the small bird 
-#emph[egithus]#t_footnote(321)[45] has such a great dissent with asses that their blood cannot be mixed together, and the bellowing [of an ass] will kill the eggs and young of an 
-#emph[egithus].#t_footnote(322)[46]
+    Likewise, leopards are said to be in fear of hyenas to such an extent that they cannot withstand it, and in any way touch [the hyena’s] skin. If the skins of each are hanged one against the other, the hairs of the leopard skin will drop off;#t_footnote(315)[39] as Horapollo#t_footnote(316)[40] said in the
+    #emph[Hieroglyphics:] “If one is girded with the pelt of a hyena and walks in the midst of his enemies, he will not be hurt and will calmly pass.”#t_footnote(317)[41] Likewise, lambs have an enmity with wolves (which offend them) and flee from them in dread.#t_footnote(318)[42]
+    They say that if a wolf’s tail, skin, or head is hung over a sheep pen, the
+    sheep are sad, will not eat, and are fearful before it. Pliny reported that the small bird
+    #emph[esalon]#t_footnote(319)[43] breaks the eggs of ravens whose chicks are antagonized by the fox and that she will, in turn, pluck the fox’s young. If a raven sees [an
+    #emph[esalon]] it will help [the fox] as they are facing a common enemy. The #emph[acanthus,]#t_footnote(320)[44] a small bird living among thorn bushes, hates asses because they eat the flowers of its thorn bushes. However, the small bird
+    #emph[egithus]#t_footnote(321)[45] has such a great dissent with asses that their blood cannot be mixed together, and the bellowing [of an ass] will kill the eggs and young of an
+    #emph[egithus].#t_footnote(322)[46]
   ]
   #p_normal[
     Likewise, there is such a great dissent between olives and prostitutes that, if she plants it, [the olive] will either perpetually be unfruitful or it will wither up entirely.#t_footnote(323)[47] Lions fear nothing more than burning torches nor is anything believed to subdue them more than this.#t_footnote(324)[48] A wolf fears neither iron nor spear, yet when stones are thrown, [they] cause wounds that beget worms.#t_footnote(325)[49] Horses fear camels#t_footnote(326)[50] to such an extent that they cannot endure to see a camel’s appearance or perceive it. A raging elephant, when seeing a ram,#t_footnote(327)[51] is subdued. A snake fears a nude man, but when a man is clothed the snake attacks. A raging bull, if bound to a fig tree, weakens its attack. Amber draws everything to it except basil and that which is smeared with oil,#t_footnote(328)[52] with which it naturally disagrees.
@@ -1012,8 +1012,8 @@ sheep are sad, will not eat, and are fearful before it. Pliny reported that the 
     Hence, from this, there is a general precept, that whatever is collected from animals (or stones, members, or waste such as hair, dung, or hooves), that these should be taken from animals that are still living and, if possible, remain alive afterward.#t_footnote(361)[4] From this, it is taught: “If you collect the tongue of a frog, then throw the frog alive back into the water; if you collect the tooth or eye#t_footnote(362)[5] of a wolf, do not kill the wolf,” and so on.
   ]
   #p_normal[
-    Thus, Democritus wrote that if the tongue of a living sea-frog is removed with no other part of the body attached to it, [and the frog] dropped into the sea, and [the tongue] then placed over the beating heart of a sleeping woman, she will respond truthfully to whatever is asked.#t_footnote(363)[6] In a similar way, if a frog’s eyes are bound to a sick person before the Sun rises, and [the frog] thus blinded be released in the water, it promises to cure tertian#t_footnote(364)[7] fever. Also, a nightingale’s flesh bound in the skin of a deer is excellent for staying awake and keeping sleep away.#t_footnote(365)[8] Similarly, the ray of a stingray#t_footnote(366)[9] bound to the navel makes easier childbirths. If [the ray is] taken while living, [the stingray] must be thrown in the sea again.#t_footnote(367)[10] It is said that the right eye of a serpent bound [to a patient] is useful against watering [of the eyes]. If the serpent lives, then release it.#t_footnote(368)[11] There is a certain fish or great serpent called 
-	#emph[myrus,]#t_footnote(369)[12] whose eye, if it is plucked out and bound to the forehead of the patient, is said to cure inflammation of the eyes. However, the fish’s eye will be born again, but the other eye should be taken if it cannot be released alive.#t_footnote(370)[13] Likewise, the teeth of all serpents, when removed while they are living and suspended above the patient, are said to cure quartan fever.#t_footnote(371)[14] Also, the teeth removed from a live mole, which is then released, cure toothaches.#t_footnote(372)[15] Dogs will not bark at those having a tail of a weasel that was released.#t_footnote(373)[16] Democritus said that a chameleon’s tail, if taken while living, is good for exerting influence on the outcome of judgments and also for healthy childbirth near the home. However, beware that it not be brought inside the home, because it might be destructive.#t_footnote(374)[17]
+    Thus, Democritus wrote that if the tongue of a living sea-frog is removed with no other part of the body attached to it, [and the frog] dropped into the sea, and [the tongue] then placed over the beating heart of a sleeping woman, she will respond truthfully to whatever is asked.#t_footnote(363)[6] In a similar way, if a frog’s eyes are bound to a sick person before the Sun rises, and [the frog] thus blinded be released in the water, it promises to cure tertian#t_footnote(364)[7] fever. Also, a nightingale’s flesh bound in the skin of a deer is excellent for staying awake and keeping sleep away.#t_footnote(365)[8] Similarly, the ray of a stingray#t_footnote(366)[9] bound to the navel makes easier childbirths. If [the ray is] taken while living, [the stingray] must be thrown in the sea again.#t_footnote(367)[10] It is said that the right eye of a serpent bound [to a patient] is useful against watering [of the eyes]. If the serpent lives, then release it.#t_footnote(368)[11] There is a certain fish or great serpent called
+    #emph[myrus,]#t_footnote(369)[12] whose eye, if it is plucked out and bound to the forehead of the patient, is said to cure inflammation of the eyes. However, the fish’s eye will be born again, but the other eye should be taken if it cannot be released alive.#t_footnote(370)[13] Likewise, the teeth of all serpents, when removed while they are living and suspended above the patient, are said to cure quartan fever.#t_footnote(371)[14] Also, the teeth removed from a live mole, which is then released, cure toothaches.#t_footnote(372)[15] Dogs will not bark at those having a tail of a weasel that was released.#t_footnote(373)[16] Democritus said that a chameleon’s tail, if taken while living, is good for exerting influence on the outcome of judgments and also for healthy childbirth near the home. However, beware that it not be brought inside the home, because it might be destructive.#t_footnote(374)[17]
   ]
   #p_quote[
     #emph[Things after death may retain their powers.]
@@ -1082,8 +1082,8 @@ sheep are sad, will not eat, and are fearful before it. Pliny reported that the 
     Remember and know this succession, because things that are under any of the planets have a certain singular appearance or inclination attributed to that same planet, and especially its domicile or exaltation. The remaining dignities are less than these—that is, the triplicities, terms,#t_footnote(390)[10] and decans.#t_footnote(391)[11]
   ]
   #p_normal[
-    Therefore, according to this rationale, peony, citron, clove,#t_footnote(392)[12] citrus peel, marjoram, 
-#emph[doronicum,]#t_footnote(393)[13] cinnamon, saffron, lignum aloe, frankincense, amber, musk, and partially myrrh cure the head and heart#t_footnote(394)[14] because of the Sun, Aries, and Leo. Thus, the greater plantago,#t_footnote(395)[15] a Martial herb, heals the head and testicles#t_footnote(396)[16] according to Aries and Scorpio and so on.
+    Therefore, according to this rationale, peony, citron, clove,#t_footnote(392)[12] citrus peel, marjoram,
+    #emph[doronicum,]#t_footnote(393)[13] cinnamon, saffron, lignum aloe, frankincense, amber, musk, and partially myrrh cure the head and heart#t_footnote(394)[14] because of the Sun, Aries, and Leo. Thus, the greater plantago,#t_footnote(395)[15] a Martial herb, heals the head and testicles#t_footnote(396)[16] according to Aries and Scorpio and so on.
   ]
   #p_normal[
     Additionally, Saturn brings sadness and melancholy, Jupiter joy and authority, and Mars audacity, violence, and anger. The Sun brings glory, victory, and boldness. Venus brings love, desire, and longing. Mercury brings eloquence. The Moon is for common life.
@@ -1101,10 +1101,10 @@ sheep are sad, will not eat, and are fearful before it. Pliny reported that the 
     Chapter 23. How we shall know under which star natural things are and which things are Solar.
   ]
   #p_normal[
-    It is truly very difficult to 
-understand which star or sign a thing is under. Yet they are understood through 
-the imitation of their rays, movement, or figure of the superiors. Some are also 
-[understood] by colors and scents, some also through the effects of their operations agreeing with certain stars.#t_footnote(398)[1]
+    It is truly very difficult to
+    understand which star or sign a thing is under. Yet they are understood through
+    the imitation of their rays, movement, or figure of the superiors. Some are also
+    [understood] by colors and scents, some also through the effects of their operations agreeing with certain stars.#t_footnote(398)[1]
   ]
   #p_normal[
     Thus, among Solar [things] are elemental fire and bright flame; in humors, pure blood and vital spirit; among tastes, mixed sharp and sweet.#t_footnote(399)[2]
@@ -1113,9 +1113,9 @@ the imitation of their rays, movement, or figure of the superiors. Some are also
     Among metals, [the Sun has] gold because of its splendor and because [gold] has its strengthening heart from the Sun.#t_footnote(400)[3]
   ]
   #p_normal[
-    Among stones, however, are those with golden drops that imitate the Sun’s rays, such as the stone aetite, which has a virtue against falling sickness and poison. Also, the stone that is called the “eye of the Sun”#t_footnote(401)[4] has a figure similar to the pupil of an eye, and from its center, it emits a ray#t_footnote(402)[5] that strengthens the brain and sharpens#t_footnote(403)[6] the eye. The carbuncle shines at night and has a virtue against all airy and vaporous poisons. The stone chrysolite is weak in color and a clear green. When placed opposite the Sun, it emits a golden star. It strengthens the spirit and helps asthma; when [chrysolite is] pierced, the hole being filled with the hairs of an ass and bound to the left arm, it chases away phantasms and melancholy terrors as well as repels follies.#t_footnote(404)[7] The stone iris, similar in color to the crystal, is frequently found as a hexagon. When under a roof, and part of it placed opposite the rays of the Sun, and the other part held in the shadow, it collects the Sun’s rays into itself. It then projects the reflection, making a rainbow appear on the opposite wall.#t_footnote(405)[8] Likewise, the stone heliotrope, green in the manner of a jasper or emerald with starry red drops, makes one constant, glorious, and famous and brings long life. It also has a wondrous virtue that if it is in the Sun’s rays, it is said to change into blood—that is, it appears to be like blood as if the Sun suffered an eclipse; evidently when it is anointed with the juice of the herb of the same name and placed in a vessel filled with water. There is another more wondrous virtue in the eyes of men, which offends the sight and blinds the vision so that it will not permit men to see those who bear it;#t_footnote(406)[9] 
-yet it does not happen without the help of the herb of the same name, which is 
-also called heliotrope—that is, following the Sun. These virtues were confirmed in the writings of Albertus Magnus and William of Auvergne.#t_footnote(407)[10]
+    Among stones, however, are those with golden drops that imitate the Sun’s rays, such as the stone aetite, which has a virtue against falling sickness and poison. Also, the stone that is called the “eye of the Sun”#t_footnote(401)[4] has a figure similar to the pupil of an eye, and from its center, it emits a ray#t_footnote(402)[5] that strengthens the brain and sharpens#t_footnote(403)[6] the eye. The carbuncle shines at night and has a virtue against all airy and vaporous poisons. The stone chrysolite is weak in color and a clear green. When placed opposite the Sun, it emits a golden star. It strengthens the spirit and helps asthma; when [chrysolite is] pierced, the hole being filled with the hairs of an ass and bound to the left arm, it chases away phantasms and melancholy terrors as well as repels follies.#t_footnote(404)[7] The stone iris, similar in color to the crystal, is frequently found as a hexagon. When under a roof, and part of it placed opposite the rays of the Sun, and the other part held in the shadow, it collects the Sun’s rays into itself. It then projects the reflection, making a rainbow appear on the opposite wall.#t_footnote(405)[8] Likewise, the stone heliotrope, green in the manner of a jasper or emerald with starry red drops, makes one constant, glorious, and famous and brings long life. It also has a wondrous virtue that if it is in the Sun’s rays, it is said to change into blood—that is, it appears to be like blood as if the Sun suffered an eclipse; evidently when it is anointed with the juice of the herb of the same name and placed in a vessel filled with water. There is another more wondrous virtue in the eyes of men, which offends the sight and blinds the vision so that it will not permit men to see those who bear it;#t_footnote(406)[9]
+    yet it does not happen without the help of the herb of the same name, which is
+    also called heliotrope—that is, following the Sun. These virtues were confirmed in the writings of Albertus Magnus and William of Auvergne.#t_footnote(407)[10]
   ]
   #p_quote[
     #emph[The stone chrysolite.]
@@ -1130,12 +1130,12 @@ also called heliotrope—that is, following the Sun. These virtues were confirme
     #emph[Pyrophilos.]
   ]
   #p_normal[
-    Hyacinth#t_footnote(408)[11] also has a Solar virtue against poisons and pestilential vapors. When carried, [the person carrying it] is rendered safe and acceptable. It brings wealth and talent, as well as strengthing the heart. When held in the mouth, [hyacinths] exceedingly cheer the mind.#t_footnote(409)[12] There is also the 
-#emph[pyrophilos,]#t_footnote(410)[13] a stone of mixed red. Albertus testified that Asclepius wrote this in one of his letters about Octavian Augustus: that this poison was so cold that the heart of a man is preserved from death by burning. Thus, if it is placed in fire for some time it is changed to stone. [For this reason], it is called 
-#emph[pyrophilos:] “from fire.” It has a wonderful virtue against poison, and it renders the bearer ambitious and formidable against adversaries.#t_footnote(411)[14] But above everything that is Solar is the stone called the 
-#emph[pantaura,] which is said to have been found by Apollonius.#t_footnote(412)[15] It draws other stones to itself, like lodestones with iron, and is effective against all poisons.#t_footnote(413)[16] Others call it 
-#emph[pantherus] because it has spots like the leopard.#t_footnote(414)[17] Likewise is the [stone] called 
-#emph[panthocras,]#t_footnote(415)[18] which contains all colors. Aaron called this #emph[evanthum].#t_footnote(416)[19] Other Solar [stones] are the topaz, chrysoprase, ruby, and balas ruby.#t_footnote(417)[20] Likewise solar are the orpiment and things goldencolored and very bright.#t_footnote(418)[21]
+    Hyacinth#t_footnote(408)[11] also has a Solar virtue against poisons and pestilential vapors. When carried, [the person carrying it] is rendered safe and acceptable. It brings wealth and talent, as well as strengthing the heart. When held in the mouth, [hyacinths] exceedingly cheer the mind.#t_footnote(409)[12] There is also the
+    #emph[pyrophilos,]#t_footnote(410)[13] a stone of mixed red. Albertus testified that Asclepius wrote this in one of his letters about Octavian Augustus: that this poison was so cold that the heart of a man is preserved from death by burning. Thus, if it is placed in fire for some time it is changed to stone. [For this reason], it is called
+    #emph[pyrophilos:] “from fire.” It has a wonderful virtue against poison, and it renders the bearer ambitious and formidable against adversaries.#t_footnote(411)[14] But above everything that is Solar is the stone called the
+    #emph[pantaura,] which is said to have been found by Apollonius.#t_footnote(412)[15] It draws other stones to itself, like lodestones with iron, and is effective against all poisons.#t_footnote(413)[16] Others call it
+    #emph[pantherus] because it has spots like the leopard.#t_footnote(414)[17] Likewise is the [stone] called
+    #emph[panthocras,]#t_footnote(415)[18] which contains all colors. Aaron called this #emph[evanthum].#t_footnote(416)[19] Other Solar [stones] are the topaz, chrysoprase, ruby, and balas ruby.#t_footnote(417)[20] Likewise solar are the orpiment and things goldencolored and very bright.#t_footnote(418)[21]
   ]
   #p_normal[
     Among Solar trees and plants there are those that turn to the Sun, such as the heliotrope.#t_footnote(419)[22] There are others that interweave their leaves at the setting Sun and when it rises again unfold their leaves gradually: the lotus,#t_footnote(420)[23] which is a small Solar tree as testified by its fruit and leaves, is one such plant. Also, the peony, swallow-wort, citrus, ginger, gentian, dittany, and verbena are likewise excellent for prophecy, atonement, and chasing away evil daemons.#t_footnote(421)[24] The laurel is sacred to Phoebus,#t_footnote(422)[25] as are the cedar, palm, ash tree, ivy, and vine—and this goes for any plant that repels poison and lightning, is ever-green, and does not fear the cold of winter. Also Solar are mint, mastic, zedoary,#t_footnote(423)[26] saffron, balsam, amber, musk, yellow honey, lignum aloe, clove, cinnamon, aromatic calamus, pepper, frankincense, marjoram, and rosemary,#t_footnote(424)[27] which Orpheus calls the incense of the Sun.#t_footnote(425)[28]
@@ -1145,11 +1145,11 @@ also called heliotrope—that is, following the Sun. These virtues were confirme
   ]
   #p_normal[
     Among animals are those that are noble, courageous, eager for victory, and ambitious, such as the lion (king of beasts), crocodile, lynx, ram, male goat, and bull#t_footnote(426)[29] (king of herds, which to the Egyptians at Heliopolis was sacred to the Sun). They called [the bull]
-#emph[Veritem,] in Memphis the Apis bull, and in Hermonthis a bull was called #emph[Pathim].#t_footnote(427)[30] Wolves are sacred to Apollo and Latona.#t_footnote(428)[31] Also Solar are baboons, which through each of the twelve hours of the day bark and during the equinox urinate at each of the twelve hours, even at night, which is why the Egyptians sculpted them on their fountains.
+    #emph[Veritem,] in Memphis the Apis bull, and in Hermonthis a bull was called #emph[Pathim].#t_footnote(427)[30] Wolves are sacred to Apollo and Latona.#t_footnote(428)[31] Also Solar are baboons, which through each of the twelve hours of the day bark and during the equinox urinate at each of the twelve hours, even at night, which is why the Egyptians sculpted them on their fountains.
   ]
   #p_normal[
-    Likewise, Solar among birds are the phoenix—a one of a kind bird#t_footnote(429)[32]—and the eagle, queen of birds. Also [Solar] are vultures; 
-#emph[alar,]#t_footnote(430)[33] or swan; and those that applaud or call a hymn at the rising of the Sun, such as roosters and ravens.#t_footnote(431)[34] Also [Solar] are hawks, which in Egyptian theology are the symbol of spirit and light and counted by Porphyry as among the Solar.#t_footnote(432)[35]
+    Likewise, Solar among birds are the phoenix—a one of a kind bird#t_footnote(429)[32]—and the eagle, queen of birds. Also [Solar] are vultures;
+    #emph[alar,]#t_footnote(430)[33] or swan; and those that applaud or call a hymn at the rising of the Sun, such as roosters and ravens.#t_footnote(431)[34] Also [Solar] are hawks, which in Egyptian theology are the symbol of spirit and light and counted by Porphyry as among the Solar.#t_footnote(432)[35]
   ]
   #p_normal[
     Moreover, whatever is collected as Solar, has a likeness to an operation of the Sun, such as worms shining at night. For instance, there is the scarab, which is called a cat.#t_footnote(433)[36] It has a bright form that is also said to be a vessel, and it rolls little balls. It incubates and generates others from above.#t_footnote(434)[37] According to Apion’s interpretation, these [qualities] are similar to the operations of the Sun, and come from it; [animals] whose eyes vary according to the course of the Sun are judged Solar.#t_footnote(435)[38]
@@ -1173,8 +1173,8 @@ also called heliotrope—that is, following the Sun. These virtues were confirme
     #emph[Lunar plants and trees.]
   ]
   #p_normal[
-    Among Lunar plants and trees are the #emph[selenotropion,]#t_footnote(445)[6] which turns toward the Moon just as heliotropes turn toward the Sun.#t_footnote(446)[7] Also palm trees, which send out a single branch with each moonrise,#t_footnote(447)[8] as well as the hyssop, rosemary, small trees, and large plants, sharing from each.#t_footnote(448)[9] Also Lunar is the chaste lamb, or chaste tree, and olive. Similarly the herb 
-#emph[chinosates,]#t_footnote(449)[10] which increases and decreases with the Moon#t_footnote(450)[11]—that is, in substance and number of leaves, not only in moisture and virtue, which is in a certain way common to each planet except the Martial#t_footnote(451)[12] onion, which is uniquely contrary to the Moon, increasing when the Moon is decreasing and decreasing when the Moon increases,#t_footnote(452)[13] just as among flying things is the quail, a Saturnine bird, which is unfriendly to the Moon and Sun.#t_footnote(453)[14]
+    Among Lunar plants and trees are the #emph[selenotropion,]#t_footnote(445)[6] which turns toward the Moon just as heliotropes turn toward the Sun.#t_footnote(446)[7] Also palm trees, which send out a single branch with each moonrise,#t_footnote(447)[8] as well as the hyssop, rosemary, small trees, and large plants, sharing from each.#t_footnote(448)[9] Also Lunar is the chaste lamb, or chaste tree, and olive. Similarly the herb
+    #emph[chinosates,]#t_footnote(449)[10] which increases and decreases with the Moon#t_footnote(450)[11]—that is, in substance and number of leaves, not only in moisture and virtue, which is in a certain way common to each planet except the Martial#t_footnote(451)[12] onion, which is uniquely contrary to the Moon, increasing when the Moon is decreasing and decreasing when the Moon increases,#t_footnote(452)[13] just as among flying things is the quail, a Saturnine bird, which is unfriendly to the Moon and Sun.#t_footnote(453)[14]
   ]
   #p_quote[
     #emph[Lunar animals.]
@@ -1208,7 +1208,7 @@ also called heliotrope—that is, following the Sun. These virtues were confirme
   ]
   #p_normal[
     Among metals is lead (because of its weight), and among stones are gold marcasite, onyx,
-#emph[ziazaa],#t_footnote(468)[2]#emph[camoinus],#t_footnote(469)[3] sapphire, smoky jasper, chalcedony, lodestone, and all [stones] earthy, dark, and heavy.#t_footnote(470)[4]
+    #emph[ziazaa],#t_footnote(468)[2]#emph[camoinus],#t_footnote(469)[3] sapphire, smoky jasper, chalcedony, lodestone, and all [stones] earthy, dark, and heavy.#t_footnote(470)[4]
   ]
   #p_normal[
     Among plants and trees are the asphodel,#t_footnote(471)[5]#emph[serpentaria,]#t_footnote(472)[6] rue, cumin, hellebore, #emph[silphium,]#t_footnote(473)[7] mandrake, and opium. [Any botanical] that stupefies,#t_footnote(474)[8] does not sow, does not bring fruit, has black berries, or produces black fruit (such as the black fig#t_footnote(475)[9] or pine) is under Saturn. Cypress, a funerary tree#t_footnote(476)[10] that does not grow berries, is also of this kind. Again, anything that is grim, bitter tasting, has a violent odor, is colored an unpleasant shade with a bitter resin, bears unnecessary fruit, and/or is incorruptibly hard is similarly presided over by that planet. Also [plants that are associated with] death and sacred to Dis,#t_footnote(477)[11] such as parsley#t_footnote(478)[12] with which the ancients covered tombs before corpses were placed into them. This is why, in festivals, it was lawful to tie all herbs and flowers to garlands except parsley, because parsley was mournful and did not bring cheer.
@@ -1247,8 +1247,8 @@ also called heliotrope—that is, following the Sun. These virtues were confirme
     Among animals are those that carry such a dignity and prudence, and those of mild and good discipline and good customs, such as stags, bulls, elephants, and those animals that are tame, such as sheep and lambs.
   ]
   #p_normal[
-    Among birds are those with temperate complexions, such as hens and their egg yolks. Likewise [are] partridges, pheasants,#t_footnote(499)[16] swallows, and pelicans. Also [are] the 
-#emph[cucupha]#t_footnote(500)[17] and stork, which signify affection and gratitude. The eagle is sacred to [Jupiter]. It is the insignia of emperors and a symbol of justice and mercy.#t_footnote(501)[18]
+    Among birds are those with temperate complexions, such as hens and their egg yolks. Likewise [are] partridges, pheasants,#t_footnote(499)[16] swallows, and pelicans. Also [are] the
+    #emph[cucupha]#t_footnote(500)[17] and stork, which signify affection and gratitude. The eagle is sacred to [Jupiter]. It is the insignia of emperors and a symbol of justice and mercy.#t_footnote(501)[18]
   ]
   #p_quote[
     #emph[The eagle was the insignia of emperors and symbol of justice.]
@@ -1305,8 +1305,8 @@ also called heliotrope—that is, following the Sun. These virtues were confirme
     Among birds are swans, wagtails, swallows,#t_footnote(525)[8] pelicans, and Egyptian geese,#t_footnote(526)[9] who especially love their chicks.#t_footnote(527)[10] Ravens and pigeons are sacred to Venus, as are turtledoves. These birds were used in offerings for purifications for birth. Sparrows are also sacred to Venus and were appointed by law to be used in purifications for leprosy, a Martial disease, which resists nothing else beneficial.#t_footnote(528)[11] Also, the Egyptians called eagles Venereal because they are prone to be Venusian: for if the female is conquered thirty#t_footnote(529)[12] times a day, and if a male calls, she charges again.#t_footnote(530)[13]
   ]
   #p_normal[
-    The Venusian fish are the libidinous #emph[grues;]#t_footnote(531)[14] the salacious 
-#emph[scari;]#t_footnote(532)[15] the #emph[merulae;]#t_footnote(533)[16] because they love their young; the crab because it fights for its mate; and the spurge because of its fragrant and sweet scent.
+    The Venusian fish are the libidinous #emph[grues;]#t_footnote(531)[14] the salacious
+    #emph[scari;]#t_footnote(532)[15] the #emph[merulae;]#t_footnote(533)[16] because they love their young; the crab because it fights for its mate; and the spurge because of its fragrant and sweet scent.
   ]
 ]
 
@@ -1397,7 +1397,7 @@ also called heliotrope—that is, following the Sun. These virtues were confirme
   ]
   #p_normal[
     Apuleius distributed particular signs and planets among certain herbs, such as Aries with sage,#t_footnote(589)[1] Taurus with straight vervain,#t_footnote(590)[2] Gemini with bent vervain,#t_footnote(591)[3] Cancer with comfrey, Leo with cyclamen, Virgo with calamint, Libra with scorpionweed,#t_footnote(592)[4] Scorpio with mugwort,#t_footnote(593)[5] Sagittarius with pimpernel, Capricorn with sorrel,#t_footnote(594)[6] Aquarius with dragonwort, and Pisces with aristolochia. Of planets, Saturn the houseleek, Jupiter agrimony, Mars hogsfennel, the Sun heliotrope, Venus
-#emph[callitrichum,]#t_footnote(595)[7] Mercury #emph[phlomum,]#t_footnote(596)[8] the Moon peony.#t_footnote(597)[9]
+    #emph[callitrichum,]#t_footnote(595)[7] Mercury #emph[phlomum,]#t_footnote(596)[8] the Moon peony.#t_footnote(597)[9]
   ]
   #p_normal[
     However, Hermes [Trismegistus], whom Albertus followed, said the plant of Saturn is asphodel, Jupiter henbane, Mars greater plantain, the Sun knotgrass, Venus verbena, Mercury cinquefoil, and the Moon #emph[chenostacen].#t_footnote(598)[10] I also know by experience that asparagus is under Aries and basil under Scorpio: for, where the shavings of a ram’s horn are planted, asparagus and basil grow, and when bruised between two stones, scorpions are born.
@@ -1539,8 +1539,8 @@ also called heliotrope—that is, following the Sun. These virtues were confirme
   ]
   #p_normal[
     Therefore, when any mixture is made from many materials under celestial influences, then indeed there is a variety of celestial actions. Hence the true natural power is gathered and causes certain miracles through unguents, collyries, fumigations, and the like, and such kinds were clearly gathered in the book
-#emph[Kyranides];#t_footnote(630)[5] Archytas, Democritus, and Hermes, who wrote the [the book of]
-#emph[Alchorath,] and many others.
+    #emph[Kyranides];#t_footnote(630)[5] Archytas, Democritus, and Hermes, who wrote the [the book of]
+    #emph[Alchorath,] and many others.
   ]
 ]
 
@@ -1555,8 +1555,8 @@ also called heliotrope—that is, following the Sun. These virtues were confirme
     Such is the great power of prepared matter, which we then see gain life when a perfect mixture of qualities seems to break the previous contrariety. However, the more perfect takes life, but by as much as their complexion is removed from contrariety. Indeed, the heavens are a very powerful cause from which each thing is initiated into generation, by the concoction and perfect coming together of matter.#t_footnote(634)[4] It grants celestial influences and wonderful gifts with life,#t_footnote(635)[5] as much as is contained in life itself and in the sensible soul, [these qualities being present] according to more noble virtues and sublime conceptions.
   ]
   #p_normal[
-    Additionally, celestial virtue often lies asleep elsewhere. For example, sulfur is far from f lame, but in living bodies it is often inflamed as kindled sulfur. Then its vapor fills all that is near it.#t_footnote(636)[6] Thus, certain wonderful works are produced, as is compiled in the book 
-#emph[Nemith] and written in the book #emph[The Laws of Plato]. Generations of this sort are monstrous, unless they are produced according to the laws of nature.#t_footnote(637)[7]
+    Additionally, celestial virtue often lies asleep elsewhere. For example, sulfur is far from f lame, but in living bodies it is often inflamed as kindled sulfur. Then its vapor fills all that is near it.#t_footnote(636)[6] Thus, certain wonderful works are produced, as is compiled in the book
+    #emph[Nemith] and written in the book #emph[The Laws of Plato]. Generations of this sort are monstrous, unless they are produced according to the laws of nature.#t_footnote(637)[7]
   ]
   #p_quote[
     #emph[The procreation of various animals.]
@@ -1592,8 +1592,8 @@ also called heliotrope—that is, following the Sun. These virtues were confirme
     Thus, we see nature producing the form of the human body. With this preparation, it immediately entices the spirit from the universe, as dried wood is prepared to receive oil; this oil is the food for fire, and fire itself is the vehicle for light. Thus, spirit is the kindling wood for connecting the soul with the body, and subsequently, the soul is the kindling wood in the spirit and body for the intelligence and mind of God.
   ]
   #p_normal[
-    From these examples, we see how certain reliable natural and artificial preparations can accept certain celestial gifts from above.#t_footnote(650)[7] Indeed, stones and metals agree with herbs, herbs with animals, and truly [animals] with the heavens, [the heavens] with the intelligences, and [the intelligences] with divine qualities and attributes together with God, to whom all likenesses and images are created. But the first likeness of God is the universe, man of the universe, animal of man, zoophytum of animals, [zoophytum] with plants, but plants of metals, and of [metals] stones represent similar images.#t_footnote(651)[8] Again in spirituality, plants agree with beasts in vegetation, beasts with man in senses, man with daemons in intellect, and [daemons] with God in immortality.#t_footnote(652)[9] 
-Divinity is connected with mind, mind with intellect, intellect with intention, intention with imagination, imagination with senses, and finally the senses with things.#t_footnote(653)[10]
+    From these examples, we see how certain reliable natural and artificial preparations can accept certain celestial gifts from above.#t_footnote(650)[7] Indeed, stones and metals agree with herbs, herbs with animals, and truly [animals] with the heavens, [the heavens] with the intelligences, and [the intelligences] with divine qualities and attributes together with God, to whom all likenesses and images are created. But the first likeness of God is the universe, man of the universe, animal of man, zoophytum of animals, [zoophytum] with plants, but plants of metals, and of [metals] stones represent similar images.#t_footnote(651)[8] Again in spirituality, plants agree with beasts in vegetation, beasts with man in senses, man with daemons in intellect, and [daemons] with God in immortality.#t_footnote(652)[9]
+    Divinity is connected with mind, mind with intellect, intellect with intention, intention with imagination, imagination with senses, and finally the senses with things.#t_footnote(653)[10]
   ]
   #p_quote[
     #emph[The wonderful connection of nature.]
@@ -1611,8 +1611,8 @@ Divinity is connected with mind, mind with intellect, intellect with intention, 
     Chapter 38. How gifts are not only celestial and vital but are also received from certain intellectual and divine gifts from above.
   ]
   #p_normal[
-    Magicians teach that by inferiors conforming to superiors, [inferiors] can draw appropriate celestial influences from the heavens. Thus, likewise through these, celestials and celestial daemons, as they are the attendants of the stars, can be acquired and insinuate [themselves into] us. Whereby certain reliable materials have a natural power of divinity and a natural harmony with the superiors, rightly collected, partially with natural science, partially with astronomy, are suitably aroused on all sides. The gifts are not only celestial or vital but certain intellectual, daemonic, and divine gifts are received from above as well. This is confirmed by Iamblichus, Proclus, Synesius, and the whole Platonic school.#t_footnote(655)[1] Hermes Trismegistus wrote of certain special things about a particular appropriate daemon—that is, where an appropriate image is composed and animated by the appropriate daemon.#t_footnote(656)[2] Augustine also remembers this in the eighth book of 
-#emph[City of God].#t_footnote(657)[3]
+    Magicians teach that by inferiors conforming to superiors, [inferiors] can draw appropriate celestial influences from the heavens. Thus, likewise through these, celestials and celestial daemons, as they are the attendants of the stars, can be acquired and insinuate [themselves into] us. Whereby certain reliable materials have a natural power of divinity and a natural harmony with the superiors, rightly collected, partially with natural science, partially with astronomy, are suitably aroused on all sides. The gifts are not only celestial or vital but certain intellectual, daemonic, and divine gifts are received from above as well. This is confirmed by Iamblichus, Proclus, Synesius, and the whole Platonic school.#t_footnote(655)[1] Hermes Trismegistus wrote of certain special things about a particular appropriate daemon—that is, where an appropriate image is composed and animated by the appropriate daemon.#t_footnote(656)[2] Augustine also remembers this in the eighth book of
+    #emph[City of God].#t_footnote(657)[3]
   ]
   #p_normal[
     Indeed, this is the harmony of the universe: as the super-celestial can be drawn down by the celestial, so the supernatural can be drawn down by the natural. This is because one operative virtue is diffused through all kinds of participating things.#t_footnote(658)[4] Indeed, this virtue is produced by occult reasons. Thus, the magician takes these manifestations so that he attracts occult things; for example, [one may attract] the rays of the stars through fumigations, lights, sounds, and natural things that agree with the celestials. Besides their corporeal qualities, [these things] also belong to incorporeal and divine reason: senses, number, and measurements.
@@ -1621,10 +1621,10 @@ Divinity is connected with mind, mind with intellect, intellect with intention, 
     #emph[Magicians attract occult things from manifestations.]
   ]
   #p_normal[
-    Thus, we read that the ancients often accepted something divine and wonderful through certain natural things.#t_footnote(659)[5] For example, a stone that is produced in the pupil of a hyena’s eye, if held under the tongue, excels in allowing one to speak predictions.#t_footnote(660)[6] The same effect is said of selenites, a Lunar stone.#t_footnote(661)[7] Also, the stone 
-#emph[anchitide]#t_footnote(662)[8] is said to summon images of the gods, and the #emph[synochitide] when held summons inferior shades.#t_footnote(663)[9] Similarly, the herb 
-#emph[aglaopotis,] which is also called #emph[marmoritides] and grows on the side of marble in Arabia and Persia, is also effective, as Pliny said, and “magicians use this when they wish to summon the gods.”#t_footnote(664)[10] As well, magicians can prophesy with the herb called 
-#emph[theangelidam] when it is drunk.#t_footnote(665)[11] Besides these, there are also herbs with which the dead can come back to life. The historian Xanthus wrote that with a certain herb called #emph[bali] a young dragon that was killed was brought back to life, and a certain man [named] Tillon who was killed by a dragon was brought back to life.#t_footnote(666)[12] Juba reported that in Arabia a man was brought back to life with a certain herb.
+    Thus, we read that the ancients often accepted something divine and wonderful through certain natural things.#t_footnote(659)[5] For example, a stone that is produced in the pupil of a hyena’s eye, if held under the tongue, excels in allowing one to speak predictions.#t_footnote(660)[6] The same effect is said of selenites, a Lunar stone.#t_footnote(661)[7] Also, the stone
+    #emph[anchitide]#t_footnote(662)[8] is said to summon images of the gods, and the #emph[synochitide] when held summons inferior shades.#t_footnote(663)[9] Similarly, the herb
+    #emph[aglaopotis,] which is also called #emph[marmoritides] and grows on the side of marble in Arabia and Persia, is also effective, as Pliny said, and “magicians use this when they wish to summon the gods.”#t_footnote(664)[10] As well, magicians can prophesy with the herb called
+    #emph[theangelidam] when it is drunk.#t_footnote(665)[11] Besides these, there are also herbs with which the dead can come back to life. The historian Xanthus wrote that with a certain herb called #emph[bali] a young dragon that was killed was brought back to life, and a certain man [named] Tillon who was killed by a dragon was brought back to life.#t_footnote(666)[12] Juba reported that in Arabia a man was brought back to life with a certain herb.
   ]
   #p_quote[
     #emph[Tillon restored to life by an herb.]
@@ -1849,27 +1849,27 @@ Divinity is connected with mind, mind with intellect, intellect with intention, 
     No one can truly wonder how great fumigations are in air. Porphyry believed that certain reliable vapors exhaling from special fumigations immediately draw and introduce airy daemons,#t_footnote(720)[6] inducing thunder and lightning, and the like. For example, burning a chameleon’s liver on the top of a roof arouses rain and thunder; similarly, [a chameleon’s] head and throat, if burned with oak wood, also makes violent rain and thunder.#t_footnote(721)[7]
   ]
   #p_normal[
-    Also, fumigations under appropriate stellar influences make the images of daemons immediately appear in the air or elsewhere. They say that if a fumigation is made with coriander and parsley, or henbane with hemlock juice, daemons immediately gather—hence those herbs are called spiritual. It is likewise said that a fumigation mixture made from the root of 
-#emph[ferulae]#t_footnote(722)[8] with hemlock juice, henbane, #emph[tassi barbassi,]#t_footnote(723)[9] red sandalwood, and black poppyseed causes daemons and unusual figures to appear. If parsley#t_footnote(724)[10] is added to this, daemons will flee from all places and destroy the images. In a similar way a fumigation made from calamint, peony, mint, and the castor oil plant#t_footnote(725)[11] drives away all evil spirits and harmful phantoms.#t_footnote(726)[12]
+    Also, fumigations under appropriate stellar influences make the images of daemons immediately appear in the air or elsewhere. They say that if a fumigation is made with coriander and parsley, or henbane with hemlock juice, daemons immediately gather—hence those herbs are called spiritual. It is likewise said that a fumigation mixture made from the root of
+    #emph[ferulae]#t_footnote(722)[8] with hemlock juice, henbane, #emph[tassi barbassi,]#t_footnote(723)[9] red sandalwood, and black poppyseed causes daemons and unusual figures to appear. If parsley#t_footnote(724)[10] is added to this, daemons will flee from all places and destroy the images. In a similar way a fumigation made from calamint, peony, mint, and the castor oil plant#t_footnote(725)[11] drives away all evil spirits and harmful phantoms.#t_footnote(726)[12]
   ]
   #p_quote[
     #emph[Spiritual herbs.]
   ]
   #p_normal[
-    Additionally, it is said that certain fumigations cause some animals to gather near or to chase [the animals] away, such as the fumigation of 
-#emph[liparis]#t_footnote(727)[13] mentioned by Pliny summons all beasts.#t_footnote(728)[14] Thus, the bones at the top of the throat of a stag gather serpents, but a fumigation of a deer’s antler chases them away.#t_footnote(729)[15] The same [effect] happens [with serpents] with a fumigation of peacock feathers.#t_footnote(730)[16] Similarly, burning an ass’s lung chases away all venomous things. A fumigation of a horse’s hoof chases away mice from the house. The same happens with the hooves of a she-mule, and flies are likewise chased away if the left hoof is [burned].#t_footnote(731)[17] It is said that if a house is fumigated from any place with the gall of a cuttlefish mixed with 
-	#emph[thymiamate,]#t_footnote(732)[18] roses, and lignum aloe, and then if seawater or blood is left in that place, the entire house will be seen as full of [water] or blood. If [the fumigation mixture] is left there with plowed earth, the earth will be seen as quaking.#t_footnote(733)[19]
+    Additionally, it is said that certain fumigations cause some animals to gather near or to chase [the animals] away, such as the fumigation of
+    #emph[liparis]#t_footnote(727)[13] mentioned by Pliny summons all beasts.#t_footnote(728)[14] Thus, the bones at the top of the throat of a stag gather serpents, but a fumigation of a deer’s antler chases them away.#t_footnote(729)[15] The same [effect] happens [with serpents] with a fumigation of peacock feathers.#t_footnote(730)[16] Similarly, burning an ass’s lung chases away all venomous things. A fumigation of a horse’s hoof chases away mice from the house. The same happens with the hooves of a she-mule, and flies are likewise chased away if the left hoof is [burned].#t_footnote(731)[17] It is said that if a house is fumigated from any place with the gall of a cuttlefish mixed with
+    #emph[thymiamate,]#t_footnote(732)[18] roses, and lignum aloe, and then if seawater or blood is left in that place, the entire house will be seen as full of [water] or blood. If [the fumigation mixture] is left there with plowed earth, the earth will be seen as quaking.#t_footnote(733)[19]
   ]
   #p_normal[
     But vapors of this kind will affect any body (although these virtues influence and persist daily) as can be observed, [in the same way as] any contagion or poisonous pestilent vapor. If they are kept in the walls of a house beyond two years, [the vapors] inflict the inhabitants, and with epidemics or leprosy hidden in clothes when worn daily, will infect the wearer.#t_footnote(734)[20]
   ]
   #p_normal[
-    Images and rings and the like are magical instruments, and certain fumigations summon hidden treasures, of which no less than Porphyry testified.#t_footnote(735)[21] Thus it is said: “If one can bury gold, silver, or any other valuable with the Sun and Moon conjunct the 
-	#emph[Imum coeli,]#t_footnote(736)[22] then fumigate that place with coriander, saffron, henbane, parsley, and black poppyseed in equal weights, bruised and steeped in hemlock juice. At no time will this be discovered or stolen, because thus hidden, it is always guarded by daemons. If anyone attempts to steal from there, they will be vexed and fall into madness.”#t_footnote(737)[23]
+    Images and rings and the like are magical instruments, and certain fumigations summon hidden treasures, of which no less than Porphyry testified.#t_footnote(735)[21] Thus it is said: “If one can bury gold, silver, or any other valuable with the Sun and Moon conjunct the
+    #emph[Imum coeli,]#t_footnote(736)[22] then fumigate that place with coriander, saffron, henbane, parsley, and black poppyseed in equal weights, bruised and steeped in hemlock juice. At no time will this be discovered or stolen, because thus hidden, it is always guarded by daemons. If anyone attempts to steal from there, they will be vexed and fall into madness.”#t_footnote(737)[23]
   ]
   #p_normal[
     Hermes said that there is nothing equal to a fumigation of spermaceti#t_footnote(738)[24] for drawing daemons: if [it is] steeped with lignum aloe, costus, musk, saffron, and
-#emph[thymiamate,] with the blood of a hoopoe, and made into a fumigation, it gathers airy spirits very quickly. If it is fumigated around the graves of the dead, it gathers shades of the underworld and shades of the dead.#t_footnote(739)[25]
+    #emph[thymiamate,] with the blood of a hoopoe, and made into a fumigation, it gathers airy spirits very quickly. If it is fumigated around the graves of the dead, it gathers shades of the underworld and shades of the dead.#t_footnote(739)[25]
   ]
   #p_normal[
     Thus, often when we direct operations for the Sun, we use Solar fumigations; for the Moon, Lunar fumigations, and similarly for the rest. And you must know that, as there are oppositions and enmity in the stars and spirits, it is also the case in the fumigations for them. For example, lignum aloe and sulfur are contrary to each other, as are frankincense and quicksilver; and spirits induced by burning lignum aloe and sulfur will flee.#t_footnote(740)[26] Proclus gives an example of a spirit who usually appeared in the form of a lion, but by throwing a rooster before it, it soon disappeared, because roosters are contrary to lions.#t_footnote(741)[27] Thus, consider and practice this in a like fashion.
@@ -1908,8 +1908,8 @@ Divinity is connected with mind, mind with intellect, intellect with intention, 
     You must also know that (according to the opinions of magicians) you must use fumigations that are good, fragrant and costly in all good operations—such as for love, favor, and the like. But in malefic operations, such as for hatred, anger, disaster, and the like, you must use fumigations that are foul smelling and cheap.
   ]
   #p_normal[
-    Additionally, there are fumigations for the twelve signs of the zodiac, such as myrrh for Aries, costus for Taurus, mastic for Gemini, camphor for Cancer, frankincense for Leo, sandalwood for Virgo, galbanum for Libra, opopanax for Scorpio, lignum aloe for Sagittarius, 
-#emph[asam]#t_footnote(748)[7] for Capricorn, euphorbium for Aquarius, and #emph[thymiama]#t_footnote(749)[8] for Pisces.#t_footnote(750)[9]
+    Additionally, there are fumigations for the twelve signs of the zodiac, such as myrrh for Aries, costus for Taurus, mastic for Gemini, camphor for Cancer, frankincense for Leo, sandalwood for Virgo, galbanum for Libra, opopanax for Scorpio, lignum aloe for Sagittarius,
+    #emph[asam]#t_footnote(748)[7] for Capricorn, euphorbium for Aquarius, and #emph[thymiama]#t_footnote(749)[8] for Pisces.#t_footnote(750)[9]
   ]
   #p_normal[
     But the most powerful fumigation as described by Hermes [Trismegistus] is compounded by seven spices from the power of the seven planets. The recipe is for Saturn costus, Jupiter nutmeg, Mars lignum aloe, the Sun mastic, Venus saffron, Mercury cinnamon, and the Moon myrtle.
@@ -2215,11 +2215,11 @@ Divinity is connected with mind, mind with intellect, intellect with intention, 
     #emph[Faces and gestures greatly affect the imagination.]
   ]
   #p_normal[
-    No one can ignore how much the face and gestures affect sight, imagination, and animal spirit. Thus, through intercourse for procreation, 
-often the [parents’] faces, whose actions or imaginations [affect their 
-appearance], are often imprinted on their children when born. Thus, mercy and 
-joy in the faces of city princes delights people, and ferocity or sudden sadness 
-frightens them. Thus, gestures and the figure easily move [others] to pity, to mourning, and thus the figure easily excites people to love.#t_footnote(844)[2]
+    No one can ignore how much the face and gestures affect sight, imagination, and animal spirit. Thus, through intercourse for procreation,
+    often the [parents’] faces, whose actions or imaginations [affect their
+    appearance], are often imprinted on their children when born. Thus, mercy and
+    joy in the faces of city princes delights people, and ferocity or sudden sadness
+    frightens them. Thus, gestures and the figure easily move [others] to pity, to mourning, and thus the figure easily excites people to love.#t_footnote(844)[2]
   ]
   #p_normal[
     But you must know that gestures and figures of this kind are, as it were, a harmony of the body that is exposed in no other way to the celestials than by odors, spiritual medicines, and passions of the inner soul. For just as in medicines and passions of the soul, certain celestial dispositions coalesce, thus also certain celestial influences produce effects in gestures and movements of the body.#t_footnote(845)[3]
@@ -2291,10 +2291,10 @@ frightens them. Thus, gestures and the figure easily move [others] to pity, to m
     Chapter 53. Of divination, auspices, and auguries.
   ]
   #p_normal[
-    There are certain other kinds of divinations that depend on natural causes 
-that are evident from skill and experience in different things, which physicians, farmers, shepherds, and sailors each prognosticate from probable signs. Much of this was handled in Aristotle’s book 
-#emph[On Times].#t_footnote(855)[1] Among the kinds of divinations, the chief are auspices and auguries. The Romans once held these in such great value, that no public or private business would be completed without auspices being performed. However, the Etruscan#t_footnote(856)[2] people especially excelled in the art, which Cicero eloquently declared in his book 
-#emph[On Divination].
+    There are certain other kinds of divinations that depend on natural causes
+    that are evident from skill and experience in different things, which physicians, farmers, shepherds, and sailors each prognosticate from probable signs. Much of this was handled in Aristotle’s book
+    #emph[On Times].#t_footnote(855)[1] Among the kinds of divinations, the chief are auspices and auguries. The Romans once held these in such great value, that no public or private business would be completed without auspices being performed. However, the Etruscan#t_footnote(856)[2] people especially excelled in the art, which Cicero eloquently declared in his book
+    #emph[On Divination].
   ]
   #p_quote[
     #emph[The Romans did nothing inauspicious.]
@@ -2309,11 +2309,11 @@ that are evident from skill and experience in different things, which physicians
     #emph[Twelve kinds of auguries.]
   ]
   #p_normal[
-    Michael Scot recited twelve kinds of auguries—that is, six from the right hand, which are said to be called 
-#emph[fernova, fervetus, confert,]#t_footnote(859)[5]#emph[emponenthem, sonnasarnova, 
+    Michael Scot recited twelve kinds of auguries—that is, six from the right hand, which are said to be called
+    #emph[fernova, fervetus, confert,]#t_footnote(859)[5]#emph[emponenthem, sonnasarnova,
 sonnasarvetus, ] and another six on the left hand, which are called #emph[
-confernova, confervetus, viaram, herrenam, scassarnova], #emph[scassarvetus]. 
-He then explains the names:
+confernova, confervetus, viaram, herrenam, scassarnova], #emph[scassarvetus].
+    He then explains the names:
   ]
   #p_normal[
     #emph[Fernova] is an augury when you leave your house for some reason and you see a man or a bird passing or flying, and they are placed in front of you on the left. This is a good sign over your work.
@@ -2349,8 +2349,8 @@ He then explains the names:
     #emph[Hartenam ]is an augury if a man or a bird comes from behind on the right side passing to the left and then you see them pausing somewhere. This is a bad sign.#t_footnote(861)[7] This is from Scot.
   ]
   #p_normal[
-    The ancients also had auguries from sneezes, which Homer remembers in the seventeenth book of the 
-#emph[Odyssey,] because they were thought to have proceeded from a sacred place—that is, the head from where the intellect thrives and operates;#t_footnote(862)[8] and from whichever unexpected speech that comes from the mouth or mind early in the morning, is said to be some prognostication or augury.
+    The ancients also had auguries from sneezes, which Homer remembers in the seventeenth book of the
+    #emph[Odyssey,] because they were thought to have proceeded from a sacred place—that is, the head from where the intellect thrives and operates;#t_footnote(862)[8] and from whichever unexpected speech that comes from the mouth or mind early in the morning, is said to be some prognostication or augury.
   ]
 ]
 
@@ -2365,24 +2365,24 @@ He then explains the names:
     We see that many animals by certain powers engrafted by nature are prestigious and prophetic. Surely, does not the rooster cleverly sing to indicate the hours, and his wings open to chase lions away? Many birds sing and chatter, the fly’s sharp stings foretell rain, and dolphins frequently leap above the water to foretell storms.
   ]
   #p_normal[
-    It would take too long to unravel all of the prognostications from birds and animals known by the Phrygians, Cilicians, Arabians, Umbrians, Etruscans and other people who followed those auguries,#t_footnote(863)[1] which were proved through many experiments and examples. In all things, the oracles of the future are as much as hidden. But the greatest 
-of these are birds that announce omens: these are those that poets say were men 
-turned into birds. Therefore, a crow will speak, carefully overhearing and 
-stationed in their setting or flying from the right or left, speaking or 
-chattering or silent, preceding and following, or passing waiting for arrival, or fleeing or departing. All must be carefully observed.
+    It would take too long to unravel all of the prognostications from birds and animals known by the Phrygians, Cilicians, Arabians, Umbrians, Etruscans and other people who followed those auguries,#t_footnote(863)[1] which were proved through many experiments and examples. In all things, the oracles of the future are as much as hidden. But the greatest
+    of these are birds that announce omens: these are those that poets say were men
+    turned into birds. Therefore, a crow will speak, carefully overhearing and
+    stationed in their setting or flying from the right or left, speaking or
+    chattering or silent, preceding and following, or passing waiting for arrival, or fleeing or departing. All must be carefully observed.
   ]
   #p_quote[
     #emph[Birds that announce omens.]
   ]
   #p_normal[
-    As Horapollo said in #emph[Hieroglyphics:] “Twin crows signify marriages, 
-because this animal bears two eggs from which a male and female must be born. 
-However, if (and this is rare) two males or two females are born, the males will 
-not couple with females or mix with other crows. Likewise, females with other 
-males, but will only continue estranged. Therefore, if meeting a single crow, 
-this augurs for the future that one will live their life as a widow.#t_footnote(864)[2] 
-There is the same prediction with black female doves, who after the death of the 
-male, will always remain alone.”#t_footnote(865)[3]
+    As Horapollo said in #emph[Hieroglyphics:] “Twin crows signify marriages,
+    because this animal bears two eggs from which a male and female must be born.
+    However, if (and this is rare) two males or two females are born, the males will
+    not couple with females or mix with other crows. Likewise, females with other
+    males, but will only continue estranged. Therefore, if meeting a single crow,
+    this augurs for the future that one will live their life as a widow.#t_footnote(864)[2]
+    There is the same prediction with black female doves, who after the death of the
+    male, will always remain alone.”#t_footnote(865)[3]
   ]
   #p_normal[
     But ravens must be watched no less diligently: they are preferred in greater things and are said to foretell the future [like] crows. Epictetus the stoic philosopher and important author thought that if a raven croaks opposite someone, it will portend adversity to the body, fortune, honor, wife, or children.#t_footnote(866)[4]
@@ -2400,15 +2400,15 @@ male, will always remain alone.”#t_footnote(865)[3]
     #emph[Auguries taken from large birds.]
   ]
   #p_normal[
-    However, the phoenix promises singular happy success, which being seen renewed, was a good auspice for [Rome’s] building. The pelican, who risks itself for its children, signifies a friendly man by whose piety undergoes a crisis.#t_footnote(875)[13] The painted bird gave its name to the city Pictavia and foretold the gentleness of the people with its color and voice. Herons are auspicious for arduous things. Storks, which are friendly birds, cause friendship. Cranes, about which the ancients agreed, are always ready and were cautious of enemies that lie in ambush.#t_footnote(876)[14] The 
-#emph[cucupha]#t_footnote(877)[15] indicates gratitude because it is the only animal that repays its parents with gratitude when they are old.#t_footnote(878)[16] On the contrary, the hippopotamus kills its parents, demonstrating ingratitude and injustice.#t_footnote(879)[17] Quails,#t_footnote(880)[18] odious birds, indicate hatred.#t_footnote(881)[19]
+    However, the phoenix promises singular happy success, which being seen renewed, was a good auspice for [Rome’s] building. The pelican, who risks itself for its children, signifies a friendly man by whose piety undergoes a crisis.#t_footnote(875)[13] The painted bird gave its name to the city Pictavia and foretold the gentleness of the people with its color and voice. Herons are auspicious for arduous things. Storks, which are friendly birds, cause friendship. Cranes, about which the ancients agreed, are always ready and were cautious of enemies that lie in ambush.#t_footnote(876)[14] The
+    #emph[cucupha]#t_footnote(877)[15] indicates gratitude because it is the only animal that repays its parents with gratitude when they are old.#t_footnote(878)[16] On the contrary, the hippopotamus kills its parents, demonstrating ingratitude and injustice.#t_footnote(879)[17] Quails,#t_footnote(880)[18] odious birds, indicate hatred.#t_footnote(881)[19]
   ]
   #p_quote[
     #emph[Auguries taken from small birds.]
   ]
   #p_normal[
-    And now, also among smaller birds, the talkative magpie foretells guests. If an 
-#emph[albanellus]#t_footnote(882)[20] flies past from the left to the right, it is hospitable to cheerfulness, if from the opposite indicates the opposite. Owls are always unlucky as is the little owl, which, because they approach chickens unforeseen at night, just as death approaches unforeseen, it is therefore said that they foretell death.#t_footnote(883)[21] Yet sometimes, because they are not blind in the darkness of night, owls are said to signify diligence and vigilance in men—because [an owl] was approved when it settled on the spear of Hiero.#t_footnote(884)[22] However, Dido saw unluckiness in owls when stirring up Aeneas; of which the poet sang:
+    And now, also among smaller birds, the talkative magpie foretells guests. If an
+    #emph[albanellus]#t_footnote(882)[20] flies past from the left to the right, it is hospitable to cheerfulness, if from the opposite indicates the opposite. Owls are always unlucky as is the little owl, which, because they approach chickens unforeseen at night, just as death approaches unforeseen, it is therefore said that they foretell death.#t_footnote(883)[21] Yet sometimes, because they are not blind in the darkness of night, owls are said to signify diligence and vigilance in men—because [an owl] was approved when it settled on the spear of Hiero.#t_footnote(884)[22] However, Dido saw unluckiness in owls when stirring up Aeneas; of which the poet sang:
   ]
   #p_poetry[
     #emph[From its height, the lonely owl cries]
@@ -2429,8 +2429,8 @@ male, will always remain alone.”#t_footnote(865)[3]
     #emph[We hate the hawk because it always lives in arms.]#t_footnote(891)[29]
   ]
   #p_normal[
-    Laelius, the envoy of Pompey, was killed in Spain among purveyors; it was said that a hawk flew over his head and foretold his doom.#t_footnote(892)[30] And Almadel said that if members of the same species of bird are seen fighting 
-among themselves, it signifies a change of kings. If, however, different kinds [of birds] are fighting with them and are never seen to come together, it predicts new fortunes for that region.#t_footnote(893)[31]
+    Laelius, the envoy of Pompey, was killed in Spain among purveyors; it was said that a hawk flew over his head and foretold his doom.#t_footnote(892)[30] And Almadel said that if members of the same species of bird are seen fighting
+    among themselves, it signifies a change of kings. If, however, different kinds [of birds] are fighting with them and are never seen to come together, it predicts new fortunes for that region.#t_footnote(893)[31]
   ]
   #p_normal[
     Also, small birds arriving or departing portends the increase or decrease of one’s family. The manner of their flight is taken into account in such augery: if it is serene, the sign is taken to be that much more praiseworthy. Melampus augured the massacre of Greeks from the flight of small birds, which he said: “You see that no bird flies though [the weather is] clear.”
@@ -2586,8 +2586,8 @@ among themselves, it signifies a change of kings. If, however, different kinds [
     #emph[Or holding at port or approaching with full sails.]#t_footnote(952)[24]
   ]
   #p_normal[
-    But the most wonderful auguries are the kind that hear and understand the conversation of animals, as we read from the ancients Melampus, Tiresias, Thales,#t_footnote(953)[25] and Apollonius of Tyana, who excelled in understanding the conversations of birds. Philostratus and Porphyry wrote that once when Apollonius sat in the company of friends, he observed some sparrows sitting in a tree. Then, coming from elsewhere, a single sparrow chattered and made loud noises and flew away with the others following him. Then Apollonius said to his friends: “That sparrow reported to the others that near Rome an ass laden with wheat fell in a narrow street, and the wheat was spilled everywhere on the ground.” These words very much excited everyone, and they went to test this and thus found Apollonius’s words were fact.#t_footnote(954)[26] But the Platonist Porphyry in the third book of 
-#emph[The Sacrifices] said that it was a swallow.
+    But the most wonderful auguries are the kind that hear and understand the conversation of animals, as we read from the ancients Melampus, Tiresias, Thales,#t_footnote(953)[25] and Apollonius of Tyana, who excelled in understanding the conversations of birds. Philostratus and Porphyry wrote that once when Apollonius sat in the company of friends, he observed some sparrows sitting in a tree. Then, coming from elsewhere, a single sparrow chattered and made loud noises and flew away with the others following him. Then Apollonius said to his friends: “That sparrow reported to the others that near Rome an ass laden with wheat fell in a narrow street, and the wheat was spilled everywhere on the ground.” These words very much excited everyone, and they went to test this and thus found Apollonius’s words were fact.#t_footnote(954)[26] But the Platonist Porphyry in the third book of
+    #emph[The Sacrifices] said that it was a swallow.
   ]
   #p_normal[
     Indeed this is certain, because every voice of each animal signifies some of the passions, dispositions, happiness, sadness, or anger of its soul. That their voices can be understood among trained men is no wonder.#t_footnote(955)[27] However, Pliny tells us that Democritus named certain birds that, when their blood was mixed by an art he handed down, this would beget serpents. Whoever ate of these understood the speech of birds.#t_footnote(956)[28] Hermes said that if on a certain day on the calends#t_footnote(957)[29] of November, one goes out to hunt birds, and then cooks the first bird captured with the heart of a fox, everyone who eats this bird will understand the voices of birds and other animals.#t_footnote(958)[30] Also, the Arabs wrote that they could understand the thoughts of beasts if the heart or liver of a serpent#t_footnote(959)[31] was consumed. Proclus the Platonist believed and wrote that the heart of a mole was good for predictions.#t_footnote(960)[32]
@@ -2701,12 +2701,12 @@ among themselves, it signifies a change of kings. If, however, different kinds [
     We also read that Numa Pompilius practiced hydromancy. Indeed, he elicited the images of gods in water and learned the future from them—and Pythagoras also practiced this art a long time after Numa.#t_footnote(984)[5] There was also a kind of hydromancy called lecanomancy that the Assyrians once held in great esteem. In that art, plates of gold, silver, and precious stones inscribed with certain images, names, and characters were placed into a basin full of water.#t_footnote(985)[6] It is said about this art that melted lead or wax was also cast into the water, and things that one desired to know were shown as notable images.
   ]
   #p_normal[
-    There were also once prophetic springs, such as the Patraean fountain at Achaea,#t_footnote(986)[7] and, it was said, the water of Juno at Epidaurus,#t_footnote(987)[8] and many more of which we will speak later in the section on oracles. However, here we refer to the divination of fish, once captured by the Lycians 
-in a place called Dina, near the sea in the sacred grove of Apollo in a 
-hollowed-out place in the sand. When consulting about the future, one lowered 
-roasted meat into the [hollow]. Suddenly, that place was filled with water and a 
-great multitude of fish and strange figures unknown to men appeared. From these forms, prophets predicted the future. This was widely referred to by Polycharmus in the
-#emph[Lycian History] by Athenaeus.#t_footnote(988)[9]
+    There were also once prophetic springs, such as the Patraean fountain at Achaea,#t_footnote(986)[7] and, it was said, the water of Juno at Epidaurus,#t_footnote(987)[8] and many more of which we will speak later in the section on oracles. However, here we refer to the divination of fish, once captured by the Lycians
+    in a place called Dina, near the sea in the sacred grove of Apollo in a
+    hollowed-out place in the sand. When consulting about the future, one lowered
+    roasted meat into the [hollow]. Suddenly, that place was filled with water and a
+    great multitude of fish and strange figures unknown to men appeared. From these forms, prophets predicted the future. This was widely referred to by Polycharmus in the
+    #emph[Lycian History] by Athenaeus.#t_footnote(988)[9]
   ]
   #p_normal[
     In a similar manner, aeromancy provides predictions through the impressions of air, through blowing of wind, through rainbows, halos, through mist and clouds, imaginations in clouds, and visions in the air.
@@ -2925,8 +2925,8 @@ great multitude of fish and strange figures unknown to men appeared. From these 
     #emph[The spirit to proclaim how great your accomplishments will be!]#t_footnote(1034)[16]
   ]
   #p_normal[
-    Also, there are certain predictions, which are divinations, confined between the middle of the natural and beyond the natural,#t_footnote(1035)[17] as in those who are near death and debilitated by old age. People in such states sometimes foresee the future because, as Plato says in the 
-#emph[Republic,] when they are less shackled to their senses, their understanding is more acute. Because they are closer to the place where they must go, the chains are, as it were, a little more relaxed and not entirely liable to the body. Thus, such people are easily illuminated by divine revelations.#t_footnote(1036)[18]
+    Also, there are certain predictions, which are divinations, confined between the middle of the natural and beyond the natural,#t_footnote(1035)[17] as in those who are near death and debilitated by old age. People in such states sometimes foresee the future because, as Plato says in the
+    #emph[Republic,] when they are less shackled to their senses, their understanding is more acute. Because they are closer to the place where they must go, the chains are, as it were, a little more relaxed and not entirely liable to the body. Thus, such people are easily illuminated by divine revelations.#t_footnote(1036)[18]
   ]
 ]
 
@@ -2947,8 +2947,8 @@ great multitude of fish and strange figures unknown to men appeared. From these 
     But the senses are divided into the outer and inner. The outer then, are divided into five notable parts, which equally have five organs or subjects, as if they were certain foundations. They are assigned and disposed thus, that they are to be collected in the most eminent parts of the body and likewise the purest.#t_footnote(1038)[2] Indeed, the eyes are arranged in the order of the highest place and are the purest. They are related to the natures of fire and light. Then the ears hold the second place and purity and are compared to air. The third position belongs to the nostrils, which hold the middle between air and water. However, the next is taste, which is denser and as a nature, similar to water. The last position is touch, diffused throughout the entire body. It has a density like earth.#t_footnote(1039)[3]
   ]
   #p_normal[
-    But the purest senses are those that are not close to the senses, but can perceive from a distance, such as seeing and hearing. Smell, through the medium of air, is perceived when not near. However, taste is not perceived 
-unless close, but touch is according to both methods: for it is perceived when near the body, and just as sight distinguishes through the medium of air, thus also touch can perceive through the medium of a stick or rod, sensing hardness and dampness. However, touch is the only sense common to all animals. But certainly, man possesses this sense: inasmuch as in touch and taste [man] excels over the other animals. But in the other three senses, some other animals prevail, such as dogs who can see, hear, and smell more acutely than man. Likewise, lynxes and eagles can see more acutely than many other animals and man.
+    But the purest senses are those that are not close to the senses, but can perceive from a distance, such as seeing and hearing. Smell, through the medium of air, is perceived when not near. However, taste is not perceived
+    unless close, but touch is according to both methods: for it is perceived when near the body, and just as sight distinguishes through the medium of air, thus also touch can perceive through the medium of a stick or rod, sensing hardness and dampness. However, touch is the only sense common to all animals. But certainly, man possesses this sense: inasmuch as in touch and taste [man] excels over the other animals. But in the other three senses, some other animals prevail, such as dogs who can see, hear, and smell more acutely than man. Likewise, lynxes and eagles can see more acutely than many other animals and man.
   ]
   #p_quote[
     #emph[Man excels over other animals with taste and touch.]
@@ -3005,16 +3005,16 @@ unless close, but touch is according to both methods: for it is perceived when n
     Chapter 62. Of the passions of the mind, their origin, difference, and kinds.
   ]
   #p_normal[
-    The passions of the mind are nothing else than certain movements or inclinations coming from the apprehension of some thing, as it were, good or evil, or agreeing or not agreeing. Apprehensions of this kind are threefold—that is, sensual, rational, and mental. After these are three passions of the soul. Whenever [these passions] 
-follow the sensitive apprehension, they then consider the good or temporal evil 
-under an agreeable or disagreeable, delectable or offensive rationale. Such 
-passions are called natural or animal. On the other hand, when passions instead 
-follow a rational apprehension and thus consider good or evil under a reason of 
-virtue and sin, praise and reproach, usefulness and uselessness, or honor and disgrace, they are called rational or voluntary passions. Whenever they follow a mental apprehension and consider good and evil under a rationale of justice and injustice, or truth and falsehood, they are called intellectual passions or conscience.#t_footnote(1048)[1]
+    The passions of the mind are nothing else than certain movements or inclinations coming from the apprehension of some thing, as it were, good or evil, or agreeing or not agreeing. Apprehensions of this kind are threefold—that is, sensual, rational, and mental. After these are three passions of the soul. Whenever [these passions]
+    follow the sensitive apprehension, they then consider the good or temporal evil
+    under an agreeable or disagreeable, delectable or offensive rationale. Such
+    passions are called natural or animal. On the other hand, when passions instead
+    follow a rational apprehension and thus consider good or evil under a reason of
+    virtue and sin, praise and reproach, usefulness and uselessness, or honor and disgrace, they are called rational or voluntary passions. Whenever they follow a mental apprehension and consider good and evil under a rationale of justice and injustice, or truth and falsehood, they are called intellectual passions or conscience.#t_footnote(1048)[1]
   ]
   #p_normal[
-    But the subject of the passions of the soul is the concupiscent#t_footnote(1049)[2] power of the soul and is divided into the concupiscent and the irascible. Each considers good and evil, but differently. Indeed the concupiscent power, whenever considering good and evil absolutely, causes love, or desire, and to the contrary hatred; or they consider good as absent, and thus causes lust, or a feeling of loss, and evil as absent, but as threatening, and thus causes horror, flight, and aversion; or they consider good and evil as present and advancing, and thus with good rising as delight, joy, pleasure, then with evil sadness, difficulty, and pain. But the irascible power considers good and evil under the rationale of difficulty for gaining 
-or obtaining, fleeing or expelling. This sometimes [rises] with confidence, and thus indeed causes hope, then boldness; whenever with mistrust, thus arises desperation and dread or fear. And whenever that irascible power rises in vengeance, this only happens around past evil, such as with inflicted injuries or attacks, and causes anger.
+    But the subject of the passions of the soul is the concupiscent#t_footnote(1049)[2] power of the soul and is divided into the concupiscent and the irascible. Each considers good and evil, but differently. Indeed the concupiscent power, whenever considering good and evil absolutely, causes love, or desire, and to the contrary hatred; or they consider good as absent, and thus causes lust, or a feeling of loss, and evil as absent, but as threatening, and thus causes horror, flight, and aversion; or they consider good and evil as present and advancing, and thus with good rising as delight, joy, pleasure, then with evil sadness, difficulty, and pain. But the irascible power considers good and evil under the rationale of difficulty for gaining
+    or obtaining, fleeing or expelling. This sometimes [rises] with confidence, and thus indeed causes hope, then boldness; whenever with mistrust, thus arises desperation and dread or fear. And whenever that irascible power rises in vengeance, this only happens around past evil, such as with inflicted injuries or attacks, and causes anger.
   ]
   #p_normal[
     And thus, we find eleven passions in the mind, which are love, hate, loss, horror, joy, pain, hope, desperation, boldness, fear, and anger.#t_footnote(1050)[3]
@@ -3056,9 +3056,9 @@ or obtaining, fleeing or expelling. This sometimes [rises] with confidence, and 
     Chapter 64. How the passions of the mind change the body by the imitation of a likeness; also, of the transformation and transference of man, and the strength of imaginative power held not only in the body but also in the soul.
   ]
   #p_normal[
-    The passions mentioned above sometimes alter the body through imitation according to the virtue that has a similarity to the thing changing it, which vehemently moves the imagination. For example, numbing and freezing the teeth from some sight or sound, or because we see or imagine another eating sharp things. As seeing another yawn also makes one yawn, and upon hearing the name of something sour, the tongue becomes sour; also troubling, when seeing 
-something foul corrupts the stomach and causes nausea; and some will faint when 
-seeing human blood. Some, when seeing bitter food presented, will perceive a bitter taste.#t_footnote(1058)[1] William of Auvergne wrote that he saw a man who, by only seeing medicine, was moved to purge as often as he needed to. Yet this was not with the substance of medicine, not tasting it, and not by its scent coming to him, but only by seizing its likeness through imagination.#t_footnote(1059)[2]
+    The passions mentioned above sometimes alter the body through imitation according to the virtue that has a similarity to the thing changing it, which vehemently moves the imagination. For example, numbing and freezing the teeth from some sight or sound, or because we see or imagine another eating sharp things. As seeing another yawn also makes one yawn, and upon hearing the name of something sour, the tongue becomes sour; also troubling, when seeing
+    something foul corrupts the stomach and causes nausea; and some will faint when
+    seeing human blood. Some, when seeing bitter food presented, will perceive a bitter taste.#t_footnote(1058)[1] William of Auvergne wrote that he saw a man who, by only seeing medicine, was moved to purge as often as he needed to. Yet this was not with the substance of medicine, not tasting it, and not by its scent coming to him, but only by seizing its likeness through imagination.#t_footnote(1059)[2]
   ]
   #p_quote[
     #emph[Of the wonderful power of imagination.]
@@ -3094,12 +3094,12 @@ seeing human blood. Some, when seeing bitter food presented, will perceive a bit
     Chapter 65. How the passions of the mind also operate outside of themselves in another’s body.
   ]
   #p_normal[
-    Passions of the soul that follow imagination, when most vehement, not only change one’s own body but can also move across to operate in another’s body.#t_footnote(1069)[1] 
-Therefore, certain wonderful impressions are produced in elements and external things, and also certain illnesses of the mind or body can thus be taken away or brought.#t_footnote(1070)[2] Passions of the soul are the most prominent cause of temperament in one’s own body. Thus, the soul, strongly elevated and inflamed by vehement imagination, brings health or illness—not only in one’s own body but also in another’s body.#t_footnote(1071)[3]
+    Passions of the soul that follow imagination, when most vehement, not only change one’s own body but can also move across to operate in another’s body.#t_footnote(1069)[1]
+    Therefore, certain wonderful impressions are produced in elements and external things, and also certain illnesses of the mind or body can thus be taken away or brought.#t_footnote(1070)[2] Passions of the soul are the most prominent cause of temperament in one’s own body. Thus, the soul, strongly elevated and inflamed by vehement imagination, brings health or illness—not only in one’s own body but also in another’s body.#t_footnote(1071)[3]
   ]
   #p_normal[
-    Thus, Avicenna thought that a camel can be killed from the imagination of anyone.#t_footnote(1072)[4] Thus, when one is bitten by a rabid dog, the figure of a dog appears in their urine. Thus, a lusting pregnant woman can act upon another’s body, afflicting the fetus in the womb by marking it with the thing desired.#t_footnote(1073)[5] 
-Thus, many monstrous generations are produced from pregnancies with monstrous imaginations. Such a case was referred to by Marcus Damascenus at Petra Sancta, a town situated in the confines of Pisa [province], that King Charles, emperor of Bohemia, was offered a girl whose entire body was shaggy and covered with hair like a wild beast. Her mother had a certain religious dread of the image of John the Baptist, which was near her bed during conception. This afterward affected her [pregnancy] and produced such [a child].
+    Thus, Avicenna thought that a camel can be killed from the imagination of anyone.#t_footnote(1072)[4] Thus, when one is bitten by a rabid dog, the figure of a dog appears in their urine. Thus, a lusting pregnant woman can act upon another’s body, afflicting the fetus in the womb by marking it with the thing desired.#t_footnote(1073)[5]
+    Thus, many monstrous generations are produced from pregnancies with monstrous imaginations. Such a case was referred to by Marcus Damascenus at Petra Sancta, a town situated in the confines of Pisa [province], that King Charles, emperor of Bohemia, was offered a girl whose entire body was shaggy and covered with hair like a wild beast. Her mother had a certain religious dread of the image of John the Baptist, which was near her bed during conception. This afterward affected her [pregnancy] and produced such [a child].
   ]
   #p_normal[
     The phenomena I have described does not only occur in men. We may also see it happen in brutish animals. Thus, we read that Jacob the patriarch, throwing twigs in the water, discolored the sheep of Laban.#t_footnote(1074)[6] Thus, peacocks and other different birds, when lying together, imprint their color upon each other’s feathers from the power of their strong imaginations, which produces white peacocks when the birds are lying together in a home with white linens hanging nearby.
@@ -3159,8 +3159,8 @@ Thus, many monstrous generations are produced from pregnancies with monstrous im
     In this way, whatever is dictated by the mind to be vehemently loved has an efficacy for love; whatever is dictated by the mind to be strongly hated has an efficacy of harm and destruction. It is similar in other things that affect the mind with strong desire.
   ]
   #p_normal[
-    Indeed, anything which then acts and dictates from characters, figures, words, sermons, gestures, and the like, helps the appetite of the soul and acquires certain wonderful virtues. In such a manner, the mind is moved by the soul of the worker, which is overtaken in that hour when the right celestial influences [are in operation] and the appetite of the soul is greatest. Indeed, our mind, when carried in any great excess of some passion or virtue, often seizes for itself a stronger, better, and more appropriate hour or opportunity. Thomas Aquinas acknowledged this in the third book of 
-#emph[Against the Gentiles].#t_footnote(1088)[3]
+    Indeed, anything which then acts and dictates from characters, figures, words, sermons, gestures, and the like, helps the appetite of the soul and acquires certain wonderful virtues. In such a manner, the mind is moved by the soul of the worker, which is overtaken in that hour when the right celestial influences [are in operation] and the appetite of the soul is greatest. Indeed, our mind, when carried in any great excess of some passion or virtue, often seizes for itself a stronger, better, and more appropriate hour or opportunity. Thomas Aquinas acknowledged this in the third book of
+    #emph[Against the Gentiles].#t_footnote(1088)[3]
   ]
   #p_normal[
     Thus, many wonderful virtues cause and follow certain wonderful virtues through great affections in those things, which the soul then dictates to them in that hour. However, know that these kinds of things confer nothing, or at least little, except to their originator. Indeed, they pass to those inclined toward them and to those who originated them. This is the way through which their effectiveness is discovered.
@@ -3226,14 +3226,14 @@ Thus, many monstrous generations are produced from pregnancies with monstrous im
     #emph[The particular names of things are certain rays.]
   ]
   #p_normal[
-    Hence, magicians say that the names of particular things are certain rays, always present everywhere, keeping the strength of things, inasmuch 
-as they are the essence ruling the thing signified. This essence discerns and 
-recognizes things through names, as it were, through particular and living 
-images. Indeed, as influences from the heavens and elements, with the virtues of 
-the planets, the Highest Maker produced different species and particular things. 
-Thus, according to the same influxes and influences, the qualities of the 
-particular names of things are reverberated and imposed, “by he who numbers the 
-entire multitude of the stars, calling them by their names”; of which names Christ elsewhere says: “Your names are written in the heavens.” Therefore, knowing these celestial influences and qualities of singular things, the Creator first assigned the names of things according to their essence, as it is written in Genesis, because God brought all things He created into the presence of Adam so that he could name them; and as he called the thing, they were named;#t_footnote(1103)[2] which certain names surely contain wonderful powers in things signified.
+    Hence, magicians say that the names of particular things are certain rays, always present everywhere, keeping the strength of things, inasmuch
+    as they are the essence ruling the thing signified. This essence discerns and
+    recognizes things through names, as it were, through particular and living
+    images. Indeed, as influences from the heavens and elements, with the virtues of
+    the planets, the Highest Maker produced different species and particular things.
+    Thus, according to the same influxes and influences, the qualities of the
+    particular names of things are reverberated and imposed, “by he who numbers the
+    entire multitude of the stars, calling them by their names”; of which names Christ elsewhere says: “Your names are written in the heavens.” Therefore, knowing these celestial influences and qualities of singular things, the Creator first assigned the names of things according to their essence, as it is written in Genesis, because God brought all things He created into the presence of Adam so that he could name them; and as he called the thing, they were named;#t_footnote(1103)[2] which certain names surely contain wonderful powers in things signified.
   ]
   #p_normal[
     Therefore, all signifying voices first signify through the influences of celestial harmony, second through the application of man, although more often otherwise by this and by that. However, when both significations coincide in some voice or name, assigned from the celestial harmony and from men alike, then it is a double virtue—that is, natural and voluntary. Those names are made most effective for acting, as often as they are mentioned in the appropriate place, time, and solemnity, with an exact intention in disposing the matter, and from the nature given by them.#t_footnote(1104)[3]
@@ -3249,7 +3249,7 @@ entire multitude of the stars, calling them by their names”; of which names Ch
   ]
   #p_normal[
     However, song, when invoking gods and cursing enemies, and when assaulting around cities, if one wishes to know, may be found in Livy and Macrobius, as well as much from Serenus Sammonicus in the book
-#emph[Hidden Things].#t_footnote(1107)[6]
+    #emph[Hidden Things].#t_footnote(1107)[6]
   ]
 ]
 
@@ -3258,9 +3258,9 @@ entire multitude of the stars, calling them by their names”; of which names Ch
     Chapter 71. Of complex speeches and songs, and the virtues and bindings of incantations.
   ]
   #p_normal[
-    Beyond the virtues of words and 
-names, other greater virtues are found in complex orations from truth contained 
-in them. They impress a greater power. By changing, binding, establishing, and being used, it makes them shine more. Fighting against them strengthens and solidifies them more. However, these virtues are not in simple words but rather in phrases from which something is affirmed or denied.#t_footnote(1108)[1] Of this kind are songs, incantations, curses, orations, invocations, entreats, appeals, exorcisms, and the like.
+    Beyond the virtues of words and
+    names, other greater virtues are found in complex orations from truth contained
+    in them. They impress a greater power. By changing, binding, establishing, and being used, it makes them shine more. Fighting against them strengthens and solidifies them more. However, these virtues are not in simple words but rather in phrases from which something is affirmed or denied.#t_footnote(1108)[1] Of this kind are songs, incantations, curses, orations, invocations, entreats, appeals, exorcisms, and the like.
   ]
   #p_normal[
     Therefore, in composing songs and orations for attracting the virtue of any star or god, one must diligently consider which virtues, effects, and operations each star contains and engraft them in the songs. This is accomplished by praising, extolling, amplifying, and adorning that which the star typically brings about and influences, while suppressing and rejecting that which the star typically destroys and impedes.#t_footnote(1109)[2] Pray and implore for that which one desires to gain; reprimand and detest that which one desires to destroy and impede. With that method, you must compose an ornate and elegant oration to song, with distinct resolved parts, and with agreeable numbers and proportions.
@@ -3389,8 +3389,8 @@ in them. They impress a greater power. By changing, binding, establishing, and b
     #emph[I draw you also, Moon . . .]#t_footnote(1124)[11]
   ]
   #p_normal[
-    Also, all poets sing, and philosophers do not deny that songs bring about many wonders, such as banishing crops, collecting or causing lightning, curing illness, and the like. Cato, in 
-#emph[Rustic Things,] used certain incantations against illnesses of beasts,#t_footnote(1125)[12] which are recorded in his writings. Likewise, Solomon was experienced in incantations of this kind, as Josephus testified. Celsus Africanus likewise wrote about Egyptian doctrine, that [the parts of] the human body (just as the number of decans of the signs of the zodiac are thirty-six) are attended by [an equivalent number of] daemons, each of which supports and protects his own part, whose names are called in the name of their homeland#t_footnote(1126)[13] and are invoked in incantations to restore impaired parts of the body and restore health.#t_footnote(1127)[14]
+    Also, all poets sing, and philosophers do not deny that songs bring about many wonders, such as banishing crops, collecting or causing lightning, curing illness, and the like. Cato, in
+    #emph[Rustic Things,] used certain incantations against illnesses of beasts,#t_footnote(1125)[12] which are recorded in his writings. Likewise, Solomon was experienced in incantations of this kind, as Josephus testified. Celsus Africanus likewise wrote about Egyptian doctrine, that [the parts of] the human body (just as the number of decans of the signs of the zodiac are thirty-six) are attended by [an equivalent number of] daemons, each of which supports and protects his own part, whose names are called in the name of their homeland#t_footnote(1126)[13] and are invoked in incantations to restore impaired parts of the body and restore health.#t_footnote(1127)[14]
   ]
 ]
 
@@ -3441,9 +3441,9 @@ in them. They impress a greater power. By changing, binding, establishing, and b
     God has given man a mind and speech, which (as Hermes Trismegistus said) are thought to be a gift of the same virtue, power, and immortality.#t_footnote(1134)[1] However, the omnipotent God Himself, by His providence, divided the speech of men into different languages. Indeed, with these languages, according to their diversity, they have likewise received different and individual letters for writing, constant in their certain reliable order, number, and figures, not accidental, by chance, nor from the fragile will of man, but divinely disposed and formed, agreeing with the celestials and the divine bodies and virtues themselves.
   ]
   #p_normal[
-    However, among all languages Hebrew is notable as the most sacred of all writings.#t_footnote(1135)[2] In the figures of [Hebrew] characters, vowel stops, and accent points, just as consisting in matter, form, and spirit, the positions of the stars were first noted down in the seat of God, which is heaven. According to these figures, as Hebrew teachers testify, are the most fully formed letters of the celestial mysteries. [Such mysteries are shown] through their figure, form, and signification, then through the numbers signified by them, then through the various harmony bound in them.#t_footnote(1136)[3] The more secret Hebrew mekubalim assert that everything can be explained from the figures of their letters, forms of their characters, and their signature, simplicity, composition, separation, crookedness, direction, defect, abundance, largeness, smallness, crown, opening, closing, order, changing, connecting, revolutions, points, tops of the letters, 
-and computation of the numbers signified by the letters. This is because these 
-characteristics proceed from the First Cause and repeatedly renew themselves thereby.
+    However, among all languages Hebrew is notable as the most sacred of all writings.#t_footnote(1135)[2] In the figures of [Hebrew] characters, vowel stops, and accent points, just as consisting in matter, form, and spirit, the positions of the stars were first noted down in the seat of God, which is heaven. According to these figures, as Hebrew teachers testify, are the most fully formed letters of the celestial mysteries. [Such mysteries are shown] through their figure, form, and signification, then through the numbers signified by them, then through the various harmony bound in them.#t_footnote(1136)[3] The more secret Hebrew mekubalim assert that everything can be explained from the figures of their letters, forms of their characters, and their signature, simplicity, composition, separation, crookedness, direction, defect, abundance, largeness, smallness, crown, opening, closing, order, changing, connecting, revolutions, points, tops of the letters,
+    and computation of the numbers signified by the letters. This is because these
+    characteristics proceed from the First Cause and repeatedly renew themselves thereby.
   ]
   #p_quote[
     #emph[Hebrew letters are the most sacred.]
@@ -3452,8 +3452,8 @@ characteristics proceed from the First Cause and repeatedly renew themselves the
     Additionally, Hebrews distribute the letters of their alphabet in three ways: that is, the twelve simple, seven doubles, and three mothers, which they signify as characters of things—the twelve signs, seven planets, and three elements—that is, fire, water, and earth, for air is not an element but is like a glue and spirit for the elements.
   ]
   #p_normal[
-    To these, they arrange points and tops. Therefore, the names of all things are appointed from the characters and points of these letters and thus from the aspects of planets and signs, and likewise from the elements, the Maker, the spirit, and truly all that has been and will be,#t_footnote(1137)[4] 
-signifying those [things] that are produced, and just as a certain sacrament and vehicle for explaining things, they bring their essence and strength everywhere with them.#t_footnote(1138)[5]
+    To these, they arrange points and tops. Therefore, the names of all things are appointed from the characters and points of these letters and thus from the aspects of planets and signs, and likewise from the elements, the Maker, the spirit, and truly all that has been and will be,#t_footnote(1137)[4]
+    signifying those [things] that are produced, and just as a certain sacrament and vehicle for explaining things, they bring their essence and strength everywhere with them.#t_footnote(1138)[5]
   ]
   #p_normal[
     These profound perceptions and sacraments are inherent in these characters and figures, and their numbers, structure, order, and revolution.#t_footnote(1139)[6] Origen, therefore, thought that names translated into other languages retain little of their own power, because they do not retain their natural signification.#t_footnote(1140)[7] Indeed, only original names, which are rightly imposed because they naturally signify, have a natural function. It is not so in those [names] which signify [only] from pleasure, that do not have the function they signify, but as they are certain natural things in themselves.
@@ -3465,9 +3465,9 @@ signifying those [things] that are produced, and just as a certain sacrament and
     But the investigator must search them for a long time by combining single letters, until which time the voice of God is revealed and opens the most sacred texts of the letters. Indeed, voices and words have efficacy in magical operations, because in them the first magic nature exercises, is the voice of God.#t_footnote(1144)[11] But these are of a higher speculation than what is handled in this book.
   ]
   #p_normal[
-    But now we return to the distribution of letters. Of these the Hebrew three mothers are 
-א ,ו ,י the seven doubles, 
-ב ,ג ,ד ,כ ,פ ,ר ,ת then the remaining twelve, ה ,ז ,ח ,ט ,ל ,מ ,נ ,ס ,ע ,צ ,ק ,ש are simple;#t_footnote(1145)[12] there is an equal rationale among the Chaldeans.
+    But now we return to the distribution of letters. Of these the Hebrew three mothers are
+    א ,ו ,י the seven doubles,
+    ב ,ג ,ד ,כ ,פ ,ר ,ת then the remaining twelve, ה ,ז ,ח ,ט ,ל ,מ ,נ ,ס ,ע ,צ ,ק ,ש are simple;#t_footnote(1145)[12] there is an equal rationale among the Chaldeans.
   ]
   #p_normal[
     From these, other languages likewise imitated and distributed their letters with the signs, planets, and elements in a certain order. For instance, from the Greek, Α, Ε, Η, Ι, Ο, Υ, Ω respond to the seven planets; Β, Γ, Δ, Ζ, Κ, Λ, Μ, Ν, Π, Ρ, Σ, Τ are attributed to the twelve signs of the zodiac; the other five, Θ, Ξ, Φ, Χ, Ψ, represent the four elements and World Spirit.
@@ -3479,9 +3479,9 @@ signifying those [things] that are produced, and just as a certain sacrament and
     However, do not ignore Hebrew letters, which according to all wise men are the most effective. They have the greatest likeness with the celestials and the world. The letters of other languages are not so effective, because they are more distant from them: surely the following table will explain their dispositions.
   ]
   #p_normal[
-    Also, each letter has double numbers in their order—that is, extended—whereby how many letters according to their order are simply 
-expressed, and then collected, which then are gathered with all the preceding 
-letters and their numbers. Then they also have integral numbers, which result from the names of the letters according to the various ways of numbering them.#t_footnote(1146)[13]
+    Also, each letter has double numbers in their order—that is, extended—whereby how many letters according to their order are simply
+    expressed, and then collected, which then are gathered with all the preceding
+    letters and their numbers. Then they also have integral numbers, which result from the names of the letters according to the various ways of numbering them.#t_footnote(1146)[13]
   ]
   #p_normal(center: true)[
     Those who recognize the power of numbers can elicit wonderful
@@ -3527,7 +3527,7 @@ letters and their numbers. Then they also have integral numbers, which result fr
   ]
   #p_normal[
     #emph[Now behold, most illustrious prince and greatest prelate, the remaining books of] The Occult Philosophy or Magic,
-#emph[which I promised your reverence that I would soon produce when the previous book came to light, but the almost sudden and unexpected death of my princess, the divine Margaret of Austria, caused me to delay the publishing. Then I produced less because of oppositions from several idle sycophants, and some wicked scholarly sophists from my publishing] Declamation of the Vanity of the Sciences and the Excellent Word of God,#t_footnote(1147)[1] #emph[which raged without pause, and with bitter hatred, spite, envy, and continuous false accusations vying against me. Then others with raised eyebrows, full mouths, and forthright voices in the temples of the common people, accused me of impiety. Others whispered in the corners of houses in villages, filling unfamiliar ears of my infamy. Others, through public and private meetings of pontiffs, princes, and Caesar himself, instigated [accusations] against me.]
+    #emph[which I promised your reverence that I would soon produce when the previous book came to light, but the almost sudden and unexpected death of my princess, the divine Margaret of Austria, caused me to delay the publishing. Then I produced less because of oppositions from several idle sycophants, and some wicked scholarly sophists from my publishing] Declamation of the Vanity of the Sciences and the Excellent Word of God,#t_footnote(1147)[1] #emph[which raged without pause, and with bitter hatred, spite, envy, and continuous false accusations vying against me. Then others with raised eyebrows, full mouths, and forthright voices in the temples of the common people, accused me of impiety. Others whispered in the corners of houses in villages, filling unfamiliar ears of my infamy. Others, through public and private meetings of pontiffs, princes, and Caesar himself, instigated [accusations] against me.]
   ]
   #p_normal[
     #emph[Hence, I hesitated whether I should produce the remaining books when I doubted if this would throw me into more accusations as if [I] cast myself from the smoke into the fire. A certain rustic fear invaded me, that giving these [books] to you would be seen as more annoying than dutiful, and also subject Your Highness to the slander and flames of the hatred and tongues of your detractors.]
@@ -3540,7 +3540,7 @@ letters and their numbers. Then they also have integral numbers, which result fr
   ]
   #p_normal(center: true)[
     #emph[book of ]The Occult Philosophy,
-#emph[in which we speak of the mysteries]
+    #emph[in which we speak of the mysteries]
   ]
   #p_normal(center: true)[
     #emph[of celestial magic. All will be revealed and [we will be] shown the]

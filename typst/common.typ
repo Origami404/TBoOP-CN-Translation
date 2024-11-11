@@ -1,19 +1,19 @@
 #let character(it) = {
-	it
-	pagebreak()
+  it
+  pagebreak()
 }
 #let l_section(it) = it
 #let p_normal(
-	word_indent: "first-line", 
-	para_indent: 0, 
-	center: false,
-	italic: false,
-	bold: false,
-	right: false,
-	it
+  word_indent: "first-line",
+  para_indent: 0,
+  center: false,
+  italic: false,
+  bold: false,
+  right: false,
+  it,
 ) = {
-	it
-	parbreak()
+  it
+  parbreak()
 }
 #let p_quote = p_normal
 #let p_poetry = p_normal
@@ -27,16 +27,16 @@
 #let l_unordered_item(it) = list.item(it)
 
 #let t_footnote(id, it) = {
-	let target_label = label("nr" + str(id))
-	let this_label = label("nt" + str(id))
+  let target_label = label("nr" + str(id))
+  let this_label = label("nt" + str(id))
 
-	super[#link(target_label, it) #this_label]
+  super[#link(target_label, it) #this_label]
 }
 #let t_footnotecontent(id, it) = {
-	let target_label = label("nt" + str(id))
-	let this_label = label("nr" + str(id))
+  let target_label = label("nt" + str(id))
+  let this_label = label("nr" + str(id))
 
-	super[#link(target_label, it) #this_label]
+  super[#link(target_label, it) #this_label]
 }
 
 #let t_img = image

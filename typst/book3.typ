@@ -20,12 +20,12 @@
     #emph[But the divine intelligence purges the mind of error and restores the divine. It grants infallible virtues to our operations and drives far away delusions and obstacles of all evil daemons, and likewise subjects them to our commands. It also collects good angels and virtues of the whole world into our ministry—that is, the virtue of our works being attracted from the Archetype itself, to whom when we ascend, all creatures necessarily obey us, and the heavenly chorus follows us. As Homer said: “None of the gods remained seated, as Jove advanced,”]#t_footnote(1891)[2]#emph[ and then immediately rules (as Aristophanes said)]#t_footnote(1892)[3]#emph[ through any god,]#t_footnote(1893)[4]#emph[ to whom is appointed to carry out divine law. Then, from them, their duty is to carry out our petitions according to our wishes.]
   ]
   #p_normal[
-    #emph[Therefore, illustrious Prince, since a divine and immortal soul is given to you, which with the kindness of divine providence, an effortless fate, and generous nature in such a way has been endowed to you, that with sharp and unimpaired senses, you are able to admire, explore, contemplate, discern, and judge the beautiful spectacle of natural things, the sublime temples of heaven, and the most difficult sanctuaries of divine things. I am bound to the obligation of your such great virtues, and I am also indebted to “learn without pretense” the mysteries of divine and ceremonial magic, communicating true definitions of opinions “without hatred nor hiding the intelligence of them”]#t_footnote(1894)[5]#emph[[the knowledge] of those ancient Isiac]#t_footnote(1895)[6]#emph[ priests of the Egyptians, the ancient Chaldean prophets of the Babylonians, and the divine wise Hebrew kabbalists. I am also [indebted to] the Orphics, Pythagoreans, and Platonists, profound Greek philosophers, Indian Brahmans,]#t_footnote(1896)[7]#emph[ Ethiopian Gymnosophists, and our undefiled religious theologians who delivered with the power of words and seals, with charms]#t_footnote(1897)[8]#emph[ of blessings and curses, by which virtues of observations were once worked with such astonishment and admiration. These are intimated to you in this 
+    #emph[Therefore, illustrious Prince, since a divine and immortal soul is given to you, which with the kindness of divine providence, an effortless fate, and generous nature in such a way has been endowed to you, that with sharp and unimpaired senses, you are able to admire, explore, contemplate, discern, and judge the beautiful spectacle of natural things, the sublime temples of heaven, and the most difficult sanctuaries of divine things. I am bound to the obligation of your such great virtues, and I am also indebted to “learn without pretense” the mysteries of divine and ceremonial magic, communicating true definitions of opinions “without hatred nor hiding the intelligence of them”]#t_footnote(1894)[5]#emph[[the knowledge] of those ancient Isiac]#t_footnote(1895)[6]#emph[ priests of the Egyptians, the ancient Chaldean prophets of the Babylonians, and the divine wise Hebrew kabbalists. I am also [indebted to] the Orphics, Pythagoreans, and Platonists, profound Greek philosophers, Indian Brahmans,]#t_footnote(1896)[7]#emph[ Ethiopian Gymnosophists, and our undefiled religious theologians who delivered with the power of words and seals, with charms]#t_footnote(1897)[8]#emph[ of blessings and curses, by which virtues of observations were once worked with such astonishment and admiration. These are intimated to you in this
 third book of ]Occult Philosophy, #emph[which will expose to light what ancient things have been covered with the dust and mists of oblivion, just as if they were laid down and wrapped in Cimmerian darkness].#t_footnote(1898)[9]
   ]
   #p_normal[
-    #emph[Therefore, this now finished and complete three books of ] 
-Occult Philosophy or Magic #emph[is delivered to you. [This work] is complete, which we labored with vigilant care and with great effort in both mind and body. Although with rough words, these things were clearly most arduous.]
+    #emph[Therefore, this now finished and complete three books of ]
+    Occult Philosophy or Magic #emph[is delivered to you. [This work] is complete, which we labored with vigilant care and with great effort in both mind and body. Although with rough words, these things were clearly most arduous.]
   ]
   #p_normal[
     #emph[However, I preface by asking one favor: that you will not require graceful orations and elegant speech in these books, which we once wrote in our youth. Besides course speeches and formless orations, we now recognize not the context of the speech but merely the series of sentences. Indeed, we less desired the elegance of the speech, following in its place the abundance of material. We believe we have satisfactorily completed this duty, in which we promised to relate the secrets of magic, and because of our maturity, we have excelled and have freed our conscience from a debt.]
@@ -43,9 +43,9 @@ Occult Philosophy or Magic #emph[is delivered to you. [This work] is complete, w
     Chapter 1. Of the necessity, virtue, and usefulness of religion.
   ]
   #p_normal[
-    It is now time that we turn to the highest part of magic, which teaches us how to understand and know the laws of religion,#t_footnote(1900)[1] how to gain truth from divine religion, and how we must duly 
-develop our soul and mind. [It is by this] only that can we firmly comprehend the truth. Indeed, it is the common opinion of magicians that unless the mind and soul are well, the body cannot be well.#t_footnote(1901)[2] 
-A man is truly healthy when the soul and body are thus connected and are agreeing with each other, since the firmness of mind and soul are not inferior to the strength of the body.#t_footnote(1902)[3] But, as Hermes said, we can obtain a firm and robust mind in no other way than from a life of integrity, with piety, and finally from divine religion.#t_footnote(1903)[4]
+    It is now time that we turn to the highest part of magic, which teaches us how to understand and know the laws of religion,#t_footnote(1900)[1] how to gain truth from divine religion, and how we must duly
+    develop our soul and mind. [It is by this] only that can we firmly comprehend the truth. Indeed, it is the common opinion of magicians that unless the mind and soul are well, the body cannot be well.#t_footnote(1901)[2]
+    A man is truly healthy when the soul and body are thus connected and are agreeing with each other, since the firmness of mind and soul are not inferior to the strength of the body.#t_footnote(1902)[3] But, as Hermes said, we can obtain a firm and robust mind in no other way than from a life of integrity, with piety, and finally from divine religion.#t_footnote(1903)[4]
   ]
   #p_normal[
     Indeed, sacred religion purges the mind and restores the divine. It also helps nature and reinforces natural virtues, just as physicians help the health of the body and farmers help the virtues of the earth.#t_footnote(1904)[5] Whoever lays aside religious truths and only believes in the natural is often deceived by evil daemons.#t_footnote(1905)[6] However, [the practice of] scorning and curing sins, as well as the protection against evil daemons, is born from understanding religion.#t_footnote(1906)[7] Finally, nothing is more pleasing and welcome to God than a man who is perfectly pious and truly religious. [One who lives this way] excels as far over other men as the immortal gods are distant above him.#t_footnote(1907)[8]
@@ -123,12 +123,12 @@ A man is truly healthy when the soul and body are thus connected and are agreein
     #emph[Tertullian. Apuleius.]
   ]
   #p_normal[
-    Thus, we read of Theodectes,#t_footnote(1922)[12] the tragic poet who was deprived of sight when, wishing to refer to a certain story, he wrote of mysteries in Jewish scripture. Likewise, Theopompus, who began to translate some divine law into the Greek tongue, was immediately struck with a certain disturbance of the mind and soul.#t_footnote(1923)[13] Afterward, his great begging touched God, who responded through an answer in a dream [that this occurred] because [Theopompus] 
-polluted divine things by flattery in publishing them publicly. Indeed, a certain Numenius, curious of hidden things, offended the divinities because he divulged the sacred interpretation of the Eleusinian goddess. Indeed, he dreamed the Eleusinian goddess wore a courtesan’s clothes and was for sale in front of a brothel; and when he was surprised, she answered angrily that her chastity was attacked, stolen violently, and prostituted everywhere: because of this admonishment the ceremonies of the gods must not be divulged at all.#t_footnote(1924)[14]
+    Thus, we read of Theodectes,#t_footnote(1922)[12] the tragic poet who was deprived of sight when, wishing to refer to a certain story, he wrote of mysteries in Jewish scripture. Likewise, Theopompus, who began to translate some divine law into the Greek tongue, was immediately struck with a certain disturbance of the mind and soul.#t_footnote(1923)[13] Afterward, his great begging touched God, who responded through an answer in a dream [that this occurred] because [Theopompus]
+    polluted divine things by flattery in publishing them publicly. Indeed, a certain Numenius, curious of hidden things, offended the divinities because he divulged the sacred interpretation of the Eleusinian goddess. Indeed, he dreamed the Eleusinian goddess wore a courtesan’s clothes and was for sale in front of a brothel; and when he was surprised, she answered angrily that her chastity was attacked, stolen violently, and prostituted everywhere: because of this admonishment the ceremonies of the gods must not be divulged at all.#t_footnote(1924)[14]
   ]
   #p_normal[
     Therefore, the ancients always studied God and nature by wrapping up the sacraments and concealing them with various puzzles, which is how the Indians, Brahmans, Ethiopians, Persians, and Egyptians observed laws. Hence, Hermes [Trismegistus], Orpheus, and all ancient prophets and philosophers—Pythagoras, Socrates, Plato, Aristoxenus, and Ammonius—loyally protected them as sacrosanct. Hence, Plotinus and Origen and other students of Ammonius, as told by Porphyry in his book
-#emph[Of the Education and Teaching of Plotinus,] swore to not release the doctrines of their teacher. Because Plotinus violated his oath to Ammonius by publishing the sacraments, the penalty of his transgression—as some claim—was to be consumed as food by horrible lice. Also, Christ Himself—while He lived on the earth—spoke with that law and reasoning that only the private disciples will understand the mystery of the Word of God, while others will only perceive parables. Additionally, Christ warned to not give sacred things to dogs, nor cast pearls before swine.#t_footnote(1925)[15] Therefore, the prophet said: “I have hidden your words in my heart so that I will not sin against you.”
+    #emph[Of the Education and Teaching of Plotinus,] swore to not release the doctrines of their teacher. Because Plotinus violated his oath to Ammonius by publishing the sacraments, the penalty of his transgression—as some claim—was to be consumed as food by horrible lice. Also, Christ Himself—while He lived on the earth—spoke with that law and reasoning that only the private disciples will understand the mystery of the Word of God, while others will only perceive parables. Additionally, Christ warned to not give sacred things to dogs, nor cast pearls before swine.#t_footnote(1925)[15] Therefore, the prophet said: “I have hidden your words in my heart so that I will not sin against you.”
   ]
   #p_normal[
     Therefore, it is not fit that secrets that are communicated orally among only a few wise men be put together publicly in letters:#t_footnote(1926)[16] which is why, please pardon me, if I pass over many and the better secret sacraments of ceremonial magic in silence. But I think it is enough if I make known and refer to what is necessary. You will not depart from this book entirely empty of these mysteries. But on that condition [of secrecy], I will share these [words] with you, with which Dionysius bound Timothy—that is, that those who perceive these secrets will not expose them, but [rather they] will be collected among wise men and guarded with due respect.#t_footnote(1927)[17]
@@ -377,8 +377,8 @@ polluted divine things by flattery in publishing them publicly. Indeed, a certai
     #emph[Porphyry.]
   ]
   #p_normal[
-    Therefore, the whole world is Jupiter, as Porphyry said, and he is the animal of animals and God of gods. But Jupiter is such a great intelligence from whom the universe was produced and from whose intelligence everything was created; hence, Orpheus sang in his 
-#emph[Of Sacred Words:]
+    Therefore, the whole world is Jupiter, as Porphyry said, and he is the animal of animals and God of gods. But Jupiter is such a great intelligence from whom the universe was produced and from whose intelligence everything was created; hence, Orpheus sang in his
+    #emph[Of Sacred Words:]
   ]
   #p_quote[
     #emph[Orpheus.]
@@ -507,23 +507,23 @@ polluted divine things by flattery in publishing them publicly. Indeed, a certai
     #emph[The fate of Jupiter is in the sky, he sits in the ether in the clouds.]#t_footnote(2007)[24]
   ]
   #p_normal[
-    But it is called “ether,”#t_footnote(2008)[25] according to Greek grammar, from #emph[aitho,] which signifies “burning.”#t_footnote(2009)[26] The spirit of air is a quasi-ether—that is, a “burning spirit.”#t_footnote(2010)[27] Hence, Orpheus called ether 
-#emph[pyripnon,] “fiery breather.”#t_footnote(2011)[28]
+    But it is called “ether,”#t_footnote(2008)[25] according to Greek grammar, from #emph[aitho,] which signifies “burning.”#t_footnote(2009)[26] The spirit of air is a quasi-ether—that is, a “burning spirit.”#t_footnote(2010)[27] Hence, Orpheus called ether
+    #emph[pyripnon,] “fiery breather.”#t_footnote(2011)[28]
   ]
   #p_quote[
     αἴθω.
 
-ἀήρ.
+    ἀήρ.
 
-πυριπνόζ.
+    πυριπνόζ.
   ]
   #p_normal[
     Therefore, the Father, Son, and amorous Spirit are fiery and called three persons by Theologians, which indeed Orpheus invoked these verses in adorations: “Heaven I swear to you, wise work of the great God. I call upon you, Father, who first spoke when he formed the whole world by his counsel.”#t_footnote(2012)[29]
   ]
   #p_normal[
-    Hesiod confessed the same under the names of Jove, Minerva, and Bulae#t_footnote(2013)[30] in 
-#emph[Theogony,] revealing Jove’s twofold birth in these verses: “Surely Tritonia, the first daughter with gray eyes, has equal power with the father, and prudent Bulae—that is, council.”#t_footnote(2014)[31] Orpheus mentioned this many times in the aforementioned verses because of that dual emanation; indeed, an equality is produced from Jove and Minerva. Augustine in the fourth book of 
-#emph[The City of God] wrote that the Platonist Porphyry placed God in three persons: the first is called the Father of the universe; the second is called the “First Mind”#t_footnote(2015)[32]—or, as Macrobius alternatively terms Him, “the Son.” The third is called the World Soul, which Virgil called Spirit according to the opinion of Plato, saying:
+    Hesiod confessed the same under the names of Jove, Minerva, and Bulae#t_footnote(2013)[30] in
+    #emph[Theogony,] revealing Jove’s twofold birth in these verses: “Surely Tritonia, the first daughter with gray eyes, has equal power with the father, and prudent Bulae—that is, council.”#t_footnote(2014)[31] Orpheus mentioned this many times in the aforementioned verses because of that dual emanation; indeed, an equality is produced from Jove and Minerva. Augustine in the fourth book of
+    #emph[The City of God] wrote that the Platonist Porphyry placed God in three persons: the first is called the Father of the universe; the second is called the “First Mind”#t_footnote(2015)[32]—or, as Macrobius alternatively terms Him, “the Son.” The third is called the World Soul, which Virgil called Spirit according to the opinion of Plato, saying:
   ]
   #p_poetry[
     #emph[The spirit within nourishes and infuses the entire frame]
@@ -541,12 +541,12 @@ polluted divine things by flattery in publishing them publicly. Indeed, a certai
     Chapter 9. What the true and most orthodox faith is about God and the most holy Trinity.
   ]
   #p_normal[
-    Catholic teachers and people of 
-faith have decreed that we must believe and declare that there is only one true 
-God, uncreated, immeasurable, omnipotent, eternal, Father, Son, Holy Ghost—indeed, three persons coeternal and coequal with each other, yet having one 
-essence and substance, and entirely one simple nature. This is the Catholic 
-faith—that is, orthodox religion; namely, true Christianity—as we worship one 
-God in a trinity, and the trinity in one, neither combining persons nor separating the substance.
+    Catholic teachers and people of
+    faith have decreed that we must believe and declare that there is only one true
+    God, uncreated, immeasurable, omnipotent, eternal, Father, Son, Holy Ghost—indeed, three persons coeternal and coequal with each other, yet having one
+    essence and substance, and entirely one simple nature. This is the Catholic
+    faith—that is, orthodox religion; namely, true Christianity—as we worship one
+    God in a trinity, and the trinity in one, neither combining persons nor separating the substance.
   ]
   #p_normal[
     The Father begat the Son from the eternal and gave him His substance but [also] retained it Himself. The Son likewise being born, received the substance from the Father, yet did not assume the individual person of the Father, nor did the Father transfer it to the Son; indeed, they are both of one and the same substances but different persons.
@@ -588,9 +588,9 @@ God in a trinity, and the trinity in one, neither combining persons nor separati
     #emph[Pliny’s opinion of God.]
   ]
   #p_normal[
-    Hence, a great variety of deities are distributed according to their many and various graces, “but a single God from all.”#t_footnote(2030)[11] As Apuleius said to Faustinus in his book 
-#emph[Of the World:] “Since there is one God, and one divine power, indeed He is called by many names according to many kinds, from whose diversity he is multiformed.”#t_footnote(2031)[12] Marcus Varro said in his book 
-#emph[On the Worship of Gods] that as all souls are reduced to one world or universal soul; thus, all gods refer to one Jove, indeed which god is honored under various names.#t_footnote(2032)[13]
+    Hence, a great variety of deities are distributed according to their many and various graces, “but a single God from all.”#t_footnote(2030)[11] As Apuleius said to Faustinus in his book
+    #emph[Of the World:] “Since there is one God, and one divine power, indeed He is called by many names according to many kinds, from whose diversity he is multiformed.”#t_footnote(2031)[12] Marcus Varro said in his book
+    #emph[On the Worship of Gods] that as all souls are reduced to one world or universal soul; thus, all gods refer to one Jove, indeed which god is honored under various names.#t_footnote(2032)[13]
   ]
   #p_normal[
     Therefore, one must know the perceptual qualities through secret analogies, perfectly intellectualize the hymns of Orpheus, and certainly understand the ancient magicians:#t_footnote(2033)[14] inasmuch as one will learn that these differ little with kabbalistic secrets and orthodox tradition. For what Orpheus called Guardians and undefiled gods, Dionysus called Powers,#t_footnote(2034)[15] and kabbalists called those numerations Pachad#t_footnote(2035)[16]—that is, “fear of the divine.” Thus, what is Ein Soph#t_footnote(2036)[17] in kabbalah, Orpheus called Night.#t_footnote(2037)[18] Likewise, Typhon from Orpheus is Zamael in kabbalah.#t_footnote(2038)[19]
@@ -599,8 +599,8 @@ God in a trinity, and the trinity in one, neither combining persons nor separati
     However, Hebrew mekubalim, who are the most learned of divine things, received ten principal divine names as certain divine powers and members of God; [these are given] by ten numerations, which are called Sephiroth. These are like garments, instruments, or examples of the archetype, flowing in all that is created through one superior all the way to the more inferior, yet by a certain order. They first and most closely influence the nine orders of angels and the choir of blessed souls, and by them in the celestial spheres of the planets, and men, from which then each thing receives power and virtue.#t_footnote(2039)[20]
   ]
   #p_normal[
-    Of these the first is made Ehyeh,#t_footnote(2040)[21] the name of the divine essence; this numeration is called Kether,#t_footnote(2041)[22] which means “crown” or “diadem” and signifies the simplest essence of divinity and is called “that which the eye cannot see.” It is attributed to God the Father and influences through the order of Seraphim (or, as Hebrews called it, Chaioth ha Qadesh#t_footnote(2042)[23]—that is, “holy animal”), and thence by the 
-#emph[Primum Mobile,] it grants the gift of being to everything, completing the whole world through the circumference to the center. Its particular intelligence is called Metatron—that is, “first presence”—whose duty is to introduce others to the first presence: and through him, the Lord spoke to Moses.
+    Of these the first is made Ehyeh,#t_footnote(2040)[21] the name of the divine essence; this numeration is called Kether,#t_footnote(2041)[22] which means “crown” or “diadem” and signifies the simplest essence of divinity and is called “that which the eye cannot see.” It is attributed to God the Father and influences through the order of Seraphim (or, as Hebrews called it, Chaioth ha Qadesh#t_footnote(2042)[23]—that is, “holy animal”), and thence by the
+    #emph[Primum Mobile,] it grants the gift of being to everything, completing the whole world through the circumference to the center. Its particular intelligence is called Metatron—that is, “first presence”—whose duty is to introduce others to the first presence: and through him, the Lord spoke to Moses.
   ]
   #p_normal[
     The second name is Yod or Tetragrammaton joined with Yod. This numeration is Chokhmah#t_footnote(2043)[24]—that is, “wisdom”—and signifies the divinity full of ideas, first born, and is attributed to the Son. It influences through the Cherubim order (or what the Hebrews call Ophanim—that is, “forms” or “wheels”), and thence into the starry heavens, building as many figures as ideas are contained in him. It distinguishes chaos from creation by a particular intelligence named Raziel, who was in charge of Adam.
@@ -615,8 +615,8 @@ God in a trinity, and the trinity in one, neither combining persons nor separati
     The fourth is named El, whose numeration, Chesed#t_footnote(2045)[26]—namely, “mercy” or “goodness”—signifies grace, pity, piety, magnificence, a scepter, the right hand, and influences through the order of Dominations (or as called by the Hebrews, Chasmalim).#t_footnote(2046)[27] Through the sphere of Jove, it fashions the effigies of bodies, granting mercy, peace, and justice for everything. Its particular intelligence is Zadkiel, who was placed in charge of Abraham.
   ]
   #p_normal[
-    The fifth name is Elohim Gibor—that is, “Valiant God punishing sins of the wicked.” This numeration is called Geburah#t_footnote(2047)[28]—namely, 
-“power, gravitas, fortitude, security, judgment, punishing by overthrowing, and wars.” It is joined to the tribunal of God, and the belt, sword, and left hand of Him. It is also called Pachad—that is, fear—and it influences through the order of Powers (or what the Hebrews call Seraphim), and thence through the sphere of Mars, which is strength, war, and pain, drawing the elements. Its particular intelligence is Camael, who was placed in charge of Samson.
+    The fifth name is Elohim Gibor—that is, “Valiant God punishing sins of the wicked.” This numeration is called Geburah#t_footnote(2047)[28]—namely,
+    “power, gravitas, fortitude, security, judgment, punishing by overthrowing, and wars.” It is joined to the tribunal of God, and the belt, sword, and left hand of Him. It is also called Pachad—that is, fear—and it influences through the order of Powers (or what the Hebrews call Seraphim), and thence through the sphere of Mars, which is strength, war, and pain, drawing the elements. Its particular intelligence is Camael, who was placed in charge of Samson.
   ]
   #p_normal[
     The sixth is called Eloah,#t_footnote(2048)[29]or the name of the four letters joined with Va Daat;#t_footnote(2049)[30] and this numeration is Tiphereth#t_footnote(2050)[31]—that is, “ornaments, beauty, glory, and pleasure.” It signifies the Tree of Life and influences through the order of Virtues (or what the Hebrews call Malachim— that is, “angels”). In the sphere of the Sun, it gives clarity and life and thence produces metals. Its particular intelligence is Raphael, who was placed in charge of Isaac and Tobias the Younger, and the angel Peliel, who was placed in charge of Jacob.
@@ -625,9 +625,9 @@ God in a trinity, and the trinity in one, neither combining persons nor separati
     The seventh name is Tetragrammaton Sabaoth or Adonai Sabaoth—that is, the “army of God.” This numeration is Netzach#t_footnote(2051)[32]—namely, “triumph and victory.” The right column is applied to it, and signifies eternity and justice of an avenging God, and influences through the order of Principalities (or as the Hebrews called Elohim—that is, “gods”). In the sphere of Venus, it grants jealousy and love of justice and produces vegetation. Its intelligence is Haniel, and the angel is Cerviel, who was placed in charge of David.
   ]
   #p_normal[
-    The eighth name is called Elohim Sabaoth, which is also interpreted as the “army of God, not of war and justice, but of piety and concord” (indeed, having each name of the preceding [numerations] for His army). This numeration is called Hod, which is interpreted as “praise, confession, beauty, and fame.” The left column is attributed to it, and it influences through the order of the Archangels (or what the Hebrews called Bne Elohim—that 
-is, “sons of gods”). In the sphere of Mercury, it grants ornate elegance and 
-concord and produces animals. Its intelligence is Michael, who was placed in charge of Solomon.
+    The eighth name is called Elohim Sabaoth, which is also interpreted as the “army of God, not of war and justice, but of piety and concord” (indeed, having each name of the preceding [numerations] for His army). This numeration is called Hod, which is interpreted as “praise, confession, beauty, and fame.” The left column is attributed to it, and it influences through the order of the Archangels (or what the Hebrews called Bne Elohim—that
+    is, “sons of gods”). In the sphere of Mercury, it grants ornate elegance and
+    concord and produces animals. Its intelligence is Michael, who was placed in charge of Solomon.
   ]
   #p_normal[
     The ninth name is called Shaddai#t_footnote(2052)[33]—that is, “omnipotent and allsatisfying”—and El Chai#t_footnote(2053)[34]—that is, “living God.” Its numeration is Yesod—that is, “foundation”—and it signifies the good intellect, covenant, redemption, and quiet, and it influences through the order of Angels (or what Hebrews call Cherubim). The sphere of the Moon grants increase and decrease in all things, and distributesand attends to the geniuses and guardians of men. Its intelligence is Gabriel, who was placed in charge of Joseph, Joshua, and Daniel.
@@ -645,42 +645,42 @@ concord and produces animals. Its intelligence is Michael, who was placed in cha
     God, although He is most singular, is appointed different names, which do not explain different essences or gods but certain qualities emanating from Him. Through these names, which are created, many and diverse blessings are given to us, as if they were distilled through certain channels. We described ten of these names above, which were also numerated by Jerome to Marcella. Then Dionysius collected 45 names of God the Father, and Christ. Hebrew mekubalim, from a certain text that is in Exodus, described 72 names of angels and God, which they call the name of 72 letters and Schemhamphoras#t_footnote(2056)[1]—that is, “Revealed.”#t_footnote(2057)[2] Others proceed further through each of the places of the scriptures, giving an indication of so many names of God, although as to what their numbers are and what they signify is thoroughly unknown to us.#t_footnote(2058)[3]
   ]
   #p_normal[
-    Therefore, from these names, besides those that we have mentioned, is the name of the divine essence Eheie אהיה,#t_footnote(2059)[4] which Plato transposed as ὤν.#t_footnote(2060)[5] Hence they called God τὸ ὂν,#t_footnote(2061)[6] and others ὁ ὤν.#t_footnote(2062)[7] The other name is Hu הוא, which was revealed to Isaiah, indicating the divine abyss, which the Greeks translated as ταυτόν,#t_footnote(2063)[8] and the Latin “Himself.” And the other name is Esch אש, received by Moses, which means “fire,”   and the name of God Na נא , is to be invoked in disturbances and troubles. And also, the name Iah יה , the name Elion עליון , the name
-Macom מקום , the name Caphu כפו, the name Innon יונן,#t_footnote(2064)[9] and the name Emeth אמת , mean “truth” and is the seal of God. There are two other names Zur צור and Aben אבן , each signifying “solid rock,”#t_footnote(2065)[10] and one of them expressing the Father with the Son. We have mentioned
-many other names above in the scales of numbers.
+    Therefore, from these names, besides those that we have mentioned, is the name of the divine essence Eheie אהיה,#t_footnote(2059)[4] which Plato transposed as ὤν.#t_footnote(2060)[5] Hence they called God τὸ ὂν,#t_footnote(2061)[6] and others ὁ ὤν.#t_footnote(2062)[7] The other name is Hu הוא, which was revealed to Isaiah, indicating the divine abyss, which the Greeks translated as ταυτόν,#t_footnote(2063)[8] and the Latin “Himself.” And the other name is Esch אש, received by Moses, which means “fire,” and the name of God Na נא , is to be invoked in disturbances and troubles. And also, the name Iah יה , the name Elion עליון , the name
+    Macom מקום , the name Caphu כפו, the name Innon יונן,#t_footnote(2064)[9] and the name Emeth אמת , mean “truth” and is the seal of God. There are two other names Zur צור and Aben אבן , each signifying “solid rock,”#t_footnote(2065)[10] and one of them expressing the Father with the Son. We have mentioned
+    many other names above in the scales of numbers.
   ]
   #p_normal[
     And many names of God and angels were extracted from the sacred scriptures by kabbalistic, calculatory, notary, and gematrial arts, where certain letters from one name or many words were withdrawn and collected, or one name with each of its letters dispersed signifies or makes more.#t_footnote(2066)[11] But sometimes they are collected from the beginnings of words, such as the name Agla אגלא from this verse in the sacred scripture: אתה גיבר לעולם אדני—that is, “You are eternally strong, God.”
-Likewise, the name Iaia יאיא from this verse:—יהוה אלהינו יהוה אחר
-that is, “God, our God, is the one God.” Likewise, the name Iava יאוא
-from this verse: יהי אור ויהי אור—that is, “Let there be light, and there
-was light.” Likewise, the name Ararita אראריתא from this verse: “There
-is one beginning of his unity, one beginning of his singularity, his change is one”#t_footnote(2067)[12] אחד ראש אחדותו ראש ייהודו תמורתו אחד . Another
-name is Hacaba הקבה extracted from this verse:—הקדוש ברוך הוא
-that is, “He is the holy and blessed one.” Likewise, the name Iesu ישו
-is found in the beginnings of these two verses: יביא שלוהו לו—that is,
-“Until the Messiah comes”;#t_footnote(2068)[13] and in the other: ינון שמו וית—that
-is, “His name endures.”#t_footnote(2069)[14] Similarly, the name Amen אמן from this verse:
-אדני מלך נאמן—that is, “The Lord, the faithful king.”
+    Likewise, the name Iaia יאיא from this verse:—יהוה אלהינו יהוה אחר
+    that is, “God, our God, is the one God.” Likewise, the name Iava יאוא
+    from this verse: יהי אור ויהי אור—that is, “Let there be light, and there
+    was light.” Likewise, the name Ararita אראריתא from this verse: “There
+    is one beginning of his unity, one beginning of his singularity, his change is one”#t_footnote(2067)[12] אחד ראש אחדותו ראש ייהודו תמורתו אחד . Another
+    name is Hacaba הקבה extracted from this verse:—הקדוש ברוך הוא
+    that is, “He is the holy and blessed one.” Likewise, the name Iesu ישו
+    is found in the beginnings of these two verses: יביא שלוהו לו—that is,
+    “Until the Messiah comes”;#t_footnote(2068)[13] and in the other: ינון שמו וית—that
+    is, “His name endures.”#t_footnote(2069)[14] Similarly, the name Amen אמן from this verse:
+    אדני מלך נאמן—that is, “The Lord, the faithful king.”
   ]
   #p_normal[
-    Sometimes they extracted these names from the ends of words, such as the same name Amen from this verse: לא כן הרשעים : —that is, “Not so the wicked”—but the letters are transposed. Thus, in this final verse: 
-לי מה שמו מה—that is, “Why me? What is his name?”—can be found the name of the Tetragrammaton. In all of these, a letter is placed for a speech and a letter extracted from a speech, or from the beginning, end, or wherever you wish.
+    Sometimes they extracted these names from the ends of words, such as the same name Amen from this verse: לא כן הרשעים : —that is, “Not so the wicked”—but the letters are transposed. Thus, in this final verse:
+    לי מה שמו מה—that is, “Why me? What is his name?”—can be found the name of the Tetragrammaton. In all of these, a letter is placed for a speech and a letter extracted from a speech, or from the beginning, end, or wherever you wish.
   ]
   #p_normal[
-    Sometimes these names are extracted from all of the letters one by one, just as those 72 names of God are extracted from those three verses of Exodus: 
-ויסע ויבא ויט, the first and last verses written from right to left, but the middle reversed from left to right as we will show later.
+    Sometimes these names are extracted from all of the letters one by one, just as those 72 names of God are extracted from those three verses of Exodus:
+    ויסע ויבא ויט, the first and last verses written from right to left, but the middle reversed from left to right as we will show later.
   ]
   #p_normal[
     Thus, sometimes a speech is extracted from a speech, or a word from
-a word, by transposing letters (as Messiah משיח from Yismah ישמח and
-Michael מיכאל from מלאכי Malachi), but sometimes by changing the
-alphabet, which kabbalists call Ziruph צירוף (such as from the name
-Tetragrammaton יהוה eliciting the names מצפצ Mazpaz, כוזו and
-Kuzu). Sometimes names are also changed by the equalizing of numbers
-(as Metatron מטטרון for Sadai שדי : indeed, each makes 314; for the
-same reason the name Iiai ייאי is an equal name to El אל by an equal
-number: indeed, each makes 31.)#t_footnote(2070)[15]
+    a word, by transposing letters (as Messiah משיח from Yismah ישמח and
+    Michael מיכאל from מלאכי Malachi), but sometimes by changing the
+    alphabet, which kabbalists call Ziruph צירוף (such as from the name
+    Tetragrammaton יהוה eliciting the names מצפצ Mazpaz, כוזו and
+    Kuzu). Sometimes names are also changed by the equalizing of numbers
+    (as Metatron מטטרון for Sadai שדי : indeed, each makes 314; for the
+    same reason the name Iiai ייאי is an equal name to El אל by an equal
+    number: indeed, each makes 31.)#t_footnote(2070)[15]
   ]
   #p_normal[
     These are hidden secrets, of which it is most difficult to bring to judgment and to relate a complete knowledge; nor can they be understood and taught in any other language than Hebrew.
@@ -689,8 +689,8 @@ number: indeed, each makes 31.)#t_footnote(2070)[15]
     But, since barbarians (as Plato said in #emph[Cratylus]) had divine names that they had from God, without which we cannot grasp the true speeches and true names by which God is called, we can say nothing else about these, except that which God by his own kindness has revealed to us.#t_footnote(2071)[16] Indeed, they are the sacraments and vehicles of God’s omnipotence. These names do not come from men, nor indeed from angels. Rather, they are firmly instituted by the highest God Himself, who established them by way of the immovable numbers, which are inherent in certain characters and figures. They are exhaled from the divine harmony and consecrated with the assistance of the divine: whereby those that are superior fear them, the inferior tremble, the angels worship them, cacodaemons are frightened, and all creatures and all religions revere them.
   ]
   #p_normal[
-    Religious observations and devotions give us a great advantage in our invocations. They deify the union and also cause wonderful supernatural works, effects, and power. Therefore, no one for any reason may change divine law. Origen taught that [these names] must be preserved in their own characters without corruption,#t_footnote(2072)[17] and Zoroaster also forbade modifying barbaric and ancient words. As Plato said in 
-#emph[Cratylus,] all divine words or names proceed originally from the gods, from antiquity, or from barbarians—the circumstances of their beginnings being not easily known.#t_footnote(2073)[18] Iamblichus likewise taught that they should not be translated from their language to another: “Indeed, names do not keep the same reason interpreted in another language.”
+    Religious observations and devotions give us a great advantage in our invocations. They deify the union and also cause wonderful supernatural works, effects, and power. Therefore, no one for any reason may change divine law. Origen taught that [these names] must be preserved in their own characters without corruption,#t_footnote(2072)[17] and Zoroaster also forbade modifying barbaric and ancient words. As Plato said in
+    #emph[Cratylus,] all divine words or names proceed originally from the gods, from antiquity, or from barbarians—the circumstances of their beginnings being not easily known.#t_footnote(2073)[18] Iamblichus likewise taught that they should not be translated from their language to another: “Indeed, names do not keep the same reason interpreted in another language.”
   ]
   #p_normal[
     Therefore, these divine names are the most suitable and most effective medium for joining and uniting man with gods.#t_footnote(2074)[19] As we read in Exodus: “In every place, where the memory of my name is, I will come to you and bless you.”#t_footnote(2075)[20] In the Book of Numbers, the Lord said: “And they will put my name over the sons of Israel and I will bless them.”#t_footnote(2076)[21]
@@ -732,10 +732,10 @@ number: indeed, each makes 31.)#t_footnote(2070)[15]
     These inscriptions should be made in ink upon the purest gold or virgin parchment, which must be whole, clean, and immaculate. According to this, they are formed from the smoke of a sacred candle, or incense, and holy water. The petitioner must be purified and expiated, with an infallible hope and constant faith, and his mind elevated to the most supreme God if they are to obtain and excel in this divine virtue.
   ]
   #p_normal[
-    There is a similar method against terror and harm from evil daemons and men, 
-and against whatever dangers approach, whether from journeys, waters, enemies, 
-or weapons. In the manner mentioned above, inscribe these characters on one side  
-בוווו and on the back צמרבה, which are the beginning and end of the first five verses of Genesis and the symbol of the creation of the entire world. Of this binding, they say that a man—if he most firmly believes in God, the author of the world—will be cleansed of all evils.#t_footnote(2088)[33]
+    There is a similar method against terror and harm from evil daemons and men,
+    and against whatever dangers approach, whether from journeys, waters, enemies,
+    or weapons. In the manner mentioned above, inscribe these characters on one side
+    בוווו and on the back צמרבה, which are the beginning and end of the first five verses of Genesis and the symbol of the creation of the entire world. Of this binding, they say that a man—if he most firmly believes in God, the author of the world—will be cleansed of all evils.#t_footnote(2088)[33]
   ]
   #p_normal[
     #t_img("./images/00162.jpeg")
@@ -744,8 +744,8 @@ or weapons. In the manner mentioned above, inscribe these characters on one side
     One should not distrust or wonder at sacred words, with which the all-powerful God made the heavens and earth and bound with great power. Accordingly, it can be found (as Costa ben Luca said) that many other nonphysical things can do much: as can be proved by experience with the finger of an aborted child suspended from the neck of a woman, which impedes conception for as long as it touches her neck.#t_footnote(2089)[34]
   ]
   #p_normal[
-    Additionally, in certain sacred words and divine names there is great and divine power, which is an operative virtue in wonderful effects, as the splendid philosophers Zoroaster, Orpheus, Iamblichus, Synesius, and al-Kindi each testify.#t_footnote(2090)[35] Artephius, a magician and philosopher, wrote a book on the virtues of words and single characters.#t_footnote(2091)[36] Origen, not inferior to the most splendid of philosophers, asserted against Celsus that in certain divine words are wonderful hidden virtues;#t_footnote(2092)[37] and in the book of Judges God said: “My name which is Pele 
-פלא”#t_footnote(2093)[38] which is interpreted by us as “worker or wonders” or “causing wonders.”
+    Additionally, in certain sacred words and divine names there is great and divine power, which is an operative virtue in wonderful effects, as the splendid philosophers Zoroaster, Orpheus, Iamblichus, Synesius, and al-Kindi each testify.#t_footnote(2090)[35] Artephius, a magician and philosopher, wrote a book on the virtues of words and single characters.#t_footnote(2091)[36] Origen, not inferior to the most splendid of philosophers, asserted against Celsus that in certain divine words are wonderful hidden virtues;#t_footnote(2092)[37] and in the book of Judges God said: “My name which is Pele
+    פלא”#t_footnote(2093)[38] which is interpreted by us as “worker or wonders” or “causing wonders.”
   ]
   #p_normal[
     But the true name of God is not known to men or angels, only to God Himself, nor will it be made public (as the holy scriptures testify) before the purpose of God is fulfilled. Yet God has other names among angels and other men. Moreover, there is no name of God among us (as Moses the Egyptian said) that is not to be taken by works and signifying with participation, besides the name Tetragrammaton, which is sacred, signifying the substance of the Creator with a pure signification. In this nothing else participates with God the Creator; therefore, it is said to be a separate name, which is written and not read or pronounced, but named, and it signifies according to the heavenly language, which is God and perhaps also angels.#t_footnote(2094)[39]
@@ -766,9 +766,9 @@ or weapons. In the manner mentioned above, inscribe these characters on one side
     Although the highest Creator and First Cause rules and disposes all, He distributes the carrying out of tasks to various ministers of good and evil. John in Revelation called them favorable and harmful angels; of which the prophet sang elsewhere: “The angel of the Lord will stay around those who fear Him, and He will deliver them”; and he elsewhere describes [wrath and troubles] being sent by evil angels.
   ]
   #p_normal[
-    Whatever [tasks] angels carry out as if by attendants of God, the heavens and stars also do the same, as if by instruments [of God]. In this way, everything cooperates in the ministry.#t_footnote(2097)[1] As any portion of the heavens and each star judge certain regions or places of the earth, time, species, and individual, thus also the angelic virtue of that portion and star is applied to the same place, time, and species. Of this, Augustine wrote in his book 
-#emph[Questions:] “Each visible thing in this world has an angelic power placed in command of it.”#t_footnote(2098)[2] Thus Origen said in 
-#emph[Homilies on Numbers:] “The world has need of angels who are placed in charge of the earthly armies,” kingdoms, provinces, men, “the birth and rearing of beasts and animals, shrubs, plants, and other things,” granting a virtue, as they say, belonging to things from a hidden quality. Much more “are angels needed to be placed in charge of sacred works,” virtues, and men, as they always see the face of the highest God, gathering men and also the smallest together, and lead them to their rightful place, as well-ordered members of this world, in which God as a protector, most sweetly disposes all inhabiting it, not held or circumscribed, but containing all.#t_footnote(2099)[3] In Revelation, John described that heavenly city, whose twelve gates were guarded by twelve angels, influencing what they receive from a divine name of twelve revolutions.#t_footnote(2100)[4] In the foundation of that city are the names of the twelve apostles and the lamb.#t_footnote(2101)[5]
+    Whatever [tasks] angels carry out as if by attendants of God, the heavens and stars also do the same, as if by instruments [of God]. In this way, everything cooperates in the ministry.#t_footnote(2097)[1] As any portion of the heavens and each star judge certain regions or places of the earth, time, species, and individual, thus also the angelic virtue of that portion and star is applied to the same place, time, and species. Of this, Augustine wrote in his book
+    #emph[Questions:] “Each visible thing in this world has an angelic power placed in command of it.”#t_footnote(2098)[2] Thus Origen said in
+    #emph[Homilies on Numbers:] “The world has need of angels who are placed in charge of the earthly armies,” kingdoms, provinces, men, “the birth and rearing of beasts and animals, shrubs, plants, and other things,” granting a virtue, as they say, belonging to things from a hidden quality. Much more “are angels needed to be placed in charge of sacred works,” virtues, and men, as they always see the face of the highest God, gathering men and also the smallest together, and lead them to their rightful place, as well-ordered members of this world, in which God as a protector, most sweetly disposes all inhabiting it, not held or circumscribed, but containing all.#t_footnote(2099)[3] In Revelation, John described that heavenly city, whose twelve gates were guarded by twelve angels, influencing what they receive from a divine name of twelve revolutions.#t_footnote(2100)[4] In the foundation of that city are the names of the twelve apostles and the lamb.#t_footnote(2101)[5]
   ]
   #p_normal[
     For as in the Law, with the stones of the ephod#t_footnote(2102)[6] and the foundations of the holy city described by Ezekiel, on which were inscribed the names of the twelve tribes of Israel and the four-lettered name dominated over them, thus in the Gospels the names of the twelve apostles were inscribed in stone in the foundation of the heavenly city. [These names] stand for the tribes of Israel in the church,#t_footnote(2103)[7] over which the name of the lamb influences—that is, the name Jesus, in which is the entire virtue of the four letters, since with the Tetragrammaton the Father gave him everything.
@@ -786,9 +786,9 @@ or weapons. In the manner mentioned above, inscribe these characters on one side
     #emph[Acts 4.]
   ]
   #p_normal[
-    But we cannot think that we can relate his name with a polluted mouth, just as the name of some man, and by that virtue make miracles possible. We must invoke it in the [name of the] Holy Ghost, with a cleansed mind and fervent soul, that we can gain from him that which is promised to us, especially foreknowledge, without which we cannot be heard according to that prophet: “I will clearly hear, because he knew my name.” Thus, today no favor can be drawn from the celestials unless the authority, favor, and assent of the name of Jesus intervenes. Thus, Hebrews and kabbalists, though they are skilled in divine names, cannot work with those ancient names in the way their forefathers once did, since the coming of Christ. Now, it is proved by experience that no evil daemon, and no inferior virtue [descending] from these, which can vex or possess men, can resist this name, but [kabbalists] 
-are not willing to genuflect and obey when the venerable name of Jesus must be pronounced. Not only are [daemons and inferior virtues] frightened by the name, but also by the sign of the cross. Not only should the “earthly, heavenly, and infernal genuflect,” but the insensible should also revere him, and at his nod, all tremble,#t_footnote(2104)[8] when the name of Jesus is pronounced from a faithful heart and a truthful mouth and innocent hands impress with the healing sign of the cross. Christ does not speak in vain to his disciples when he says: “In my name daemons are cast out,” unless certain 
-virtues in His name are expressed over daemons and the ill, serpents and poisons and tongues and the like.
+    But we cannot think that we can relate his name with a polluted mouth, just as the name of some man, and by that virtue make miracles possible. We must invoke it in the [name of the] Holy Ghost, with a cleansed mind and fervent soul, that we can gain from him that which is promised to us, especially foreknowledge, without which we cannot be heard according to that prophet: “I will clearly hear, because he knew my name.” Thus, today no favor can be drawn from the celestials unless the authority, favor, and assent of the name of Jesus intervenes. Thus, Hebrews and kabbalists, though they are skilled in divine names, cannot work with those ancient names in the way their forefathers once did, since the coming of Christ. Now, it is proved by experience that no evil daemon, and no inferior virtue [descending] from these, which can vex or possess men, can resist this name, but [kabbalists]
+    are not willing to genuflect and obey when the venerable name of Jesus must be pronounced. Not only are [daemons and inferior virtues] frightened by the name, but also by the sign of the cross. Not only should the “earthly, heavenly, and infernal genuflect,” but the insensible should also revere him, and at his nod, all tremble,#t_footnote(2104)[8] when the name of Jesus is pronounced from a faithful heart and a truthful mouth and innocent hands impress with the healing sign of the cross. Christ does not speak in vain to his disciples when he says: “In my name daemons are cast out,” unless certain
+    virtues in His name are expressed over daemons and the ill, serpents and poisons and tongues and the like.
   ]
   #p_quote[
     #emph[Psalms 90.]
@@ -836,8 +836,8 @@ virtues in His name are expressed over daemons and the ill, serpents and poisons
     #emph[The eyes of God.]
   ]
   #p_normal[
-    Of the eyes, eyelids, and ears we read in Psalms: “The eyes of the Lord are upon the just, and His ears to their prayers.#t_footnote(2110)[5] His eyes gaze upon the poor, and His eyelids inquire the sons of men.”#t_footnote(2111)[6] Of His mouth, taste, throat, lips, and teeth we read in Isaiah: “You have not asked at my mouth”;#t_footnote(2112)[7] and in 
-#emph[Songs]: “Your throat is as the best wine, wine worthy for my beloved to drink, and food for his lips and teeth to ruminate.”#t_footnote(2113)[8]
+    Of the eyes, eyelids, and ears we read in Psalms: “The eyes of the Lord are upon the just, and His ears to their prayers.#t_footnote(2110)[5] His eyes gaze upon the poor, and His eyelids inquire the sons of men.”#t_footnote(2111)[6] Of His mouth, taste, throat, lips, and teeth we read in Isaiah: “You have not asked at my mouth”;#t_footnote(2112)[7] and in
+    #emph[Songs]: “Your throat is as the best wine, wine worthy for my beloved to drink, and food for his lips and teeth to ruminate.”#t_footnote(2113)[8]
   ]
   #p_quote[
     #emph[The nostrils of God.]
@@ -883,21 +883,21 @@ virtues in His name are expressed over daemons and the ill, serpents and poisons
   ]
   #p_normal[
     Hebrew teachers say, regarding Abraham giving gifts to the sons of concubines, that the sons of the concubines in the blessing of Abraham were not attributed to God Tetragrammaton and highest creator but to foreign gods and divinities. We read about this in Genesis, in which place the term
-#emph[Shemoth steltoma]—that is, “foreign names”—was used. Conversely, Isaac and his seed were assigned to the omnipotent God Tetragrammaton, and no part was assigned to foreign divinities. Abraham left Isaac as heir of everything he possessed.#t_footnote(2143)[4] For this they are reproached in Deuteronomy, because they served foreign divinities and honored them, which they did not know and were not assigned to them.#t_footnote(2144)[5]
+    #emph[Shemoth steltoma]—that is, “foreign names”—was used. Conversely, Isaac and his seed were assigned to the omnipotent God Tetragrammaton, and no part was assigned to foreign divinities. Abraham left Isaac as heir of everything he possessed.#t_footnote(2143)[4] For this they are reproached in Deuteronomy, because they served foreign divinities and honored them, which they did not know and were not assigned to them.#t_footnote(2144)[5]
   ]
   #p_normal[
     In Joshua,#t_footnote(2145)[6] after the people were introduced to the promised land and overcame enemies, and the lots of the possessions of Israel distributed, the people were given the option to select the divinity that they would serve, saying: “The option is given to you today to choose which it pleases you the most to serve—whether the gods your fathers served in Mesopotamia, or the gods of the Amorites in whose land you inhabit.” The people answered: “We will serve the Lord Tetragrammaton and He will be our God.” Joshua said to them: “You will not be able [to serve the Lord], because the Lord God Tetragrammaton is holy and strong and jealous.” Even so, the people persisted in serving Tetragrammaton, saying: “You are witnesses to yourselves that you have chosen the Lord, to serve Him. Therefore, take away the foreign gods from your midst and incline your hearts to God the Lord of Israel.” A colossal stone was raised, and they said: “This stone will be a witness to you, lest perhaps later you wish to neglect and lie to the Lord your God.”#t_footnote(2146)[7]
   ]
   #p_normal[
-    Therefore, there were gods that were assigned to other nations, the Sun and Moon, the twelve signs, and other celestial bodies and divine works. Yet they were not according to bodies, but according to the souls adhering to them, and the entire host of heaven, as well as what Jeremiah called “the queen of heaven”—that is, the virtue that rules heaven which is the World Soul. Of this Jeremiah said: “Sons collect wood, fathers light the fire, and the women sprinkle the oil, so that they can make a cake for the queen of heaven.” The worship of this queen and other heavenly souls were not forbidden to them as 
-#emph[dulia,] but only as #emph[latria,]#t_footnote(2147)[8] which when summoned, are rejected by the Lord.#t_footnote(2148)[9] However, the names of these souls or gods were previously mentioned; but to which region and people and city as individual and tutelary gods are assigned are partially referred to by our Origen, Tertullian, Apuleius, Diodorus, and many other historians.
+    Therefore, there were gods that were assigned to other nations, the Sun and Moon, the twelve signs, and other celestial bodies and divine works. Yet they were not according to bodies, but according to the souls adhering to them, and the entire host of heaven, as well as what Jeremiah called “the queen of heaven”—that is, the virtue that rules heaven which is the World Soul. Of this Jeremiah said: “Sons collect wood, fathers light the fire, and the women sprinkle the oil, so that they can make a cake for the queen of heaven.” The worship of this queen and other heavenly souls were not forbidden to them as
+    #emph[dulia,] but only as #emph[latria,]#t_footnote(2147)[8] which when summoned, are rejected by the Lord.#t_footnote(2148)[9] However, the names of these souls or gods were previously mentioned; but to which region and people and city as individual and tutelary gods are assigned are partially referred to by our Origen, Tertullian, Apuleius, Diodorus, and many other historians.
   ]
   #p_quote[
     #emph[Tutelary gods of various nations.]
   ]
   #p_normal[
-    Therefore, all people worshipped their gods with their individual ceremonies: the Boeotians [worshipped] Amphiaraus, the Africans Mopsus, the Egyptians Osiris and Isis, the Ethiopians, who live in Meroe, [worshipped] Jupiter and Bacchus, the Arabs Bacchus and Venus, Scythians Minerva, the Naucratians Serapis, the Syrians Atargatis, the Arabs Diaphara, the Africans Coelestus, the Norici Tibilenus;#t_footnote(2149)[10] likewise in provincial Italy, the god consecrated to the Crustumensians was Delventius, to the Narnians Viridianus, Ancharia of Asculum, the Volsinians Nortia,#t_footnote(2150)[11] Valentia of Otriculum, the Sutrians Hostia,#t_footnote(2151)[12] and Curis of the Phaliscians were the most famous.#t_footnote(2152)[13] The Latins honored Mars with the highest veneration, the Egyptians Isis, the Moors Iuba, the Macedonians Cabirus, the Carthaginians Uranus, the Latins Faunum, the Romans Quirinus, the Sabines Sangus, the Athenians Minerva, Samos Juno, Paphos Venus, Lemnos Vulcan, Naxos Liber,#t_footnote(2153)[14] Delphi Apollo,#t_footnote(2154)[15] and which Ovid sang in 
-#emph[Fasti:]
+    Therefore, all people worshipped their gods with their individual ceremonies: the Boeotians [worshipped] Amphiaraus, the Africans Mopsus, the Egyptians Osiris and Isis, the Ethiopians, who live in Meroe, [worshipped] Jupiter and Bacchus, the Arabs Bacchus and Venus, Scythians Minerva, the Naucratians Serapis, the Syrians Atargatis, the Arabs Diaphara, the Africans Coelestus, the Norici Tibilenus;#t_footnote(2149)[10] likewise in provincial Italy, the god consecrated to the Crustumensians was Delventius, to the Narnians Viridianus, Ancharia of Asculum, the Volsinians Nortia,#t_footnote(2150)[11] Valentia of Otriculum, the Sutrians Hostia,#t_footnote(2151)[12] and Curis of the Phaliscians were the most famous.#t_footnote(2152)[13] The Latins honored Mars with the highest veneration, the Egyptians Isis, the Moors Iuba, the Macedonians Cabirus, the Carthaginians Uranus, the Latins Faunum, the Romans Quirinus, the Sabines Sangus, the Athenians Minerva, Samos Juno, Paphos Venus, Lemnos Vulcan, Naxos Liber,#t_footnote(2153)[14] Delphi Apollo,#t_footnote(2154)[15] and which Ovid sang in
+    #emph[Fasti:]
   ]
   #p_poetry[
     #emph[Athens has Pallas, Minoan Crete Diana,]
@@ -931,20 +931,20 @@ virtues in His name are expressed over daemons and the ill, serpents and poisons
   ]
   #p_normal[
     The Moon was worshipped under the name of Diana in Taurica and in the region of Scythia. In Ephesus, she was most praised in a temple. In Mycenae, after the death of King Thoas of Taurica, her likeness was stolen from Iphigenia and Orestes. The sacred rites were changed, and she was worshipped near Aricia. [She was also honored by the Magnesians and by the people of Thessaly. [She also received veneration] in Pisa, the city of Achaea, in Tibur, and at the Aventine, a Roman hill. [She was an object of worship] in Perga—a Pamphylian town—and in Agra, in the Attic region. We read also that the people of Carene honored the Moon under the masculine sex.
+    ]
+    #p_normal[
+      And there were other deities sacred to [places], such as Pallas and Athena were sacred to Athens, and the mountains Pyreus and Aracynthus, the rivers Tritones and Akomeneum, the town of Boeotia, and Neona, and the Cyclades islands. Sacred places for Ceres were Eleusis, Attica, Enna and Catania, cities in Sicily, and Mount Aetna. The particular cult for Vulcan was on the island of Lemnos and Imbros, Thracian islands, and Therasia (an island sacred to Vulcan), and also in Sicily. The goddess Vesta was Trojan, and Aeneas carried her with him when he fled to Italy. She was also given the Phrygians, Ida, and the Dindymus as well as Phrygian mountains. [Her cult spread to] the towns Rieti and Umbria, and also the mountain Berecynthus. [It was furthermore adopted in] Pessinuntius, a town in Phrygia.
+    ]
+    #p_normal[
+      Juno was honored in Carthage and the cities Prosenna, Argos, and Mycenae, and on the island Samos. [She was also venerated by] the people of Phaliscus.
+    ]
+    #p_normal[
+      Neptune was sacred to Orchestus, a city in Boeotia. [He was also venerated in] Tenarus, a promontory of Laconia. The Trojan people and city were under the tutelage of Neptune as well.
+    ]
+    #p_normal[
+      Therefore, Moses in his Deuteronomy called this kind of national god—who presided and were lords of [the people of various nations]— gods of the earth. They were attributed to all people, not signifying anything other than the celestial stars and their souls.#t_footnote(2157)[18]
+    ]
   ]
-  #p_normal[
-    And there were other deities sacred to [places], such as Pallas and Athena were sacred to Athens, and the mountains Pyreus and Aracynthus, the rivers Tritones and Akomeneum, the town of Boeotia, and Neona, and the Cyclades islands. Sacred places for Ceres were Eleusis, Attica, Enna and Catania, cities in Sicily, and Mount Aetna. The particular cult for Vulcan was on the island of Lemnos and Imbros, Thracian islands, and Therasia (an island sacred to Vulcan), and also in Sicily. The goddess Vesta was Trojan, and Aeneas carried her with him when he fled to Italy. She was also given the Phrygians, Ida, and the Dindymus as well as Phrygian mountains. [Her cult spread to] the towns Rieti and Umbria, and also the mountain Berecynthus. [It was furthermore adopted in] Pessinuntius, a town in Phrygia.
-  ]
-  #p_normal[
-    Juno was honored in Carthage and the cities Prosenna, Argos, and Mycenae, and on the island Samos. [She was also venerated by] the people of Phaliscus.
-  ]
-  #p_normal[
-    Neptune was sacred to Orchestus, a city in Boeotia. [He was also venerated in] Tenarus, a promontory of Laconia. The Trojan people and city were under the tutelage of Neptune as well.
-  ]
-  #p_normal[
-    Therefore, Moses in his Deuteronomy called this kind of national god—who presided and were lords of [the people of various nations]— gods of the earth. They were attributed to all people, not signifying anything other than the celestial stars and their souls.#t_footnote(2157)[18]
-  ]
-]
 ]
 
 #character[
@@ -961,10 +961,10 @@ virtues in His name are expressed over daemons and the ill, serpents and poisons
     Augustine#t_footnote(2161)[4] himself overcame this in a strenuous discussion, in which he did not believe it was strange that the celestial bodies were worshipped with the veneration of the #emph[duliae] and their judgment and help implored. Thomas himself also assented to this, unless they are hindered by the opportunity of idolatrous rites. Plotinus added that they understand our prayers, and likewise clearly hear them.
   ]
   #p_normal[
-    But if one wishes to entirely oppose this and take them as sacrilegious dogma, then listen to Augustine in 
-#emph[Enchiridion] and in the book #emph[Of Retractions,] Thomas in the second book of 
-#emph[Against the Gentiles] and #emph[Quodlibetal [Questions],] Scotus in #emph[Upon the Sentences,] and William of Auvergne in
-#emph[Sum of the Universe,] all which unanimously answered, saying that the celestial bodies are animate or inanimate, referring to nothing of the Catholic faith.#t_footnote(2162)[5]
+    But if one wishes to entirely oppose this and take them as sacrilegious dogma, then listen to Augustine in
+    #emph[Enchiridion] and in the book #emph[Of Retractions,] Thomas in the second book of
+    #emph[Against the Gentiles] and #emph[Quodlibetal [Questions],] Scotus in #emph[Upon the Sentences,] and William of Auvergne in
+    #emph[Sum of the Universe,] all which unanimously answered, saying that the celestial bodies are animate or inanimate, referring to nothing of the Catholic faith.#t_footnote(2162)[5]
   ]
   #p_normal[
     Therefore, although it seems ridiculous to many that souls are arranged in the spheres, [that they manifest as] stars, and that they preside over regions, cities, tribes, peoples, nations, and languages as the gods of the gentiles, these facts to do not seem strange to those with a sound understanding.
@@ -1103,25 +1103,25 @@ virtues in His name are expressed over daemons and the ill, serpents and poisons
   ]
   #p_normal[
     Hebrew theologians count and express these orders in another way:
-for the highest place they are called היות הקדש—that is, “holy animals”
-or “life”—by which God אהיה grants the gift of being. In the second
-place follow Ophanim אופנים—that is, “forms” or “wheels”—by which
-God יהוה distinguishes chaos. In the third place are Aralim—אראלים
-meaning “great angel, strong and valiant”—by which Elohim pronounced
-Tetragrammaton (or Tetragrammaton joined with He) ,היהוה
-administering form to fluid matter. In the fourth place are
-Hasmalim חשמלים , by which God El אל fashions the effigies of
-bodies. In the fifth order are Seraphim שרפים , by which God
-Elohim Gibor אלהים גיבר brings elements. In the sixth are
-Malachim מלאכים—that is, “angels”—by which God Eloha אלוה
-produces metals. In the seventh are Elohim אלהים—that is, “gods,”
-by which God Tetragrammaton Sabaoth יהוה צבאות produces vegetables.
-In the eighth are Bne Elohim בני אלהים—that is, the “sons of
-the gods”—by which God Elohim Sabaoth אלהים צבאות begets animals.
-In the ninth and lowest are Cherubim כרובים , by which God
-Sadai שדי cares after the species of man. Under these are the animastical
-order, called Issim אישים—that is, “heroes, strong, and blessed
-men”—by which God Adonai אדני grants prophecy.#t_footnote(2206)[20]
+    for the highest place they are called היות הקדש—that is, “holy animals”
+    or “life”—by which God אהיה grants the gift of being. In the second
+    place follow Ophanim אופנים—that is, “forms” or “wheels”—by which
+    God יהוה distinguishes chaos. In the third place are Aralim—אראלים
+    meaning “great angel, strong and valiant”—by which Elohim pronounced
+    Tetragrammaton (or Tetragrammaton joined with He) ,היהוה
+    administering form to fluid matter. In the fourth place are
+    Hasmalim חשמלים , by which God El אל fashions the effigies of
+    bodies. In the fifth order are Seraphim שרפים , by which God
+    Elohim Gibor אלהים גיבר brings elements. In the sixth are
+    Malachim מלאכים—that is, “angels”—by which God Eloha אלוה
+    produces metals. In the seventh are Elohim אלהים—that is, “gods,”
+    by which God Tetragrammaton Sabaoth יהוה צבאות produces vegetables.
+    In the eighth are Bne Elohim בני אלהים—that is, the “sons of
+    the gods”—by which God Elohim Sabaoth אלהים צבאות begets animals.
+    In the ninth and lowest are Cherubim כרובים , by which God
+    Sadai שדי cares after the species of man. Under these are the animastical
+    order, called Issim אישים—that is, “heroes, strong, and blessed
+    men”—by which God Adonai אדני grants prophecy.#t_footnote(2206)[20]
   ]
 ]
 
@@ -1190,8 +1190,8 @@ men”—by which God Adonai אדני grants prophecy.#t_footnote(2206)[20]
     #emph[The eighth.]
   ]
   #p_normal[
-    The eighth place are accusers or spies. Their prince is Astaroth— that is “spy”#t_footnote(2230)[24]—and in Greek called 
-#emph[diabolus]#t_footnote(2231)[25] (accuser or slanderer), who in Revelation is called the accuser of our brethren, accusing them night and day before the face of God.#t_footnote(2232)[26]
+    The eighth place are accusers or spies. Their prince is Astaroth— that is “spy”#t_footnote(2230)[24]—and in Greek called
+    #emph[diabolus]#t_footnote(2231)[25] (accuser or slanderer), who in Revelation is called the accuser of our brethren, accusing them night and day before the face of God.#t_footnote(2232)[26]
   ]
   #p_quote[
     #emph[ Revel. 12.]
@@ -1200,13 +1200,13 @@ men”—by which God Adonai אדני grants prophecy.#t_footnote(2206)[20]
     In the last place are assailants or ambushers, each of which are close to each man. Therefore, we call them evil guardian spirits, and their prince is Mammon, which means “greed.”#t_footnote(2233)[27]
   ]
   #p_normal[
-    But [those of this school] unanimously add to this that evil daemons who wander in this inferior world are hostile to all, and therefore called devils. Of these, Augustine said in the first book of 
-#emph[The Incarnation of the Word to January:] “Likewise of devils and his angels that are contrary to the virtues, ecclesiastic preachers have taught that there are indeed these things; but what and how they are, is not explained clearly enough. Yet there is this opinion among most that this devil was an angel, and became an apostate, persuading very many angels to change with him, who even now are called his angels.”#t_footnote(2234)[28] Yet the Greeks did not think all of these were damned, nor that all of them had evil intentions, but from the creation of time the dispensation of things is set up by a reason, and that they are assigned to torture sinful souls.
+    But [those of this school] unanimously add to this that evil daemons who wander in this inferior world are hostile to all, and therefore called devils. Of these, Augustine said in the first book of
+    #emph[The Incarnation of the Word to January:] “Likewise of devils and his angels that are contrary to the virtues, ecclesiastic preachers have taught that there are indeed these things; but what and how they are, is not explained clearly enough. Yet there is this opinion among most that this devil was an angel, and became an apostate, persuading very many angels to change with him, who even now are called his angels.”#t_footnote(2234)[28] Yet the Greeks did not think all of these were damned, nor that all of them had evil intentions, but from the creation of time the dispensation of things is set up by a reason, and that they are assigned to torture sinful souls.
   ]
   #p_normal[
     Other theologians say that no daemons were created evil but were driven out and cast down from heaven by the orders of good because of their transgressions.#t_footnote(2235)[29] Their fall is not only confirmed by our theologians and taught by the Hebrews but also by Assyrian, Arab, Egyptian, and Greek doctrines. Pherecydes of Syros#t_footnote(2236)[30] described fallen daemons and Ophion#t_footnote(2237)[31]—that is, the daemonic serpent at the head of the army of rebel [angels]. Trismegistus in
-#emph[Pymander] and Homer sang of the same fall in their verses under the name of Tartarus,#t_footnote(2238)[32] and Plutarch in his speech 
-#emph[On Usury]#t_footnote(2239)[33] signified that Empedocles learned of these kinds of fallen daemons.#t_footnote(2240)[34] Likewise, many daemons have confessed that they themselves are fallen.#t_footnote(2241)[35]
+    #emph[Pymander] and Homer sang of the same fall in their verses under the name of Tartarus,#t_footnote(2238)[32] and Plutarch in his speech
+    #emph[On Usury]#t_footnote(2239)[33] signified that Empedocles learned of these kinds of fallen daemons.#t_footnote(2240)[34] Likewise, many daemons have confessed that they themselves are fallen.#t_footnote(2241)[35]
   ]
   #p_quote[
     #emph[The various pursuits of daemons.]
@@ -1266,12 +1266,12 @@ men”—by which God Adonai אדני grants prophecy.#t_footnote(2206)[20]
     Chapter 19. Of the bodies of daemons.
   ]
   #p_normal[
-    [On the subject] of the bodies of daemons, the greatest and most recent theologians differ with philosophers. Indeed, Thomas affirmed that all angels and evil daemons are incorporeal; yet they sometimes take bodies, which they soon leave.#t_footnote(2261)[1] Dionysius steadfastly affirmed in the 
-#emph[Divine Names] that angels are incorporeal.#t_footnote(2262)[2] Yet Augustine in #emph[On Genesis] thus asserted: “Airy and fiery daemons are said to be animals, because they thrive with the nature of airy bodies. They do not decay by death, because that element which prevails in them is more appropriate for acting than submitting.” [Augustine] seemed to add that all angels from the beginning of their creation have airy bodies, formed by purer and more superior air, being more suitable for acting than submitting. Their bodies were preserved after the confirmation in good angels but changed to evil in their fall into the quality of denser air, so that they can also be tortured by fire.#t_footnote(2263)[3]
+    [On the subject] of the bodies of daemons, the greatest and most recent theologians differ with philosophers. Indeed, Thomas affirmed that all angels and evil daemons are incorporeal; yet they sometimes take bodies, which they soon leave.#t_footnote(2261)[1] Dionysius steadfastly affirmed in the
+    #emph[Divine Names] that angels are incorporeal.#t_footnote(2262)[2] Yet Augustine in #emph[On Genesis] thus asserted: “Airy and fiery daemons are said to be animals, because they thrive with the nature of airy bodies. They do not decay by death, because that element which prevails in them is more appropriate for acting than submitting.” [Augustine] seemed to add that all angels from the beginning of their creation have airy bodies, formed by purer and more superior air, being more suitable for acting than submitting. Their bodies were preserved after the confirmation in good angels but changed to evil in their fall into the quality of denser air, so that they can also be tortured by fire.#t_footnote(2263)[3]
   ]
   #p_normal[
-    Also, Basil the Great spoke of not only the bodies of daemons but also angels as [having the form of] thin, airy, and pure spirits.#t_footnote(2264)[4] Gregory of Nazianzus also agreed with this.#t_footnote(2265)[5] Apuleius thought that not all daemons have bodies; accordingly, in the book 
-#emph[Of the Daemon of Socrates,]#t_footnote(2266)[6] he said: “There is another more sacred kind of daemon who is always free from the chains and ties of the body and administers certain prayers.”#t_footnote(2267)[7]
+    Also, Basil the Great spoke of not only the bodies of daemons but also angels as [having the form of] thin, airy, and pure spirits.#t_footnote(2264)[4] Gregory of Nazianzus also agreed with this.#t_footnote(2265)[5] Apuleius thought that not all daemons have bodies; accordingly, in the book
+    #emph[Of the Daemon of Socrates,]#t_footnote(2266)[6] he said: “There is another more sacred kind of daemon who is always free from the chains and ties of the body and administers certain prayers.”#t_footnote(2267)[7]
   ]
   #p_normal[
     However, the Platonist and Christian Psellus did not think the nature of daemons are without bodies, yet [he claimed that] the bodies of angels and daemons are not the same.#t_footnote(2268)[8] Indeed, [his claim was that the bodies of angels] are all free from matter, while daemonic [bodies] are material in a certain way. [He asserted that] the bodies of [daemons are like those of] shades. They are subject to passions, as they feel pain when they are struck or burned by fire into visible ashes—a phenomenon recorded at length in Tuscany.
@@ -1358,8 +1358,8 @@ men”—by which God Adonai אדני grants prophecy.#t_footnote(2206)[20]
     Chapter 21. Of obeying one’s own genius, and the investigation of its nature.
   ]
   #p_normal[
-    Just as every region in the celestials has a certain star and holds a celestial image influencing it more than the others, thus also in the supercelestial they obtain a certain intelligence. [That intelligence] presides and protects [along] with [other] infinite spirits or daemons of its order, all of which are called by a common name, “the sons of Elohim Sabaoth,” or 
-בני אלהים צבאות—that is, the “sons of the army of God.” Hence, as often as the Most High deliberates some war, massacre, or desolation of some kingdom and subjugation of people in these more inferiors, then accordingly when these happen on the earth, they precede a conflict of those spirits above.#t_footnote(2293)[1] As it is written in Isaiah: “The Lord shall visit upon the armies of the high in the high, and upon the kings of the earth on the earth.”#t_footnote(2294)[2] We also read of the conflicts of spirits and guardians in Daniel—that is, of the prince of the Persian kingdom, of the prince of the Greeks, of the prince of the people of Israel, and their mutual conflicts.#t_footnote(2295)[3] Homer seemed to once perceive this, as he sang: #emph[Daniel 10.]
+    Just as every region in the celestials has a certain star and holds a celestial image influencing it more than the others, thus also in the supercelestial they obtain a certain intelligence. [That intelligence] presides and protects [along] with [other] infinite spirits or daemons of its order, all of which are called by a common name, “the sons of Elohim Sabaoth,” or
+    בני אלהים צבאות—that is, the “sons of the army of God.” Hence, as often as the Most High deliberates some war, massacre, or desolation of some kingdom and subjugation of people in these more inferiors, then accordingly when these happen on the earth, they precede a conflict of those spirits above.#t_footnote(2293)[1] As it is written in Isaiah: “The Lord shall visit upon the armies of the high in the high, and upon the kings of the earth on the earth.”#t_footnote(2294)[2] We also read of the conflicts of spirits and guardians in Daniel—that is, of the prince of the Persian kingdom, of the prince of the Greeks, of the prince of the people of Israel, and their mutual conflicts.#t_footnote(2295)[3] Homer seemed to once perceive this, as he sang: #emph[Daniel 10.]
   ]
   #p_poetry[
     #emph[So great was the frequent heavenly shout,]
@@ -1386,9 +1386,9 @@ men”—by which God Adonai אדני grants prophecy.#t_footnote(2206)[20]
     #emph[The genius changes according to the change of place.]
   ]
   #p_normal[
-    Consequently, they offer themselves and follow in our toils and events as we change our various places and provinces. They are more fortunate in one [place] than another—that is, where the daemon of our genius obtains more power or where we can gain a more powerful 
-daemon of the same order. Thus, Solar men, if they enter a Solar region or 
-province, will be far more fortunate there because their leaders or geniuses are more powerful or more suitable living there. Their excellent protection is in that place, and often also the belief in their measure of power produces happy results.#t_footnote(2298)[6] Hence, choosing a place, region, and time, where they can exercise, inhabit, and frequent the nature and instinct of their genius, is [more] conducive to a life of much happiness.
+    Consequently, they offer themselves and follow in our toils and events as we change our various places and provinces. They are more fortunate in one [place] than another—that is, where the daemon of our genius obtains more power or where we can gain a more powerful
+    daemon of the same order. Thus, Solar men, if they enter a Solar region or
+    province, will be far more fortunate there because their leaders or geniuses are more powerful or more suitable living there. Their excellent protection is in that place, and often also the belief in their measure of power produces happy results.#t_footnote(2298)[6] Hence, choosing a place, region, and time, where they can exercise, inhabit, and frequent the nature and instinct of their genius, is [more] conducive to a life of much happiness.
   ]
   #p_quote[
     #emph[A name change is sometimes conducive.]
@@ -1418,9 +1418,9 @@ province, will be far more fortunate there because their leaders or geniuses are
     #emph[The holy daemon.]
   ]
   #p_normal[
-    Indeed, the holy daemon according to Egyptian doctrine is not from the stars or the planets but from a heavenly cause, from which God Himself assigned a daemon descending to the rational soul, universal, and above nature.#t_footnote(2304)[2] It directs the life of the soul and always produces good thoughts in the mind and is continuously active in illuminating 
-us, although we do not always notice it. But when we have been cleansed and live 
-quietly, then we perceived it. [Under such circumstances,] it speaks to us and communicates to us its voice, which was silent before.#t_footnote(2305)[3] It continuously strives to bring us to holy perfection. Likewise, if we religiously worship this daemon with respect and sanctity as we know Socrates did, we can avoid ill fate with its assistance. Platonists#t_footnote(2306)[4] think that daemons help us through wonderful dreams, averting evil and carefully preserving the good by means of the signs [they show]. The Pythagoreans customarily prayed together to Jove so that he would either withdraw evil or show them which daemon excels [in this task].
+    Indeed, the holy daemon according to Egyptian doctrine is not from the stars or the planets but from a heavenly cause, from which God Himself assigned a daemon descending to the rational soul, universal, and above nature.#t_footnote(2304)[2] It directs the life of the soul and always produces good thoughts in the mind and is continuously active in illuminating
+    us, although we do not always notice it. But when we have been cleansed and live
+    quietly, then we perceived it. [Under such circumstances,] it speaks to us and communicates to us its voice, which was silent before.#t_footnote(2305)[3] It continuously strives to bring us to holy perfection. Likewise, if we religiously worship this daemon with respect and sanctity as we know Socrates did, we can avoid ill fate with its assistance. Platonists#t_footnote(2306)[4] think that daemons help us through wonderful dreams, averting evil and carefully preserving the good by means of the signs [they show]. The Pythagoreans customarily prayed together to Jove so that he would either withdraw evil or show them which daemon excels [in this task].
   ]
   #p_normal[
     But the daemon of the nativity, which is called the genius, descends from the disposition of the world and circuit of the stars that were situated in the birth. Some suppose that when the soul descends into the body it naturally selects a guardian for itself from the chorus of daemons. [This choice is] not so much the choosing of a leader as of a protector. This executor and guardian of life unites, joins, and cares for the body and helps a man according to his duty that celestials appointed at birth.#t_footnote(2307)[5] Therefore, whoever receives a fortunate genius becomes virtuous, effective, strong, and prosperous in their works. The philosophers call this “good fortune” or “good birth.”#t_footnote(2308)[6]
@@ -1432,9 +1432,9 @@ quietly, then we perceived it. [Under such circumstances,] it speaks to us and c
     #emph[The daemon of the profession.]
   ]
   #p_normal[
-    However, the daemon of profession is given by the stars of such profession or sect, subjects a man to some profession, which the soul, when it chose this body and began to dress itself in the character, secretly desired.#t_footnote(2309)[7] 
-This daemon changes when the profession is changed, then, according to the 
-dignity of the profession, the daemon helps our profession be more dignified and more sublime. It successively cares for the man and is different from day to day as he compares himself to the guardian of the profession as [the man] rises from virtue to virtue. Therefore, when the profession agrees with our nature, and there is a daemon of our profession near us that is like us and agrees with our genius, it makes our life more tranquil, happy, and prosperous. However, when we enter a profession unlike or contrary to our genius, our life becomes laborious, discordant, and troublesome to patrons. Thus, it happens that some profit in some science, art, or ministry with little time and labor, but for others, it is hard work and devotions to labor are frustrated.
+    However, the daemon of profession is given by the stars of such profession or sect, subjects a man to some profession, which the soul, when it chose this body and began to dress itself in the character, secretly desired.#t_footnote(2309)[7]
+    This daemon changes when the profession is changed, then, according to the
+    dignity of the profession, the daemon helps our profession be more dignified and more sublime. It successively cares for the man and is different from day to day as he compares himself to the guardian of the profession as [the man] rises from virtue to virtue. Therefore, when the profession agrees with our nature, and there is a daemon of our profession near us that is like us and agrees with our genius, it makes our life more tranquil, happy, and prosperous. However, when we enter a profession unlike or contrary to our genius, our life becomes laborious, discordant, and troublesome to patrons. Thus, it happens that some profit in some science, art, or ministry with little time and labor, but for others, it is hard work and devotions to labor are frustrated.
   ]
   #p_normal[
     Although no science, art, or virtue is despised, one must first know their good genius and nature in order to live prosperously and happily. [One must also know] what good their celestial disposition promises. God is the distributor of all of these[: as it is said], “[God] distributes to each as He wills.”#t_footnote(2310)[8] Follow and profess the beginnings of these [promises]; live in that virtue that the Most High Distributor elevated and brought to you. [God] made Abraham excel in justice and clemency, Isaac in fear, Jacob in strength, Moses in tameness and miracles, Joshua in war, Phineas in zeal, David in religion and victory, Solomon in science and praise, Peter in faith, John in charity, Jacob in devotion, Thomas in prudence, Magdalene in contemplation, and Martha in ministry.
@@ -1479,9 +1479,9 @@ dignity of the profession, the daemon helps our profession be more dignified and
     Chapter 24. Of the names of spirits, their various applications, and of the spirits that rule the stars, signs, the directions of heaven, and the elements.
   ]
   #p_normal[
-    There are as many and diverse 
-names of good spirits as well as evil, but their proper and true names, just as 
-with the stars, are known only to God, who “alone numbered the multitude of stars, and called them by all of their names.”#t_footnote(2317)[1] We cannot know these except by divine revelation, and very few are expressed to us in the holy scriptures. However, Hebrew teachers think that the names of spirits were assigned by Adam, which, according to the scripture, “God brought all that He made to Adam, that he might name them: and whatever he named things, that was their name.”#t_footnote(2318)[2]
+    There are as many and diverse
+    names of good spirits as well as evil, but their proper and true names, just as
+    with the stars, are known only to God, who “alone numbered the multitude of stars, and called them by all of their names.”#t_footnote(2317)[1] We cannot know these except by divine revelation, and very few are expressed to us in the holy scriptures. However, Hebrew teachers think that the names of spirits were assigned by Adam, which, according to the scripture, “God brought all that He made to Adam, that he might name them: and whatever he named things, that was their name.”#t_footnote(2318)[2]
   ]
   #p_quote[
     #emph[Men can impose names on spirits.]
@@ -1548,8 +1548,8 @@ with the stars, are known only to God, who “alone numbered the multitude of st
   ]
   #p_normal[
     Those who wish to exactly learn the distinct names, offices, places, and times of other angels and evil daemons will find them in the book
-#emph[Of Temples], and also #emph[The Book of Lights], #emph[Of the Greatest Stature] by Rabbi Simon, the book 
-#emph[Of Temples] by Rabbi Ishmael, and all of the commentaries in the #emph[Book of Formation,]#t_footnote(2330)[14] which is most eloquently written.#t_footnote(2331)[15]
+    #emph[Of Temples], and also #emph[The Book of Lights], #emph[Of the Greatest Stature] by Rabbi Simon, the book
+    #emph[Of Temples] by Rabbi Ishmael, and all of the commentaries in the #emph[Book of Formation,]#t_footnote(2330)[14] which is most eloquently written.#t_footnote(2331)[15]
   ]
 ]
 
@@ -1580,22 +1580,22 @@ with the stars, are known only to God, who “alone numbered the multitude of st
   ]
   #p_normal[
     (from the 35th Psalm from the Hebrews, but for us the 34th); from which the names of these angels are extractedמידאל : Midael and
-מיראל Mirael from the order of Warriors. Thus, from the verse:
-“You will place over him the wicked, and Satan stands at his right
-hand”#t_footnote(2333)[2] (the 109th Psalms for the Hebrews but 108th in the Latin) הפקד עליו רשע ושטן יאמר אל ימינו , the name of the evil daemon
-Schihi is extracted שיעי , which designates “machinator of daemons.”
+    מיראל Mirael from the order of Warriors. Thus, from the verse:
+    “You will place over him the wicked, and Satan stands at his right
+    hand”#t_footnote(2333)[2] (the 109th Psalms for the Hebrews but 108th in the Latin) הפקד עליו רשע ושטן יאמר אל ימינו , the name of the evil daemon
+    Schihi is extracted שיעי , which designates “machinator of daemons.”
   ]
   #p_normal[
     There is a certain text in Exodus that contains three verses, which
-is written in 72 letters which begins: the first is Vaiisa ויסע , the second
-is Vaiavo ויבא , and the third is Vaiot ויט . If these are extended
-in one line—that is, the first and third from left to right, but the
-middle in a reverse order beginning from the right and ending in the
-left#t_footnote(2334)[3]—then each of the three letters alternating under them constitute
-one name, which [constitute] the 72 names that the Hebrews call Schemhamphoras. If El אל or Iah יה are added to the end of the divine
-name, they produce 72 three-lettered names of angels, each of which
-carries the great name of God, as it is written: “My angel precedes you;
-observe him, for My name is in him.”#t_footnote(2335)[4]
+    is written in 72 letters which begins: the first is Vaiisa ויסע , the second
+    is Vaiavo ויבא , and the third is Vaiot ויט . If these are extended
+    in one line—that is, the first and third from left to right, but the
+    middle in a reverse order beginning from the right and ending in the
+    left#t_footnote(2334)[3]—then each of the three letters alternating under them constitute
+    one name, which [constitute] the 72 names that the Hebrews call Schemhamphoras. If El אל or Iah יה are added to the end of the divine
+    name, they produce 72 three-lettered names of angels, each of which
+    carries the great name of God, as it is written: “My angel precedes you;
+    observe him, for My name is in him.”#t_footnote(2335)[4]
   ]
   #p_normal[
     And these [names] preside over the 72 celestial quinaries, and there are as many nations, tongues, and joints in the human body, and they cooperate with the 72 elders of the synagogue and as many disciples of Christ.#t_footnote(2336)[5] They are also named according to the extractions made by kabbalists and are shown in the following tables according to one way of which we spoke.
@@ -1634,10 +1634,10 @@ observe him, for My name is in him.”#t_footnote(2335)[4]
     Chapter 26. Of finding the names of spirits and geniuses from the disposition of the celestial bodies.
   ]
   #p_normal[
-    Ancient magicians taught the art 
-of finding the names of spirits for some desired effect, by extracting them from 
-the disposition of the celestials. For example, [consider] some celestial 
-harmony proposed to you for making an image, ring, or another undertaking under a certain celestial.#t_footnote(2341)[1] If you wish to find the spirit guiding that work, erect a celestial figure and place the letters in their number and order from the degree of the ascendant according to the succession of signs by each degree, completing the entire circle of heaven. Then those letters that fall in a place of stars, according to the number and fortitude of the same stars, mark these in number and order, constituting the name of the spirit—that is, the good. However, if you make these starting on the west#t_footnote(2342)[2] against the progressions of the signs, the result will be an evil kind.
+    Ancient magicians taught the art
+    of finding the names of spirits for some desired effect, by extracting them from
+    the disposition of the celestials. For example, [consider] some celestial
+    harmony proposed to you for making an image, ring, or another undertaking under a certain celestial.#t_footnote(2341)[1] If you wish to find the spirit guiding that work, erect a celestial figure and place the letters in their number and order from the degree of the ascendant according to the succession of signs by each degree, completing the entire circle of heaven. Then those letters that fall in a place of stars, according to the number and fortitude of the same stars, mark these in number and order, constituting the name of the spirit—that is, the good. However, if you make these starting on the west#t_footnote(2342)[2] against the progressions of the signs, the result will be an evil kind.
   ]
   #p_normal[
     Several Hebrew and Chaldean teachers teach that the nature and name of each man’s genius can be found with that art, such as knowing the degree of the ascendant of anyone’s nativity and weighing the other angles of heaven. Then which planets that are in those four angles that have more dignities (which the Arabs call #emph[almutez])#t_footnote(2343)[3] be noted first among the rest, and according to that second place, which is next to it in the number of dignities, and thus the rest by that order, which holds any dignity in the preceding angles. By using this order, you will know the true place and degree of them in heaven, and beginning from the degree of the ascendant, place the twenty-two Hebrew letters on each degree according to the order of signs. Then those letters that fall in the preceding place of the stars, note and dispose them according to the order [mentioned] above that were found in the stars, and correctly combine them according to the rationale of the Hebrew tongue, make the name of the genius.#t_footnote(2344)[4] According to custom, some monosyllabic name of divine omnipotence, for example, El or Iah, is joined to the end. If the letters are placed by the angle of the west#t_footnote(2345)[5] and against the succession of signs, and the letters which fall in the nadir—that is, the opposite point—the aforesaid stars are joined in order as we have said and make the name of the evil genius.
@@ -1650,7 +1650,7 @@ harmony proposed to you for making an image, ring, or another undertaking under 
   ]
   #p_normal[
     However, others do not use the hylegical places but instead take the place of the
-#emph[almutez] over the five hylegical places, projecting it from the horoscope,#t_footnote(2347)[7] as previously said.
+    #emph[almutez] over the five hylegical places, projecting it from the horoscope,#t_footnote(2347)[7] as previously said.
   ]
   #p_normal[
     And these names, thus according to the proportional numbers distributed by the starry calculator, compacted by joined and alternating letters, although with unknown sounds and significations, it is necessary to confess that the secret principal philosophies can do more in a magical work than significative names.#t_footnote(2348)[8] While the intellect is astonished by those puzzles and the intent of the stretching of the mind, firmly believing that something divine is under it, these words and names, although not understood, reverently pronounce the glory of the divine, captivating oneself in spiritual piety in obedience of Him.
@@ -1662,10 +1662,10 @@ harmony proposed to you for making an image, ring, or another undertaking under 
     Chapter 27. Of the art of calculating these kinds of names from the tradition of kabbalists.
   ]
   #p_normal[
-    There is yet another art to these kinds of names that they call calculatory, which is done by following tables by entering some sacred, divine, or angelic name in the descending column of letters and then taking those letters that are found in common 
-angles under their stars and signs. When reduced in order, they constitute the 
-name of the good spirit from the nature of those stars and signs, under which it 
-was entered. If they are made in the ascending column of letters, taking the common angles above the stars and signs marked in the lower line, it constitutes the name of the evil spirit. And these are the names of spirits from any order or heaven ministering good as well as evil, which, according to this method, you can multiply nine names in as many orders, inasmuch as with entering one name, you can extract another spirit of a superior order from the same place, good as well as evil.
+    There is yet another art to these kinds of names that they call calculatory, which is done by following tables by entering some sacred, divine, or angelic name in the descending column of letters and then taking those letters that are found in common
+    angles under their stars and signs. When reduced in order, they constitute the
+    name of the good spirit from the nature of those stars and signs, under which it
+    was entered. If they are made in the ascending column of letters, taking the common angles above the stars and signs marked in the lower line, it constitutes the name of the evil spirit. And these are the names of spirits from any order or heaven ministering good as well as evil, which, according to this method, you can multiply nine names in as many orders, inasmuch as with entering one name, you can extract another spirit of a superior order from the same place, good as well as evil.
   ]
   #p_normal[
     Yet the beginning of this calculation depends on the names of God. Indeed, every voice has a virtue in magic since it depends on the voice of God and is thus formed.#t_footnote(2349)[1] Therefore we must know that all angelic names must proceed from some distinguished name of God, and therefore angels are said to carry the name of God, which, according to the scripture: “Because my name is in Him.”
@@ -1674,12 +1674,12 @@ was entered. If they are made in the ascending column of letters, taking the com
     Therefore as the names of good angels can be discerned from the names of evil, one can often join some name of divine omnipotence to the end, such as El, On, Iah, or Iod, and be pronounced with it.#t_footnote(2350)[2] And, because Iah is the name of beneficence, and Iod is the name of a deity, therefore these two names are only appointed to names of angels. However, the name El, because it brings about power and virtue, can, therefore, be added to not only good but also evil spirits. Indeed, even evil spirits cannot subsist or act somewhat without the virtue of God.
   ]
   #p_normal[
-    We must know that other [names] must be taken from common angles of the same 
-stars and signs unless entering a mixed name, just as the names of geniuses are, 
-which are spoken about in the previous chapter. They are composed by the 
-disposition of heaven according to the diverse harmony of the stars; indeed, as 
-often as the table is entered with these, the common angle is taken under the 
-star or sign of the letter entered.
+    We must know that other [names] must be taken from common angles of the same
+    stars and signs unless entering a mixed name, just as the names of geniuses are,
+    which are spoken about in the previous chapter. They are composed by the
+    disposition of heaven according to the diverse harmony of the stars; indeed, as
+    often as the table is entered with these, the common angle is taken under the
+    star or sign of the letter entered.
   ]
   #p_normal[
     Additionally, there are those who extend these tables, so that they may also observe if the name of some desired star, office, or effect is entered, the good and evil daemon serving that office or effect is extracted. In a similar way, when the individual name of any person is entered, they believe that the name of the genius under that star that can be seen is placed in charge of such a person—such as [can be recognized] from their physiognomy, from the passions and inclinations of their mind, or from their profession and fortune—and recognize them to be Martial, Saturnine, Solar, or the nature of another star.
@@ -1739,9 +1739,9 @@ star or sign of the letter entered.
     #emph[Seven wicked men.]
   ]
   #p_normal[
-    However, we also know that Nimbroth,#t_footnote(2365)[12] Chodorlaomor, Balach, and Amelech are names of kings who have received names of evil daemons.#t_footnote(2366)[13] Likewise, giants are called a name common with the daemons—Anakim 
-ענקים—because they did not participate with the image of God. They did not accept the splendor of the spiritual intellect. Their reason has multiplied many kinds of frauds and sins, and therefore they are not counted among the species of men (as Moses the Egyptian said) but of the species of beasts and daemons, even though they have the figure of a human: It is said “and such were the sons of Adam, who preceded Seth after Abel.” Of these [daemons], the wise Hebrews said Adam begat Tochot 
-תוכות—that is, “devils”—but afterward he found grace in the eyes of God. [Adam] begat Seth according to his image and likeness, which was according to the image of God. [Seth] attained a human perfection, which [the Anakim] do not have because they are not counted among the species of man due to their of viciousness, which is the cause of all evil and damnation.#t_footnote(2367)[14]
+    However, we also know that Nimbroth,#t_footnote(2365)[12] Chodorlaomor, Balach, and Amelech are names of kings who have received names of evil daemons.#t_footnote(2366)[13] Likewise, giants are called a name common with the daemons—Anakim
+    ענקים—because they did not participate with the image of God. They did not accept the splendor of the spiritual intellect. Their reason has multiplied many kinds of frauds and sins, and therefore they are not counted among the species of men (as Moses the Egyptian said) but of the species of beasts and daemons, even though they have the figure of a human: It is said “and such were the sons of Adam, who preceded Seth after Abel.” Of these [daemons], the wise Hebrews said Adam begat Tochot
+    תוכות—that is, “devils”—but afterward he found grace in the eyes of God. [Adam] begat Seth according to his image and likeness, which was according to the image of God. [Seth] attained a human perfection, which [the Anakim] do not have because they are not counted among the species of man due to their of viciousness, which is the cause of all evil and damnation.#t_footnote(2367)[14]
   ]
   #p_quote[
     #emph[Souls become daemons.]
@@ -1783,10 +1783,10 @@ star or sign of the letter entered.
     #t_img("./images/00175.jpeg")
   ]
   #p_normal[
-    There is another kind among kabbalists. It once had great veneration but today is used so commonly that it is almost found placed among the profane. It is thus: the twenty-seven Hebrew letters are divided into three classes,#t_footnote(2376)[2] 
-of which each contains nine letters—namely, the first, א ב ג ד ה ו ז ח ט, which are the signs of simple numbers and of intellectual things distributed into nine orders of angels. The second [class] has 
-י כ ל מ נ ס ע פ צ, signs of ten and heavenly things in the nine orbs of heaven.#t_footnote(2377)[3] However, the third [class] has the remaining four letters, with the five finals by order—namely, 
-ק ר ש ת ך ם ן ף ץ, signs of hundreds and inferior things; that is, the four simple elements and five kinds of perfect compositions.#t_footnote(2378)[4]
+    There is another kind among kabbalists. It once had great veneration but today is used so commonly that it is almost found placed among the profane. It is thus: the twenty-seven Hebrew letters are divided into three classes,#t_footnote(2376)[2]
+    of which each contains nine letters—namely, the first, א ב ג ד ה ו ז ח ט, which are the signs of simple numbers and of intellectual things distributed into nine orders of angels. The second [class] has
+    י כ ל מ נ ס ע פ צ, signs of ten and heavenly things in the nine orbs of heaven.#t_footnote(2377)[3] However, the third [class] has the remaining four letters, with the five finals by order—namely,
+    ק ר ש ת ך ם ן ף ץ, signs of hundreds and inferior things; that is, the four simple elements and five kinds of perfect compositions.#t_footnote(2378)[4]
   ]
   #p_normal[
     They then distribute these three classes into nine vaults, of which the first is three ones—that is, intellectual, heavenly, and elemental—the second is of twos, and the third is of threes and thus the rest. The vaults are formed by the intersection of four parallel lines, intersecting themselves in right angles, thus shown in the following figure: #t_img("./images/00176.jpeg")
@@ -1795,8 +1795,8 @@ of which each contains nine letters—namely, the first, א ב ג ד ה ו ז ח
     And if those parts are cut apart, they make nine particular figures, thus: #t_img("./images/00177.jpeg")
   ]
   #p_normal[
-    The notaricon written above are the nine vaults characterizing their letters. 
-If there is one point [on a given letter], [this] indicates the first letter of that vault. If two points, this indicates the second vault. If three, it refers to the third. As an example, if you wish to form the characters of Michael, מיכאל, they are entered thus and extended into five characters, thus: #t_img("./images/00178.jpeg")
+    The notaricon written above are the nine vaults characterizing their letters.
+    If there is one point [on a given letter], [this] indicates the first letter of that vault. If two points, this indicates the second vault. If three, it refers to the third. As an example, if you wish to form the characters of Michael, מיכאל, they are entered thus and extended into five characters, thus: #t_img("./images/00178.jpeg")
   ]
   #p_normal[
     Which are then drawn together into three figures in this manner: #t_img("./images/00179.jpeg")
@@ -1814,15 +1814,15 @@ If there is one point [on a given letter], [this] indicates the first letter of 
     This method is most received by the Arabs; nor is there any writing that is so willingly and elegantly joined to itself as Arabic.
   ]
   #p_normal[
-    Moreover, you must know that angelic spirits, since they are a pure intellect and are entirely incorporeal, are not derived from signs, characters, paintable 
-figures, or human command. We, [though] ignorant of their essence and quality, 
-devote and consecrate the characters of those figures and seals from those 
-names, works, or other things because of our dispositions—by which we cannot in 
-any way compel those spirits to us. [However,] by these [figures] we can rise to 
-them, inasmuch as from these kinds of unknown characters and figures, we can 
-gather first by our inner senses as well as outer senses. Then by a certain 
-admiration of our reason, we are brought to a religious veneration to them. Then 
-the entire mind is seized into an ecstatic adoration, and with a wonderful faith, an infallible hope, and a vivifying love, we can invoke them in spirit and truth with their true names and characters and ask that we receive their virtue.
+    Moreover, you must know that angelic spirits, since they are a pure intellect and are entirely incorporeal, are not derived from signs, characters, paintable
+    figures, or human command. We, [though] ignorant of their essence and quality,
+    devote and consecrate the characters of those figures and seals from those
+    names, works, or other things because of our dispositions—by which we cannot in
+    any way compel those spirits to us. [However,] by these [figures] we can rise to
+    them, inasmuch as from these kinds of unknown characters and figures, we can
+    gather first by our inner senses as well as outer senses. Then by a certain
+    admiration of our reason, we are brought to a religious veneration to them. Then
+    the entire mind is seized into an ecstatic adoration, and with a wonderful faith, an infallible hope, and a vivifying love, we can invoke them in spirit and truth with their true names and characters and ask that we receive their virtue.
   ]
 ]
 
@@ -1834,8 +1834,8 @@ the entire mind is seized into an ecstatic adoration, and with a wonderful faith
     There is another kind of character, which is only received by revelation and cannot be found in any other way. The virtues of these characters written in secret seals are divinely revealed, breathing the harmony of some divinity. [These seals] are like a treaty or pact taken in league between us and them.
   ]
   #p_normal[
-    Of this kind is a seal shown to Constantine, which most call a cross. In Latin letters the words “IN HOC VINCE”#t_footnote(2380)[1] were written upon it. Another such seal was revealed to Antiochus, with the surname Soteris, in the figure of a pentagram. This proclaimed health (for if resolved into letters proclaims the word ὑγίεια#t_footnote(2381)[2]—namely, “HEALTH”). With these signs in faith and virtue, each king reported a great victory against their enemies. Thus, Judas received the noble seal מׄכבׄיׄ from an angel, and for that reason was later surnamed Maccabeus, and he fought with the Jews against Antiochus Eupator in virtue of which he first slew 14,000 with a huge number of elephants, then another 35,000 enemies. Indeed, that sign was representative of the four-lettered name and the letters of the seventy-two names through the memorable symbol of the number and is shown thus: 
-מי כמוך באלים יהוה—namely, “Which of you is as strong as the Tetragrammaton.”#t_footnote(2382)[3] Therefore the figures of these three memorable seals must be formed thus: #t_img("./images/00182.jpeg")
+    Of this kind is a seal shown to Constantine, which most call a cross. In Latin letters the words “IN HOC VINCE”#t_footnote(2380)[1] were written upon it. Another such seal was revealed to Antiochus, with the surname Soteris, in the figure of a pentagram. This proclaimed health (for if resolved into letters proclaims the word ὑγίεια#t_footnote(2381)[2]—namely, “HEALTH”). With these signs in faith and virtue, each king reported a great victory against their enemies. Thus, Judas received the noble seal מׄכבׄיׄ from an angel, and for that reason was later surnamed Maccabeus, and he fought with the Jews against Antiochus Eupator in virtue of which he first slew 14,000 with a huge number of elephants, then another 35,000 enemies. Indeed, that sign was representative of the four-lettered name and the letters of the seventy-two names through the memorable symbol of the number and is shown thus:
+    מי כמוך באלים יהוה—namely, “Which of you is as strong as the Tetragrammaton.”#t_footnote(2382)[3] Therefore the figures of these three memorable seals must be formed thus: #t_img("./images/00182.jpeg")
   ]
   #p_normal[
     Additionally, Porphyry said in his book #emph[Of Answers] of these seals and characters that the characters and figures that signify the gods with which they can rejoice, be summoned, be offered to them, and what their figures of likenesses should be, were shown through the oracle of Proserpina. He also said that Hecate taught how likenesses should be set up for her and that they should be surrounded with wormwood, and painted with [images of] house mice, and with beautiful ornaments that were most pleasing to her soul, and as [with] many mice as her forms were to be taken, blood, myrrh, storax, and other things were burned. If this were done, she would appear to the operator in dreams and answer.#t_footnote(2383)[4] But we will show the oracle of Hecate, indeed saying thus: #emph[Hecate’s likeness and how sacred pacts are made to her.]
@@ -1958,18 +1958,18 @@ the entire mind is seized into an ecstatic adoration, and with a wonderful faith
     From Philostratus, we read that when Apollonius and his associates made their journey at night by a bright shining Moon, they met the phantom of a Lumia, which changed itself into one figure and then another, then suddenly vanished from sight. Apollonius recognized what it was, rebuked it in serious and insulting words, and encouraged his associates to do the same. Indeed, he knew that this was the best remedy for attacks of this kind. His associates obeyed what he said, and the phantom hissed and quickly flew away like a shadow.#t_footnote(2398)[13]
   ]
   #p_normal[
-    Indeed, as terrible as these kinds of daemons are, they can be moved, tremble, and are compelled with a feign terror, deceive, and make impossible threats. Of this, Chaeremon the sacred scribe said that these are things that especially convene daemons.#t_footnote(2399)[14] 
-Additionally (as we said above) certain kinds of daemons are not entirely 
-harmful but are very close to men, so that they are also affected by human 
-passions and very much delight in being familiar with men and willingly live 
-with them. Others rejoice in partnership with women, others children, others 
-different domestic or wild animals. Still others inhabit forests and woods, or live in fountains and meadows. Thus, Fauns and Lemures live in fields, Naiads in springs, Potamides in rivers, Nymphs in pools and waters, Oreades in mountains, Humedes in meadows. Dryads and Hamadryads [are found] in woods, where Satyrs and Sylvani especially live and rejoice in trees and sod. Thus, Naptas and Agaptas live in flowers, Dodonas in acorns, and Paleas and Fenilias in fodder and the countryside.
+    Indeed, as terrible as these kinds of daemons are, they can be moved, tremble, and are compelled with a feign terror, deceive, and make impossible threats. Of this, Chaeremon the sacred scribe said that these are things that especially convene daemons.#t_footnote(2399)[14]
+    Additionally (as we said above) certain kinds of daemons are not entirely
+    harmful but are very close to men, so that they are also affected by human
+    passions and very much delight in being familiar with men and willingly live
+    with them. Others rejoice in partnership with women, others children, others
+    different domestic or wild animals. Still others inhabit forests and woods, or live in fountains and meadows. Thus, Fauns and Lemures live in fields, Naiads in springs, Potamides in rivers, Nymphs in pools and waters, Oreades in mountains, Humedes in meadows. Dryads and Hamadryads [are found] in woods, where Satyrs and Sylvani especially live and rejoice in trees and sod. Thus, Naptas and Agaptas live in flowers, Dodonas in acorns, and Paleas and Fenilias in fodder and the countryside.
   ]
   #p_normal[
-    Therefore, whoever wishes to invoke them, it is easiest in places where they stay, drawing them with the scents of fumigations, pleasant 
-sounds, with chords and musical instruments, which are made from the intestines 
-of certain animals and appropriate woods. Indeed, [these things are used for] 
-summoning them with songs, poems, and enchantments that are agreeable to them. This is to be especially done with a simple character, innocent mind, firm belief, and steadfast silence. Accordingly, they often meet children, women, more humble common people, and obscure little men; but those [humans] with a steadfast and bold mind [daemons] fear: [before such people] they flee and tremble. [I speak here of beings which are] good and inoffensive to the world, but harmful to evil and impure men. Lemures, Lares, and Larvae,#t_footnote(2400)[15] along with other shades of the dead and makers of terror, are of this kind are also.
+    Therefore, whoever wishes to invoke them, it is easiest in places where they stay, drawing them with the scents of fumigations, pleasant
+    sounds, with chords and musical instruments, which are made from the intestines
+    of certain animals and appropriate woods. Indeed, [these things are used for]
+    summoning them with songs, poems, and enchantments that are agreeable to them. This is to be especially done with a simple character, innocent mind, firm belief, and steadfast silence. Accordingly, they often meet children, women, more humble common people, and obscure little men; but those [humans] with a steadfast and bold mind [daemons] fear: [before such people] they flee and tremble. [I speak here of beings which are] good and inoffensive to the world, but harmful to evil and impure men. Lemures, Lares, and Larvae,#t_footnote(2400)[15] along with other shades of the dead and makers of terror, are of this kind are also.
   ]
   #p_normal[
     Hence, Plotinus said that the souls of men are sometimes daemons and that Lares can be made from men if they merit good. These the Greeks called “Eudaemonas”—that is, blessed daemons. Harmful daemons such as Lemures and Larvae are made from men if they merit evil. These the Greeks called “Cacodaemons.” Daemons are called “Manes” when they come from the soul of a man with an uncertain character.
@@ -1990,9 +1990,9 @@ summoning them with songs, poems, and enchantments that are agreeable to them. T
     Chapter 33. Of the chains of spirits, and of their adjurations and expulsions.
   ]
   #p_normal[
-    There are three [kinds of powers we call] chains, by which the spirits are bound and implored or expelled. Some are taken from the elemental world. Take, for example, the practice of using more inferior or natural things, for which a spirit may have an affinity or be adverse, to adjure a given daemon when we would wish to invoke or expel them. [Such natural things] as flowers, herbs, animals, snows, ices, Tartarus,#t_footnote(2402)[1] 
-fire, and the like [are employed to this end]. These are often engrafted with 
-divine praises, blessings, and consecrations, as is shown in the song of the three children,#t_footnote(2403)[2] in the Psalm “Praise the Lord of the heavens,”#t_footnote(2404)[3] and in the consecration and blessing of the paschal candle.
+    There are three [kinds of powers we call] chains, by which the spirits are bound and implored or expelled. Some are taken from the elemental world. Take, for example, the practice of using more inferior or natural things, for which a spirit may have an affinity or be adverse, to adjure a given daemon when we would wish to invoke or expel them. [Such natural things] as flowers, herbs, animals, snows, ices, Tartarus,#t_footnote(2402)[1]
+    fire, and the like [are employed to this end]. These are often engrafted with
+    divine praises, blessings, and consecrations, as is shown in the song of the three children,#t_footnote(2403)[2] in the Psalm “Praise the Lord of the heavens,”#t_footnote(2404)[3] and in the consecration and blessing of the paschal candle.
   ]
   #p_normal[
     Accordingly, this [power we term a] chain works by a seizing virtue in spirits under the reason of love or hatred. The spirits that preside favor or abhor something natural or also beyond natural, just as these kinds of things also mutually love or hate each other. Hence, Proclus said: “As the lion especially fears the white rooster, thus spirits appearing in the form of a lion before a rooster suddenly disappear.”#t_footnote(2405)[4]
@@ -2037,11 +2037,11 @@ divine praises, blessings, and consecrations, as is shown in the song of the thr
     There are even those today who have intercourse and conjugal mixture with daemons; and now all believe that Merlin, a British prophet, was the son of a daemon born from a virgin; but Plato, prince of wisdom, was imagined to have been born from a virgin who was overwhelmed by a phantom of Apollo.#t_footnote(2412)[3]
   ]
   #p_normal[
-    Historians relate that certain Gothic women (called Alrumnas), who were known for their appearance and ingenuity, were once driven from their camp by the Gothic king Filimirus (or as others say) Idanthresus.#t_footnote(2413)[4] They 
-traveled across the Asian wilderness of Scythia across the swamps of Meotides, 
-and there were impregnated by Fauns and Satyrs, who first begat the Huns.#t_footnote(2414)[5] 
-Indeed, the author Psellus said that daemons sometimes cast seed from which 
-certain small creatures arise.#t_footnote(2415)[6]
+    Historians relate that certain Gothic women (called Alrumnas), who were known for their appearance and ingenuity, were once driven from their camp by the Gothic king Filimirus (or as others say) Idanthresus.#t_footnote(2413)[4] They
+    traveled across the Asian wilderness of Scythia across the swamps of Meotides,
+    and there were impregnated by Fauns and Satyrs, who first begat the Huns.#t_footnote(2414)[5]
+    Indeed, the author Psellus said that daemons sometimes cast seed from which
+    certain small creatures arise.#t_footnote(2415)[6]
   ]
   #p_normal[
     Therefore, these heroes have no less power in disposing and ruling these more inferiors than gods and daemons. They have their duties and protections distributed to them, for which reason they had temples, likenesses, altars, sacrifices, vows, and other religious mysteries expressed to them and not alongside the gods themselves. Their names had divine magical virtues and performed certain miracles when invoked. Eusebius narrated that for this reason many tried to invoke the name of Apollonius of Tyana.#t_footnote(2416)[7] We read of many more [descriptions] of this kind from ancient poets, historians, and philosophers [who speak] of Hercules, Atlas, Asclepius, and certain other gentile heroes; but these are the delusions of heathens.
@@ -2057,15 +2057,15 @@ certain small creatures arise.#t_footnote(2415)[6]
   ]
   #p_normal[
     But their true names are [as follows]: first שמעון הכפי , Symehon
-Hacaephi (that is, Peter); second, אלעוזי , Aleuzi, who we call Andrew;
-third, יעקבה , Iahacobah (that is, James the Greater); fourth, ,פוליפוש
-Polipos, who we name Philip; fifth, ברכיה , Barachiah (that is,
-Bartholomew); sixth, יוהנה , Iohanah, which we pronounce as John; the
-seventh is תמני , Thamni, which we pronounce as Thomas; the eighth is
-called מדון , Medon, who we call Matthew; the ninth is יעקב , Iahacob
-(that is James the Lesser); the tenth is חטיפא , Chatepha (that is,
-Thaddeus); the eleventh is שמאם , Samam, who is Simon the Canaanite;
-the twelfth is מתתיה , Matattiah, who we call Mathias.#t_footnote(2420)[11]
+    Hacaephi (that is, Peter); second, אלעוזי , Aleuzi, who we call Andrew;
+    third, יעקבה , Iahacobah (that is, James the Greater); fourth, ,פוליפוש
+    Polipos, who we name Philip; fifth, ברכיה , Barachiah (that is,
+    Bartholomew); sixth, יוהנה , Iohanah, which we pronounce as John; the
+    seventh is תמני , Thamni, which we pronounce as Thomas; the eighth is
+    called מדון , Medon, who we call Matthew; the ninth is יעקב , Iahacob
+    (that is James the Lesser); the tenth is חטיפא , Chatepha (that is,
+    Thaddeus); the eleventh is שמאם , Samam, who is Simon the Canaanite;
+    the twelfth is מתתיה , Matattiah, who we call Mathias.#t_footnote(2420)[11]
   ]
   #p_normal[
     After these are the seventy-two disciples of Christ, who preside over as many fivefold divisions#t_footnote(2421)[12] of heaven, tribes, people, nations, and languages.#t_footnote(2422)[13] After them are an innumerable multitude of saints, who have received diverse offices, places, nations, and people into their protections and guardianship, whose undoubted miracles to the faithful who invoke them we plainly see and confess.
@@ -2081,7 +2081,7 @@ the twelfth is מתתיה , Matattiah, who we call Mathias.#t_footnote(2420)[11]
   ]
   #p_normal[
     However, He also taught of worshipping and venerating them, decreeing tithes and first fruits for them, presenting the law of the sword, forbidding [anyone] to curse them, and requiring obedience, although wicked. Hence, all ancients called their princes gods and worshipped them as divine powers, as Janus testified in the first book of Ovid’s
-#emph[Fasti,] saying:
+    #emph[Fasti,] saying:
   ]
   #p_poetry[
     #emph[I reigned then when the gods of earth were powerful]
@@ -2171,13 +2171,13 @@ the twelfth is מתתיה , Matattiah, who we call Mathias.#t_footnote(2420)[11]
     #emph[Mercury Trismegistus recognized the mystery of the Trinity.]
   ]
   #p_normal[
-    Mercury Trismegistus also confessed of the divine Trinity, describing [it as composed of] intellect, life, and brightness, elsewhere called words, mind, and spirit. [According to Hermes] man is made in the image of God represented in the same Trinity.#t_footnote(2454)[14] Indeed, an understanding 
-mind, a vivifying word, and a spirit [each] belong to them as a divine 
-brightness—diffusing itself on all sides, filling, moving, and connecting all. Yet, this is not understood from the natural spirit. [The natural spirit] is a medium through which the soul is united with the flesh and body, by which the body lives and works and one member works with another. We spoke of that spirit in the first book. [The spirit we address here] is driven by the rational#t_footnote(2455)[15] spirit, yet is also corporeal in a certain way. However, it does not have a heavy body, tangible and visible, but is a subtle body and easily united easily with the mind—that is, that more superior and divine [part] that is in us. One should not marvel if we say that the rational soul is that spirit and is corporeal or having and sensing some corporeality, while it is in the body and uses it just as an instrument, if you understand in the manner of the Platonists that that ethereal body of the soul is a vehicle.
+    Mercury Trismegistus also confessed of the divine Trinity, describing [it as composed of] intellect, life, and brightness, elsewhere called words, mind, and spirit. [According to Hermes] man is made in the image of God represented in the same Trinity.#t_footnote(2454)[14] Indeed, an understanding
+    mind, a vivifying word, and a spirit [each] belong to them as a divine
+    brightness—diffusing itself on all sides, filling, moving, and connecting all. Yet, this is not understood from the natural spirit. [The natural spirit] is a medium through which the soul is united with the flesh and body, by which the body lives and works and one member works with another. We spoke of that spirit in the first book. [The spirit we address here] is driven by the rational#t_footnote(2455)[15] spirit, yet is also corporeal in a certain way. However, it does not have a heavy body, tangible and visible, but is a subtle body and easily united easily with the mind—that is, that more superior and divine [part] that is in us. One should not marvel if we say that the rational soul is that spirit and is corporeal or having and sensing some corporeality, while it is in the body and uses it just as an instrument, if you understand in the manner of the Platonists that that ethereal body of the soul is a vehicle.
   ]
   #p_normal[
-    Plotinus and all Platonists after Trismegistus place three things in men, which are called the supreme, the lowest, and the middle. The supreme is that divine thing, which is called the mind, superior part, or illuminated intellect. In Genesis, Moses called it the breath of life, which comes from God or from His Holy Spirit breathing into us. The lowest is the sensitive soul, which is also called an 
-#emph[idolum,]#t_footnote(2456)[16] and Paul the apostle called the “animal man.” The middle is the rational spirit, connecting and binding each extreme—that is, the animal soul with the mind, and the wise nature of each extreme. However, it differs from the most supreme, which is called the illuminated intellect, mind, light, and the supreme part. It also differs from the animal soul, from which the apostle said we must separate by the virtue of the Word of God, saying: “The Word of God is alive and effective and is more penetrable than a two-edged sword reaching all the way to the division of the soul and spirit.” Indeed, as that supreme part never sins, never consents to evil, and always resists error and encourages the best; thus, that lowest part and animal soul is always immersed in evil, sin, and concupiscence and draws to ruin, of which Paul said: “I see another law in my members and captivating me in the law of sin.”
+    Plotinus and all Platonists after Trismegistus place three things in men, which are called the supreme, the lowest, and the middle. The supreme is that divine thing, which is called the mind, superior part, or illuminated intellect. In Genesis, Moses called it the breath of life, which comes from God or from His Holy Spirit breathing into us. The lowest is the sensitive soul, which is also called an
+    #emph[idolum,]#t_footnote(2456)[16] and Paul the apostle called the “animal man.” The middle is the rational spirit, connecting and binding each extreme—that is, the animal soul with the mind, and the wise nature of each extreme. However, it differs from the most supreme, which is called the illuminated intellect, mind, light, and the supreme part. It also differs from the animal soul, from which the apostle said we must separate by the virtue of the Word of God, saying: “The Word of God is alive and effective and is more penetrable than a two-edged sword reaching all the way to the division of the soul and spirit.” Indeed, as that supreme part never sins, never consents to evil, and always resists error and encourages the best; thus, that lowest part and animal soul is always immersed in evil, sin, and concupiscence and draws to ruin, of which Paul said: “I see another law in my members and captivating me in the law of sin.”
   ]
   #p_quote[
     #emph[Platonists placed three things in man.]
@@ -2192,21 +2192,21 @@ brightness—diffusing itself on all sides, filling, moving, and connecting all.
     #emph[Speech or words.]
   ]
   #p_normal[
-    Indeed, speech or words “without which nothing can be accomplished”#t_footnote(2459)[19] or can happen, is the expression of both the expresser and the thing expressed, and the speech of the speaker. That which is spoken is speech and words are the conception of the conceiver; and that which is conceived is words and the writing of the writer and that which writes is the word and the forming of the former; and that which is formed is the word and the creation of the creator; and that which is created is the word and the doing of the doer, and that which is created is the word and the knowledge of the knower; and that which is known is the word and all that can be said is nothing, unless there is a word and it is called 
-#emph[equality]. Indeed, it equally manages itself with everything, since it is not one thing more than another. It grants equally to everything, as they are neither more nor less. Being sensible, it makes all things sensible, as light makes itself and all things visible. Therefore Hermes [Trismegistus] called the word “the shining son of the mind.”#t_footnote(2460)[20]
+    Indeed, speech or words “without which nothing can be accomplished”#t_footnote(2459)[19] or can happen, is the expression of both the expresser and the thing expressed, and the speech of the speaker. That which is spoken is speech and words are the conception of the conceiver; and that which is conceived is words and the writing of the writer and that which writes is the word and the forming of the former; and that which is formed is the word and the creation of the creator; and that which is created is the word and the doing of the doer, and that which is created is the word and the knowledge of the knower; and that which is known is the word and all that can be said is nothing, unless there is a word and it is called
+    #emph[equality]. Indeed, it equally manages itself with everything, since it is not one thing more than another. It grants equally to everything, as they are neither more nor less. Being sensible, it makes all things sensible, as light makes itself and all things visible. Therefore Hermes [Trismegistus] called the word “the shining son of the mind.”#t_footnote(2460)[20]
   ]
   #p_normal[
     But conception—that is, the process by which the mind conceives itself—is the inner word generated from the mind, this being the knowledge of itself. However, the outer and vocal word is the offspring and presentation of that [inner] word, and the breath signifying something proceeds from the mouth with sound and voice: but all of our voices, words, and speeches, mix with the air and will vanish unless they are formed by the voice of God. The spirit and Word of God remain and accompany life.
   ]
   #p_normal[
-    Indeed, all of our speeches, words, spirits, and voices have no virtue in magic unless they are formed by a divine voice.#t_footnote(2461)[21] Aristotle—in 
-#emph[Meteorology] and at the end of #emph[Ethics]—admitted that there is no virtue either natural or moral, unless through God. In the 
-#emph[Secret of Secrets,]#t_footnote(2462)[22] he asserted that our understanding, being good and sound, can do much in the secrets of nature . . . provided one is influenced by divine virtues. Otherwise, they are nothing.#t_footnote(2463)[23]
+    Indeed, all of our speeches, words, spirits, and voices have no virtue in magic unless they are formed by a divine voice.#t_footnote(2461)[21] Aristotle—in
+    #emph[Meteorology] and at the end of #emph[Ethics]—admitted that there is no virtue either natural or moral, unless through God. In the
+    #emph[Secret of Secrets,]#t_footnote(2462)[22] he asserted that our understanding, being good and sound, can do much in the secrets of nature . . . provided one is influenced by divine virtues. Otherwise, they are nothing.#t_footnote(2463)[23]
   ]
   #p_normal[
-    Thus, our words can produce many wonders, but only if formed by the word of God, in which our univocal#t_footnote(2464)[24] generation is perfected as Isaiah said: “From your form, O Lord, we have conceived, as a women rightly conceives from the form of their husbands, and we have borne a spirit.”#t_footnote(2465)[25] This, in a certain way, concerns the opinions of Indian Gymnosophists, as if delivered by their hands though authors, that Buddha, the prince of their doctrine, was born from the right side of a virgin.#t_footnote(2466)[26] From the Muslims, there is a constant opinion, of those who they call in their tongue 
-#emph[Nefesogli,] who are born with a certain occult manner of divine dispensation without carnal intercourse, and therefore have a wonderful and passionless#t_footnote(2467)[27] life as angels and are entirely supernatural. However, we will dismiss these trifles: only the King Messiah, “The word of the Father made flesh,”#t_footnote(2468)[28] Jesus Christ, has revealed this secret, [and Jesus] will more openly manifest this when the time is right. Therefore, a very like mind to himself, as Lazzarelli sang in the
-#emph[Crater of Hermes:]
+    Thus, our words can produce many wonders, but only if formed by the word of God, in which our univocal#t_footnote(2464)[24] generation is perfected as Isaiah said: “From your form, O Lord, we have conceived, as a women rightly conceives from the form of their husbands, and we have borne a spirit.”#t_footnote(2465)[25] This, in a certain way, concerns the opinions of Indian Gymnosophists, as if delivered by their hands though authors, that Buddha, the prince of their doctrine, was born from the right side of a virgin.#t_footnote(2466)[26] From the Muslims, there is a constant opinion, of those who they call in their tongue
+    #emph[Nefesogli,] who are born with a certain occult manner of divine dispensation without carnal intercourse, and therefore have a wonderful and passionless#t_footnote(2467)[27] life as angels and are entirely supernatural. However, we will dismiss these trifles: only the King Messiah, “The word of the Father made flesh,”#t_footnote(2468)[28] Jesus Christ, has revealed this secret, [and Jesus] will more openly manifest this when the time is right. Therefore, a very like mind to himself, as Lazzarelli sang in the
+    #emph[Crater of Hermes:]
   ]
   #p_poetry[
     #emph[Now the Father has given speech to man]
@@ -2284,11 +2284,11 @@ brightness—diffusing itself on all sides, filling, moving, and connecting all.
     Chapter 38. What divine gifts man receives from above from each of the orders of the celestials and intelligences.
   ]
   #p_normal[
-    All virtues are diffused into 
-men from the highest fountain of good by the seven planets as if they were 
-instruments: by Saturn a sublime contemplation, profound intelligence, dignified judgment, firm speculation, and a stable and immobile intention; by Jupiter an unshaken prudence, temperance, kindness, piety, modesty, justice, faith, grace, religion, fairness, clemency, and regality; by Mars a fearless truth, constant strength and fortitude, boldness, and an ardent desire to act and a practical and unchangeable vehemence of mind; by the Sun a nobility of mind, clarity of imagination, a nature of knowledge and opinion, maturity, deliberation, zealousness, 
-the light of justice, reason, and the judgment of separating right from wrong, 
-purging light from the darkness of ignorance, discovering the glory and charity of truth, the queen of all virtues; by Venus a fervent love, sweetest hope, desire of movement, order, concupiscence, beauty, charm, growing desire, and propagation of itself; by Mercury a penetrating faith and belief, plain reasoning, a vigor of interpreting and pronouncing, a grave eloquence, a sharp ingenuity, a rational discourse and swiftly moving senses; by the Moon a pacifying harmony, fertility, a power of generating and increasing, increase and decrease and moderate temperance and faith, which maneuvers in known and hidden things offering leadership to all, also the motion of tilling the earth for the manner of life and granting augmentation for itself and others.#t_footnote(2477)[1] These influences are principally drawn from these seven intelligences who stand before the face of God, who disposes the soul, the seat of these virtues. But the planets only dispose the body, giving a manageable complexion, proportioned and tempered with all good things, and they are as instruments of the intelligences. However, God, as the first cause, gives influence and increase to all.
+    All virtues are diffused into
+    men from the highest fountain of good by the seven planets as if they were
+    instruments: by Saturn a sublime contemplation, profound intelligence, dignified judgment, firm speculation, and a stable and immobile intention; by Jupiter an unshaken prudence, temperance, kindness, piety, modesty, justice, faith, grace, religion, fairness, clemency, and regality; by Mars a fearless truth, constant strength and fortitude, boldness, and an ardent desire to act and a practical and unchangeable vehemence of mind; by the Sun a nobility of mind, clarity of imagination, a nature of knowledge and opinion, maturity, deliberation, zealousness,
+    the light of justice, reason, and the judgment of separating right from wrong,
+    purging light from the darkness of ignorance, discovering the glory and charity of truth, the queen of all virtues; by Venus a fervent love, sweetest hope, desire of movement, order, concupiscence, beauty, charm, growing desire, and propagation of itself; by Mercury a penetrating faith and belief, plain reasoning, a vigor of interpreting and pronouncing, a grave eloquence, a sharp ingenuity, a rational discourse and swiftly moving senses; by the Moon a pacifying harmony, fertility, a power of generating and increasing, increase and decrease and moderate temperance and faith, which maneuvers in known and hidden things offering leadership to all, also the motion of tilling the earth for the manner of life and granting augmentation for itself and others.#t_footnote(2477)[1] These influences are principally drawn from these seven intelligences who stand before the face of God, who disposes the soul, the seat of these virtues. But the planets only dispose the body, giving a manageable complexion, proportioned and tempered with all good things, and they are as instruments of the intelligences. However, God, as the first cause, gives influence and increase to all.
   ]
   #p_quote[
     #emph[What man receives from the planets.]
@@ -2396,16 +2396,16 @@ purging light from the darkness of ignorance, discovering the glory and charity 
     It has been decided that all men generally die once.#t_footnote(2490)[1] Death is fated to all, but one is natural, another violent, another voluntarily accepted, another imposed for offenses of human law or inflicted by God, not due to nature, but seemingly as a punishment for sins. As Hebrew teachers say, God remits to none. Because of this, the agreement was delivered to Hezekiah, that after the house of the sanctuary was destroyed, although there was no order of judicial execution remaining, there was yet a fourfold kind of punishment, by which one can be condemned, that no one guilty of death can avoid retaliation. For those who deserve death by stones, God willing, would either be thrown headlong from a roof, tread upon by wild beasts, or crushed by a collapse or fall. However, those who deserve to be burned, should either be consumed by fire, his life finished by a venomous sting, a bite from a serpent, or his life finished by poison. But those who might be slain by a sword would be slaughtered by violence from the state, a rebellion of the people or a faction, or ambushed by robbers. Those who would be hanged by a noose would be either drowned in water or killed by some other strangulation.#t_footnote(2491)[2] The great Origen thought that when Christ is described in the Gospels as saying: “Who kills by the sword, dies by the sword,” the Messiah was referring to this aspect of the doctrine.
   ]
   #p_quote[
-     #emph[Adrastia.]
+    #emph[Adrastia.]
   ]
   #p_normal[
     Pagan philosophers also proclaimed retaliations of this kind of order as #emph[adrastia]#t_footnote(2492)[3]—that is, the inevitable power of divine law. According to this, man’s future courses are weighed out according to the reason and merit of his previous life. Those who ruled unjustly in their previous life would, in the next life, fall back into a servile position; hands that have been stained by blood, will be forced to undergo retaliation;#t_footnote(2493)[4] those who live a bestial life, will be cast into a brutish body.
   ]
   #p_normal[
-    Plotinus wrote of this in his book #emph[On Everyone’s Individual Daemon,]#t_footnote(2494)[5] saying: “Whoever kept a human quality will again be born a man. However, whoever only used their senses will return as brutish animals. Those who especially use senses together with anger arise as wild animals, but those who use senses through concupiscence and pleasure will arise as salacious and gluttonous animals. However, if they do not use their senses with one of these [passions], as living with degeneration of sense, will arise as plants: inasmuch as their cares were primarily or mostly of the vital part, that they were changed into plants. However, those who lived excessively bewitched by music and not deprived of other things, are born again as musical animals. Those who have reigned unreasonably, are made eagles, unless they are corrupted 
-by some viciousness. However, those who follow a civil virtue, are born again as 
-men.” In Proverbs, Solomon himself sometimes called man a lion, tiger, bear, or 
-boar, and named others a hare, dog, a hunting or rabbit dog, an ant, hedgehog, a serpent or spider, an eagle, lizard, rooster, bird, and many more like this.#t_footnote(2495)[6] Hebrew kabbalists do not admit that souls are cast down into brutes, yet they do not deny that those who have thoroughly lost their reason in another life are left with a brutish disposition and imagination.
+    Plotinus wrote of this in his book #emph[On Everyone’s Individual Daemon,]#t_footnote(2494)[5] saying: “Whoever kept a human quality will again be born a man. However, whoever only used their senses will return as brutish animals. Those who especially use senses together with anger arise as wild animals, but those who use senses through concupiscence and pleasure will arise as salacious and gluttonous animals. However, if they do not use their senses with one of these [passions], as living with degeneration of sense, will arise as plants: inasmuch as their cares were primarily or mostly of the vital part, that they were changed into plants. However, those who lived excessively bewitched by music and not deprived of other things, are born again as musical animals. Those who have reigned unreasonably, are made eagles, unless they are corrupted
+    by some viciousness. However, those who follow a civil virtue, are born again as
+    men.” In Proverbs, Solomon himself sometimes called man a lion, tiger, bear, or
+    boar, and named others a hare, dog, a hunting or rabbit dog, an ant, hedgehog, a serpent or spider, an eagle, lizard, rooster, bird, and many more like this.#t_footnote(2495)[6] Hebrew kabbalists do not admit that souls are cast down into brutes, yet they do not deny that those who have thoroughly lost their reason in another life are left with a brutish disposition and imagination.
   ]
   #p_quote[
     #emph[Plotinus.]
@@ -2510,8 +2510,8 @@ boar, and named others a hare, dog, a hunting or rabbit dog, an ant, hedgehog, a
     However, those souls who are impure, incontinent, and passing with unjust sins do not have such happy dreams, but [instead] wander with horrible phantasms and [in] degenerate places, having no free thoughts unless dragged away by permission or manifestation. Then, with continuous carnal desire and sanguine appetites (because of the stain of their corporeal tarnish) they are subjected to pain and fear daggers and swords.#t_footnote(2526)[37]
   ]
   #p_normal[
-    Without a doubt, Homer seemed to sense this, when in the eleventh book of the 
-#emph[Odyssey,] he introduced Ulysses’s dead mother assisting him with a sacrifice but neither recognized him nor spoke to him as he kept shades away from the sacrificial blood with his unsheathed sword. Later the prophet#t_footnote(2527)[38] Tiresias suggested that his mother nibble and drink the black blood, and she immediately recognized her son and spoke to him, crying. However, the soul of the prophet Tiresias, despite the unsheathed sword, even before he nibbled the blood, recognized Ulysses and pointed out the shade of his mother assisting him.#t_footnote(2528)[39] Therefore, whatever wicked sins souls have collected in bodies in this life that are not expiated, carry their habits along with them to hell, forcing them to cleanse themselves and pay the penalty for their sins, which the poet explained in these verses: #emph[Why, when the light of life leaves for the last time,]
+    Without a doubt, Homer seemed to sense this, when in the eleventh book of the
+    #emph[Odyssey,] he introduced Ulysses’s dead mother assisting him with a sacrifice but neither recognized him nor spoke to him as he kept shades away from the sacrificial blood with his unsheathed sword. Later the prophet#t_footnote(2527)[38] Tiresias suggested that his mother nibble and drink the black blood, and she immediately recognized her son and spoke to him, crying. However, the soul of the prophet Tiresias, despite the unsheathed sword, even before he nibbled the blood, recognized Ulysses and pointed out the shade of his mother assisting him.#t_footnote(2528)[39] Therefore, whatever wicked sins souls have collected in bodies in this life that are not expiated, carry their habits along with them to hell, forcing them to cleanse themselves and pay the penalty for their sins, which the poet explained in these verses: #emph[Why, when the light of life leaves for the last time,]
   ]
   #p_poetry[
     #emph[Are miserable people not freed from all evils, nor bodies]
@@ -2692,7 +2692,7 @@ boar, and named others a hare, dog, a hunting or rabbit dog, an ant, hedgehog, a
   ]
   #p_normal[
     However, neither do I think that we should disregard what many of our [faith] think about receptacles of souls, who do not disagree much from what we have just said. Of this Tertullian said in the fourth book of his
-#emph[Against the Heresies of Marcion:] “It is apparent to each wise man who has ever heard of the Elysian fields, that there is some determinate place which is called the bosom of Abraham for receiving the souls of his sons, and that this area is not heavenly, yet it is higher than hell, ‘where the souls of the just rest,’ until the consummation of all things, which will restore the resurrection with the fullness of reward.”#t_footnote(2558)[69] In fact, Peter the apostle asked Clement of these things: “You force me, O Clement, to disclose indescribable things; but yet as far as I am allowed to mention them I will not regret it. Christ, from the very beginning was always with the pious,in each generation. Although [he was with them] secretly, [he was] yet always near. He frequently appeared, especially to those who waited for Him. However, it was not yet the time then to resurrect the bodies that were dissolved. This was either a recompense from God that those who are found just should remain longer in a body, or at least as is clearly referred in the scriptures of certain just men, that the Lord transferred them. In a like example, others who pleased God’s will were also carried away, being transferred to Paradise will be kept for the Kingdom. However, those who could not entirely fulfill the standard of justice and had some remnant of wickedness in their flesh, indeed had their bodies decay after death, though their souls were protected in good and happy regions, so that in the resurrection of the dead when they might recover their bodies, being cleansed with resolution, they will acquire an eternal inheritance according to the things they have done well.”#t_footnote(2559)[70]
+    #emph[Against the Heresies of Marcion:] “It is apparent to each wise man who has ever heard of the Elysian fields, that there is some determinate place which is called the bosom of Abraham for receiving the souls of his sons, and that this area is not heavenly, yet it is higher than hell, ‘where the souls of the just rest,’ until the consummation of all things, which will restore the resurrection with the fullness of reward.”#t_footnote(2558)[69] In fact, Peter the apostle asked Clement of these things: “You force me, O Clement, to disclose indescribable things; but yet as far as I am allowed to mention them I will not regret it. Christ, from the very beginning was always with the pious,in each generation. Although [he was with them] secretly, [he was] yet always near. He frequently appeared, especially to those who waited for Him. However, it was not yet the time then to resurrect the bodies that were dissolved. This was either a recompense from God that those who are found just should remain longer in a body, or at least as is clearly referred in the scriptures of certain just men, that the Lord transferred them. In a like example, others who pleased God’s will were also carried away, being transferred to Paradise will be kept for the Kingdom. However, those who could not entirely fulfill the standard of justice and had some remnant of wickedness in their flesh, indeed had their bodies decay after death, though their souls were protected in good and happy regions, so that in the resurrection of the dead when they might recover their bodies, being cleansed with resolution, they will acquire an eternal inheritance according to the things they have done well.”#t_footnote(2559)[70]
   ]
   #p_quote[
     #emph[Peter the apostle.]
@@ -2707,8 +2707,8 @@ boar, and named others a hare, dog, a hunting or rabbit dog, an ant, hedgehog, a
     #emph[Lactantius.]
   ]
   #p_normal[
-    Firmianus Lactantius also agreed with this in that book #emph[Divine Institutes], whose title is 
-#emph[Of the Divine Reward,] saying: “No one should think that souls after death are immediately judged, for all are detained in one common holding place until the time comes when a great Judge examines their merits. Then those who are approved of righteousness will receive the prize of immortality, but those whose are sinful and wicked are uncovered and will not rise again, but will be put away with the wicked in the same darkness, destined to certain punishment.”#t_footnote(2561)[72]
+    Firmianus Lactantius also agreed with this in that book #emph[Divine Institutes], whose title is
+    #emph[Of the Divine Reward,] saying: “No one should think that souls after death are immediately judged, for all are detained in one common holding place until the time comes when a great Judge examines their merits. Then those who are approved of righteousness will receive the prize of immortality, but those whose are sinful and wicked are uncovered and will not rise again, but will be put away with the wicked in the same darkness, destined to certain punishment.”#t_footnote(2561)[72]
   ]
   #p_quote[
     #emph[Augustine.]
@@ -2717,9 +2717,9 @@ boar, and named others a hare, dog, a hunting or rabbit dog, an ant, hedgehog, a
     #emph[Ambrose.]
   ]
   #p_normal[
-    Augustine and Ambrose are of the same opinion. In [Augustine’s] #emph[Enchiridion] it is said: “[During] the time which is interposed between the death of man and the final resurrection, the soul is held in hidden receptacles, as each is worthy of rest or toil according to that which it obtained while it lived in the flesh.”#t_footnote(2562)[73] Ambrose, in his book 
-#emph[Death as a Good,] said: “The Scripture of Ezra called the homes of souls storerooms, which meeting human complaints, that the just who preceded them seem to be all the way to the day of judgment—namely, for a long time—to be cheated of the recompense they are owed, [the scriptures] wonderfully say that judgment day is like a crown. Indeed, the day of the crown is expected by all, that until that day, the conquered may be ashamed, and the conquerors can gain the palm of victory. Therefore, while waiting for the fullness of time, souls expect the recompense they are owed: punishment remaining for some, glory for others.”#t_footnote(2563)[74] In the same chapter, he called hell a place that is not seen, where souls desire to be freed from bodies. In the second book of 
-#emph[On Cain and Abel] he said: “The soul is loosened from the body, and after the end of this life, future judgment is still yet uncertain, being in suspense.”#t_footnote(2564)[75]
+    Augustine and Ambrose are of the same opinion. In [Augustine’s] #emph[Enchiridion] it is said: “[During] the time which is interposed between the death of man and the final resurrection, the soul is held in hidden receptacles, as each is worthy of rest or toil according to that which it obtained while it lived in the flesh.”#t_footnote(2562)[73] Ambrose, in his book
+    #emph[Death as a Good,] said: “The Scripture of Ezra called the homes of souls storerooms, which meeting human complaints, that the just who preceded them seem to be all the way to the day of judgment—namely, for a long time—to be cheated of the recompense they are owed, [the scriptures] wonderfully say that judgment day is like a crown. Indeed, the day of the crown is expected by all, that until that day, the conquered may be ashamed, and the conquerors can gain the palm of victory. Therefore, while waiting for the fullness of time, souls expect the recompense they are owed: punishment remaining for some, glory for others.”#t_footnote(2563)[74] In the same chapter, he called hell a place that is not seen, where souls desire to be freed from bodies. In the second book of
+    #emph[On Cain and Abel] he said: “The soul is loosened from the body, and after the end of this life, future judgment is still yet uncertain, being in suspense.”#t_footnote(2564)[75]
   ]
   #p_normal[
     The Gospel of the Last Judgment supports these, as Christ said in Matthew: “Many will say to me in that day: ‘Lord, Lord, have we not prophesied in your name, and in your name cast out daemons, and in your name made many miracles?’ and I will confess that I never knew them.”#t_footnote(2565)[76] From this speech, it seems to agree that all the way to this day, they who were uncertain of their sentence and trusted miracles which were completed in Jesus’s name while they live, a certain hope of salvation meanwhile has been suspended.
@@ -2752,9 +2752,9 @@ boar, and named others a hare, dog, a hunting or rabbit dog, an ant, hedgehog, a
     They think that these things can only be done in places where these kinds of souls are known to be most situated, either because of some affinity, as if their abandoned body was drawing them because of some affection once imprinted in their life drawing the soul to some place, or because some hellish nature of a place, therefore suitable for purging or punishing souls. Such places are most known by the experience of visions, nocturnal incursions, and similar occurrences of phantoms. Some are sufficiently known by themselves, such as cemeteries, places where criminals are often executed, places where there were public massacres in recent years, or where in recent years corpses of the slain are buried but not correctly expiated or interred. Indeed, expiation and exorcism of any place, and also the sacred rite of burial being correctly used to bodies, often prohibits the approach of souls themselves and repels them far from places of judgment.
   ]
   #p_normal[
-    Hence, necromancy has its name because it operates on corpses and desires responses from the shades and manes of the dead, as well as subterranean daemons. It draws them into the corpses by certain stygian songs, infernal invocations, funerary sacrifices, and impious offerings. For instance, we read from Lucan of that witch Erichtho, 
-who summoned the dead and predicted to Sextus Pompey all of the events of the Pharsalian war.#t_footnote(2572)[5] Also in Phigalia, a city in Arcadia, there were certain magicians, skilled priests in sacred rites, who could summon souls to life.#t_footnote(2573)[6] 
-The holy scriptures testify that a certain female sorceress summoned the soul of Samuel.#t_footnote(2574)[7] Also, the souls of saints certainly love their bodies and often hear more readily where the symbols of their relics are protected.
+    Hence, necromancy has its name because it operates on corpses and desires responses from the shades and manes of the dead, as well as subterranean daemons. It draws them into the corpses by certain stygian songs, infernal invocations, funerary sacrifices, and impious offerings. For instance, we read from Lucan of that witch Erichtho,
+    who summoned the dead and predicted to Sextus Pompey all of the events of the Pharsalian war.#t_footnote(2572)[5] Also in Phigalia, a city in Arcadia, there were certain magicians, skilled priests in sacred rites, who could summon souls to life.#t_footnote(2573)[6]
+    The holy scriptures testify that a certain female sorceress summoned the soul of Samuel.#t_footnote(2574)[7] Also, the souls of saints certainly love their bodies and often hear more readily where the symbols of their relics are protected.
   ]
   #p_quote[
     #emph[Two kinds of necromancy.]
@@ -2778,8 +2778,8 @@ The holy scriptures testify that a certain female sorceress summoned the soul of
     It must be noted that it sometimes happens to men that their vivifying spirit is withdrawn and appears dead and unfeeling. [Under such circumstances,] the intellectual nature remains united with the body, has the same form, and remains in the same body. [In such cases,] the vivifying power does not actually continue in it, but remains withdrawn in union with the intellectual nature. Yet it does not cease to be. Although a man [in that condition] can be said to be truly dead (inasmuch as death is the absence of life) that body may not be truly separated and can be awakened and come to life again.
   ]
   #p_normal[
-    Thus, in this, many miracles appear, and many Jews and gentiles have seen many like these in previous ages. A number of [these miracles] are recited in the tenth book of Plato’s 
-#emph[Republic]—namely, a certain Phereus#t_footnote(2580)[13] of Pamphylia lay for ten days among those who were slain in battle, and on the twelfth day he was laid on the funeral pyre and revived and spoke of certain wondrous things he saw during his time of death.#t_footnote(2581)[14] We partially spoke of this in the first book, and we will speak more below, where we will speak on oracles that come in rapture, ecstasy, and in the struggles of death.
+    Thus, in this, many miracles appear, and many Jews and gentiles have seen many like these in previous ages. A number of [these miracles] are recited in the tenth book of Plato’s
+    #emph[Republic]—namely, a certain Phereus#t_footnote(2580)[13] of Pamphylia lay for ten days among those who were slain in battle, and on the twelfth day he was laid on the funeral pyre and revived and spoke of certain wondrous things he saw during his time of death.#t_footnote(2581)[14] We partially spoke of this in the first book, and we will speak more below, where we will speak on oracles that come in rapture, ecstasy, and in the struggles of death.
   ]
 ]
 
@@ -2864,7 +2864,7 @@ The holy scriptures testify that a certain female sorceress summoned the soul of
   ]
   #p_normal[
     Those who have lived a middling life, who have not obtained a divine intelligence but instead a certain rational image#t_footnote(2608)[7] of [this intelligence], are banished to certain secret receptacles when they pass from the body. There they are affected by sensible virtues and move about in certain kinds of acts. They either freely rejoice or are gravely hurt by opinions and irascible and concupiscible virtues. St. Augustine also shared this belief and wrote upon it in his book
-#emph[Of the Spirit and the Soul].#t_footnote(2609)[8]
+    #emph[Of the Spirit and the Soul].#t_footnote(2609)[8]
   ]
   #p_normal[
     Indian, Persian, Egyptian, and Chaldean wise men handed down [the doctrine] that this soul survives much longer than the body, yet [they held that it is] not immediately made immortal, unless by transcorporation.#t_footnote(2610)[9] However our theologians philosophize in a far different way: indeed, they say, that even if all souls have a common origin and the same birth,#t_footnote(2611)[10] they are yet distinguished from each other by the Creator by degrees, not only accidental but also by certain internal degrees rooted in their essence. Each soul is different from the other by that which is individual to itself. Johannes Scotus also held this opinion, and Parisian theologians thus decreed these opinions in their articles. Hence the Wise Man said: “I was an ingenious child and obtained a good soul,” which is much better than many others.
@@ -2934,11 +2934,11 @@ The holy scriptures testify that a certain female sorceress summoned the soul of
   ]
   #p_normal[
     The lowest of these [levels] corresponds to the sphere of the Moon, which holds those [frenzies] that are from vegetables, such as plants, fruit from trees, roots, and that which is from harder matter, such as stones and metals, and alligations and suspensions of those.#t_footnote(2624)[5] Thus it is said that the selenite and hyena stones excel in prophecy; likewise, verbena and the herb
-#emph[theangelidam] excel in prediction,#t_footnote(2625)[6] just as is mentioned above.#t_footnote(2626)[7]
+    #emph[theangelidam] excel in prediction,#t_footnote(2625)[6] just as is mentioned above.#t_footnote(2626)[7]
   ]
   #p_normal[
     The second level corresponds to Mercury, and holds that which is from animals, and that which is composed from different natural things and mixed with each other,#t_footnote(2627)[8] drinkable and edible: of this kind are the heart of moles, which if swallowed fresh and pulsing, is said to cause divination and show things to come.#t_footnote(2628)[9] And Rabbi Moses Cusensis wrote in his
-#emph[Commentaries on Leviticus] that there is an animal called an #emph[iedua,] ידוע, that has a human form with a thin cord coming from the middle of its navel. It is fastened to the ground like a gourd, and it devours everything that is around it according to how long that cord is. Because it deceives the sight, it cannot be captured unless the cord is cut by the blow of an arrow, and when cut, it dies. Finally, if certain bones [from this animal] are set onto the mouth according to certain laws, that person is immediately seized with a frenzy, and they desire to speak oracles.#t_footnote(2629)[10]
+    #emph[Commentaries on Leviticus] that there is an animal called an #emph[iedua,] ידוע, that has a human form with a thin cord coming from the middle of its navel. It is fastened to the ground like a gourd, and it devours everything that is around it according to how long that cord is. Because it deceives the sight, it cannot be captured unless the cord is cut by the blow of an arrow, and when cut, it dies. Finally, if certain bones [from this animal] are set onto the mouth according to certain laws, that person is immediately seized with a frenzy, and they desire to speak oracles.#t_footnote(2629)[10]
   ]
   #p_normal[
     The third level corresponds to the sphere of Venus, which holds the subtlest powders, vapors, and scents, and what is made from these, such as unguents and fumigations, which we spoke of above.
@@ -2962,8 +2962,8 @@ The holy scriptures testify that a certain female sorceress summoned the soul of
     The eighth level refers to the starry heaven, which observes the position, motion, rays, and light of the heavenly bodies. Likewise, it holds images, rings, and the like, which are made according to the standard of the heavens, of which we have spoken above.
   ]
   #p_normal[
-    The ninth level corresponds to the Primum Mobile—that is, the ninth sphere or the universe itself. This holds more formal things, such as numbers, figures, and characters, and observes the occult influences of the heavenly intelligences#t_footnote(2635)[16] and other mysteries. Because [formal things] bear the effigies#t_footnote(2636)[17] of the heavenly divine powers and invoked spirits, they easily draw and impel them by a certain necessity of conformity to agree, and also hinder them so that they will not easily retreat. We read what Porphyry wrote of this in 
-#emph[Oracles:]
+    The ninth level corresponds to the Primum Mobile—that is, the ninth sphere or the universe itself. This holds more formal things, such as numbers, figures, and characters, and observes the occult influences of the heavenly intelligences#t_footnote(2635)[16] and other mysteries. Because [formal things] bear the effigies#t_footnote(2636)[17] of the heavenly divine powers and invoked spirits, they easily draw and impel them by a certain necessity of conformity to agree, and also hinder them so that they will not easily retreat. We read what Porphyry wrote of this in
+    #emph[Oracles:]
   ]
   #p_poetry[
     #emph[Finally, now cease and spare your words and rest]
@@ -3006,7 +3006,7 @@ The holy scriptures testify that a certain female sorceress summoned the soul of
   ]
   #p_normal[
     Thus, Adam was often familiar with the angel Raziel; Shem (the son of Noah) with Jophiel; Abraham with Zadkiel; Isaac and Jacob with Peliel; Joseph, Joshua, and Daniel with Gabriel; Moses with Metatron; Elijah with Maltiel;#t_footnote(2643)[6] Tobias the Younger with Raphael; David with Cerniel; Manoah#t_footnote(2644)[7] with Phadaele; Cenez with Ceruel; Ezekiel with Hasmael; Ezra with Uriel; and Solomon with Michael. Sometimes these spirits by virtue of their souls enter organic bodies—whether bestial or rational—and seize and use that soul as a base, delivering voices through corporeal instruments, as is shown in Balaam’s ass and in Saul, into whom the spirit of the Lord leaped and prophesied. Of this Apollo said in
-#emph[Answers] from Porphyry:
+    #emph[Answers] from Porphyry:
   ]
   #p_poetry[
     #emph[With songs, bright Phoebus was subdued from high]
@@ -3049,7 +3049,7 @@ The holy scriptures testify that a certain female sorceress summoned the soul of
   ]
   #p_normal[
     We also read that in the region of Thrace, there was a sanctuary sacred to Liber,#t_footnote(2656)[11] from where predictions and oracles were often made, and whose temple priests drank sufficient wine to agitate things. Also at Claros, there was a temple to Clarian Apollo, where they were permitted to utter divine things, having first drunk water#t_footnote(2657)[12] to complete things.#t_footnote(2658)[13] There is also a prophetic fountain in Patras#t_footnote(2659)[14] Achaea placed before the temple of Ceres, where those inquiring about the sick would approach, holding a mirror with a string tied to it, sent [the mirror] away [with the string] to the highest fountain in the water. When finished, they offered certain prayers and fumigations and they could see the outcome of the [sick person’s health]. Also, not far from Epidaurus, is the city Laconia with a deep swamp called “the water of Juno,” into which cakes of grain were cast for answers: [these were interpreted as being] positive if, when the cakes were thrown in, the waves calmly retained them; the opposite if [the waves] repulsed them as if despising them. Also similar are the caves of Aetna, as frequently named, into which coins or victims were thrown to presage happiness or sadness by whether the caves retained what is thrown in or rejected the offering.#t_footnote(2660)[15] Similar things were narrated by Dio in his
-#emph[Roman History] of the place called the Nympheum, where frankincense was placed in flames and oracles were taken hold, and spoke about everything one wishes to know, except those things concerning the dead and marriage.#t_footnote(2661)[16] Likewise, wonderful is what Aristotle wrote of a fountain in Palici of Sicily, to which those approaching affirmed some vow, threw a tablet inscribed and sealed with their wishes. If they were honest [the tablets] would be seen to float on the water. However, if the vows were false and they made them deceitfully, [the tablets] would immediately sink. Then flames would suddenly burst forth on the person who swore falsely and burn them to ashes.#t_footnote(2662)[17] There was likewise an oak in the city of Dodona: as soon as someone entered to receive an answer, it immediately moved and made a sound. Also, in that place, there was a statue holding a staff near a basin (that is, a bowl). [When this statue] was hit, it answered with controlled strikes with the basin. We read of this from the letters of Ausonius to Paulinus:
+    #emph[Roman History] of the place called the Nympheum, where frankincense was placed in flames and oracles were taken hold, and spoke about everything one wishes to know, except those things concerning the dead and marriage.#t_footnote(2661)[16] Likewise, wonderful is what Aristotle wrote of a fountain in Palici of Sicily, to which those approaching affirmed some vow, threw a tablet inscribed and sealed with their wishes. If they were honest [the tablets] would be seen to float on the water. However, if the vows were false and they made them deceitfully, [the tablets] would immediately sink. Then flames would suddenly burst forth on the person who swore falsely and burn them to ashes.#t_footnote(2662)[17] There was likewise an oak in the city of Dodona: as soon as someone entered to receive an answer, it immediately moved and made a sound. Also, in that place, there was a statue holding a staff near a basin (that is, a bowl). [When this statue] was hit, it answered with controlled strikes with the basin. We read of this from the letters of Ausonius to Paulinus:
   ]
   #p_poetry[
     #emph[Nor does Dodona’s brazen tinkling cease,]
@@ -3103,8 +3103,8 @@ The holy scriptures testify that a certain female sorceress summoned the soul of
     Thus, we read that Hermes, Socrates, Xenocrates, Plato, Plotinus, Heraclitus, Pythagoras, and Zoroaster were often removed in rapture and thus learned the wisdom of many things. We also read from Herodotus that there was a philosopher in Proconnesos named Aristeas#t_footnote(2676)[6] who had wonderful knowledge and whose soul sometimes departed his body. After seeing things in remote places, he returned to the body more learned. Pliny delivered something similar, that the soul of Harmonis Clazomenius abandoned his body and wandered, and likewise reported many and true things from far away.#t_footnote(2677)[7] There is also to this day among the Norwegians and Pilappios,#t_footnote(2678)[8] very many who can remove themselves for three whole days from their body and report many things from far away. Meanwhile one must guard them so that living animals do not come upon them and contaminate them; otherwise, it is said, they cannot return to their body.
   ]
   #p_normal[
-    Therefore, we must know that according to Egyptian doctrine, since the soul is a certain spiritual light, when it is unbound from the body it comprehends every place and every time, not unlike the light enclosed in a lantern. If opened, it is diffused everywhere and does not fail, for it is everywhere and always is.#t_footnote(2679)[9] And Cicero in his book 
-#emph[On Divination] said: “The soul of man never divines, unless when it is completely unbound it has nothing or little to do with the body.”#t_footnote(2680)[10] Therefore, when it comes to that state which is the supreme degree of contemplative perfection, it is then snatched from every created species and is not understood by acquired species but instead by the inspection of Ideas and it understands all things by the light of Ideas; of which light Plato said few men can partake in this life, but all are better with the gods.#t_footnote(2681)[11]
+    Therefore, we must know that according to Egyptian doctrine, since the soul is a certain spiritual light, when it is unbound from the body it comprehends every place and every time, not unlike the light enclosed in a lantern. If opened, it is diffused everywhere and does not fail, for it is everywhere and always is.#t_footnote(2679)[9] And Cicero in his book
+    #emph[On Divination] said: “The soul of man never divines, unless when it is completely unbound it has nothing or little to do with the body.”#t_footnote(2680)[10] Therefore, when it comes to that state which is the supreme degree of contemplative perfection, it is then snatched from every created species and is not understood by acquired species but instead by the inspection of Ideas and it understands all things by the light of Ideas; of which light Plato said few men can partake in this life, but all are better with the gods.#t_footnote(2681)[11]
   ]
   #p_quote[
     #emph[The soul unbound from the body comprehends every place and time.]
@@ -3119,8 +3119,8 @@ The holy scriptures testify that a certain female sorceress summoned the soul of
     #emph[Frightened at oars under glassy waves].#t_footnote(2683)[13]
   ]
   #p_normal[
-    Indeed, there is a certain evident power and capability of all things in our mind, but it is impeded and obstructed by the darkness and mortality of the body. But after death, having attained immortality and being unbound from the body, it has full and perfect knowledge. Hence it happens that those near death and weakened by old age sometimes have a somewhat unaccustomed light, because the soul is then less shackled by the senses and understands most acutely, and now is, as it were, slightly relaxed from its chains. It is no longer entirely liable to the body and, as it were, closer to the place to which it was going, easily perceiving revelations, which, being mixed with its agonies, are offered to it.#t_footnote(2684)[14] Of this Ambrose in his book 
-#emph[On the Belief of the Resurrection] said: “Our soul is eager to evade that same corporeal prison, which being free from areal motion does not know ‘where it goes or from where it comes.’ Yet we know that the soul can survive the body, and there being freed with the cloak of its senses thrown off, can contemplate to discern those things which it could not see before in the body. We can estimate this from an example of those who sleep: with their mind quiet, their bodies are as is as if buried. They raise themselves to the higher and report to the body visions of things absent or even the celestial.”#t_footnote(2685)[15]
+    Indeed, there is a certain evident power and capability of all things in our mind, but it is impeded and obstructed by the darkness and mortality of the body. But after death, having attained immortality and being unbound from the body, it has full and perfect knowledge. Hence it happens that those near death and weakened by old age sometimes have a somewhat unaccustomed light, because the soul is then less shackled by the senses and understands most acutely, and now is, as it were, slightly relaxed from its chains. It is no longer entirely liable to the body and, as it were, closer to the place to which it was going, easily perceiving revelations, which, being mixed with its agonies, are offered to it.#t_footnote(2684)[14] Of this Ambrose in his book
+    #emph[On the Belief of the Resurrection] said: “Our soul is eager to evade that same corporeal prison, which being free from areal motion does not know ‘where it goes or from where it comes.’ Yet we know that the soul can survive the body, and there being freed with the cloak of its senses thrown off, can contemplate to discern those things which it could not see before in the body. We can estimate this from an example of those who sleep: with their mind quiet, their bodies are as is as if buried. They raise themselves to the higher and report to the body visions of things absent or even the celestial.”#t_footnote(2685)[15]
   ]
 ]
 
@@ -3228,9 +3228,9 @@ The holy scriptures testify that a certain female sorceress summoned the soul of
     Chapter 52. Of lots and marks holding the certain power of oracles.
   ]
   #p_normal[
-    There are also certain lots possessing a divine virtue of oracles and are, as it were, indicators of divine judgment. These are preceded with much prayer and supplication, and sometimes are also commanded by the Lord to be done, just as we read in Leviticus of the goat offered to God, and of the scapegoat,#t_footnote(2701)[1] and in the book of Numbers of the rods of the tribes of Israel.#t_footnote(2702)[2] However, Moses and Joshua sent out lots in the presence of the Lord, dividing the lands and inheritances to the tribes of Israel according to the precepts of God.#t_footnote(2703)[3] The apostles of Christ previously sent out by prayers, selected Matthew in the place of Judas the traitor by lots.#t_footnote(2704)[4] The prophet Jonah, when fleeing from the face of God, sailed to Tarshish when a storm came. [Jonah] was discovered by the sailors by lot to be the cause of the danger. When he was cast into the sea, the storm ceased.#t_footnote(2705)[5] Caesar told of M. Valerius Procillus, who was captured by enemies. Lots were consulted three times about whether he should immediately be set on fire or set aside for another time. The lots were kind and he escaped unharmed.#t_footnote(2706)[6] In Bura, a town in Achaea, 
-there was once an oracle of Hercules that consisted of a tablet and dice. Those 
-who asked for something, after finishing prayers to the god, threw four dice. The prophet observed the figures [of the dice], which were then written on the tablet showing what was to come: but all the dice were made from the bones of sacrificial victims.#t_footnote(2707)[7]
+    There are also certain lots possessing a divine virtue of oracles and are, as it were, indicators of divine judgment. These are preceded with much prayer and supplication, and sometimes are also commanded by the Lord to be done, just as we read in Leviticus of the goat offered to God, and of the scapegoat,#t_footnote(2701)[1] and in the book of Numbers of the rods of the tribes of Israel.#t_footnote(2702)[2] However, Moses and Joshua sent out lots in the presence of the Lord, dividing the lands and inheritances to the tribes of Israel according to the precepts of God.#t_footnote(2703)[3] The apostles of Christ previously sent out by prayers, selected Matthew in the place of Judas the traitor by lots.#t_footnote(2704)[4] The prophet Jonah, when fleeing from the face of God, sailed to Tarshish when a storm came. [Jonah] was discovered by the sailors by lot to be the cause of the danger. When he was cast into the sea, the storm ceased.#t_footnote(2705)[5] Caesar told of M. Valerius Procillus, who was captured by enemies. Lots were consulted three times about whether he should immediately be set on fire or set aside for another time. The lots were kind and he escaped unharmed.#t_footnote(2706)[6] In Bura, a town in Achaea,
+    there was once an oracle of Hercules that consisted of a tablet and dice. Those
+    who asked for something, after finishing prayers to the god, threw four dice. The prophet observed the figures [of the dice], which were then written on the tablet showing what was to come: but all the dice were made from the bones of sacrificial victims.#t_footnote(2707)[7]
   ]
   #p_normal[
     You must know that the ancient fathers did not often cast lots for any slight cause, but either because of necessity or a great urgent need, and did not summon them without great reverence, respect, expiations, fasting, purity, prayers, invocations, vows, sacrifices, consecrations, and other religious sacred mysteries. Indeed, these sacred rites were often made before their works so that they would especially provoke divine goodwill, benevolence, and the presence of the divine spirits, to whose dispensation the lots were directed to receive a true opinion to things that were asked.
@@ -3287,8 +3287,8 @@ who asked for something, after finishing prayers to the god, threw four dice. Th
     #emph[Man is the temple of God.]
   ]
   #p_normal[
-    Aristotle also admitted this in both his #emph[Meteorology] and #emph[Ethics] that there is no virtue, whether natural or moral, unless with God. In his 
-#emph[Secrets,] he added that a good and healthy comprehension of the secrets of nature is possible, provided that the influences of divine virtues are near, and not elsewhere.
+    Aristotle also admitted this in both his #emph[Meteorology] and #emph[Ethics] that there is no virtue, whether natural or moral, unless with God. In his
+    #emph[Secrets,] he added that a good and healthy comprehension of the secrets of nature is possible, provided that the influences of divine virtues are near, and not elsewhere.
   ]
   #p_normal[
     But these influences are then only received when we are free from impediments weighing us down, from carnal and earthly occupations, and from all external agitations. Indeed, an inflamed and unclean eye cannot gaze on extremely bright lights, nor can they whose minds are unclean grasp the divine.
@@ -3325,7 +3325,7 @@ who asked for something, after finishing prayers to the god, threw four dice. Th
   ]
   #p_normal[
     In a similar way, the wise Brahmans#t_footnote(2725)[3] of India often washed without clothes in a fountain called Dirce in Boeotia, first daubing amber#t_footnote(2726)[4] drops and suitable scents on their head. Then after they were sufficiently clean according to the rites, they emerged at about noon, with bright linen garments, a white turban, with rings and their fingers, and bearing rods in their hands. In a similar way among the Gymnosophists, it was ordained that they wash in cold water three times in the day, and twice at night, before entering sacred sanctuaries; they also wore linen garments that they washed daily. Likewise, we read of the rite of washing in Hesiod’s book
-#emph[Works and Days,] where he sang:
+    #emph[Works and Days,] where he sang:
   ]
   #p_quote[
     #emph[The habits and behavior of Brahmans.]
@@ -3407,14 +3407,14 @@ who asked for something, after finishing prayers to the god, threw four dice. Th
   ]
   #p_normal[
     In addition, we must also abstain from anything that corrupts the mind and spirit, and from lust and envy, which are servants of injustice. As Hermes said, [lust and envy] impel the mind and hand toward evil deeds.#t_footnote(2737)[6] Leisure and luxury do likewise; indeed, they cause the soul to become suffocated by numbness#t_footnote(2738)[7] and create desire [for earthly things], so that we cannot foresee anything celestial. For this reason, Athenian priests, whom the Greeks call “Hierophants” as Jerome reported, often castrated themselves by drinking hemlock so that they could live more chastely in sacred acts and divine things.#t_footnote(2739)[8] Also, the chastity of a mind devoted to God, as Orpheus taught the Musaeus in the
-#emph[Hymn for All the Gods,] makes our soul a perpetual and everlasting temple of the gods.#t_footnote(2740)[9]
+    #emph[Hymn for All the Gods,] makes our soul a perpetual and everlasting temple of the gods.#t_footnote(2740)[9]
   ]
   #p_quote[
     #emph[From what a man must especially abstain.]
   ]
   #p_normal[
-    We must also abstain from all of the multitude and variety of senses, affections, imaginations, beliefs, and passions of this sort,#t_footnote(2741)[10] which hurt the soul and pervert rational judgment. This we may plainly see in people who are lustful, envious, and ambitious. Cicero in 
-#emph[Tusculan Disputations] called these passions an “affliction” and “pestilential sickness of the mind.”#t_footnote(2742)[11] Horace called them a “passion” or “insanity,” where he sang: #emph[A thousand passions for girls and boys.]#t_footnote(2743)[12]
+    We must also abstain from all of the multitude and variety of senses, affections, imaginations, beliefs, and passions of this sort,#t_footnote(2741)[10] which hurt the soul and pervert rational judgment. This we may plainly see in people who are lustful, envious, and ambitious. Cicero in
+    #emph[Tusculan Disputations] called these passions an “affliction” and “pestilential sickness of the mind.”#t_footnote(2742)[11] Horace called them a “passion” or “insanity,” where he sang: #emph[A thousand passions for girls and boys.]#t_footnote(2743)[12]
   ]
   #p_quote[
     #emph[Ecclesiastes.]
@@ -3466,7 +3466,7 @@ who asked for something, after finishing prayers to the god, threw four dice. Th
   ]
   #p_normal[
     Our mind is to be segregated from animal life, every multitude, and to be raised until it ascends to the very one, good, truth, and beauty, through each that is to such an extent knowable. These are known by degrees, as Proclus taught in
-#emph[Commentary on Alcibiades,] showing how the perceptible should especially be avoided, that we can be transferred to an incorporeal essence. We must surpass the order of souls, yet multiplied by many methods, conditions, and various proportions, and many chains, and a manifold variety of powers, and to strive for an intellect and intelligible kingdom, and to contemplate how much better an interval these are than minds. We must also abandon an intellectual multitude, although united and individual, and come to the superintellectual and essential unity, free from every multitude and every fountain of good and truth. For a similar reason, we must avoid all knowledge that distracts and deceives (which can happen in many ways) so that we can follow the simplest truth.
+    #emph[Commentary on Alcibiades,] showing how the perceptible should especially be avoided, that we can be transferred to an incorporeal essence. We must surpass the order of souls, yet multiplied by many methods, conditions, and various proportions, and many chains, and a manifold variety of powers, and to strive for an intellect and intelligible kingdom, and to contemplate how much better an interval these are than minds. We must also abandon an intellectual multitude, although united and individual, and come to the superintellectual and essential unity, free from every multitude and every fountain of good and truth. For a similar reason, we must avoid all knowledge that distracts and deceives (which can happen in many ways) so that we can follow the simplest truth.
   ]
   #p_normal[
     Therefore, relinquish the multitude of affections, senses, imaginations, and opinions, which are as different themselves as some are contrary to others. We must ascend to knowledge, in which although there might be a varying multitude, there is yet no contrariety. Indeed, everything is connected to everything else, and each part of this unity ministers and serves the others by turns. [This essential interconnection extends] all the way to the One, presupposed by all, supposing nothing beyond it, to which all other things must be referred.
@@ -3481,8 +3481,8 @@ who asked for something, after finishing prayers to the god, threw four dice. Th
     Chapter 56. Of penance and alms.
   ]
   #p_normal[
-    The greatest part of purifications is the willing penance from sin: for, as Seneca said in 
-#emph[Thyestes,] those who repent their sin are innocent.#t_footnote(2752)[1] Indeed this brings the greatest expiation to us, while it opposes troubles from delights, cleanses the soul from senseless joy, and grants a certain singular strength, restoring us to the superiors.
+    The greatest part of purifications is the willing penance from sin: for, as Seneca said in
+    #emph[Thyestes,] those who repent their sin are innocent.#t_footnote(2752)[1] Indeed this brings the greatest expiation to us, while it opposes troubles from delights, cleanses the soul from senseless joy, and grants a certain singular strength, restoring us to the superiors.
   ]
   #p_quote[
     #emph[What the greatest part of purifications are.]
@@ -3494,8 +3494,8 @@ who asked for something, after finishing prayers to the god, threw four dice. Th
     Therefore, penance is not only a killing of sins but a spiritual martyrdom of the soul, which the sword of the spirit pierces from every side. As Paul wrote to the Ephesians, “the sword of the spirit is the Word of God,”#t_footnote(2753)[2] and the prophet Jeremiah also referred to this when he said, “Cursed is he who keeps his sword from blood.”#t_footnote(2754)[3] Likewise, the psalmist sang: “A sword is in their lips.”#t_footnote(2755)[4]
   ]
   #p_normal[
-    Therefore it must be explained that thoughts and affections of the mind, and every evil that comes from our heart and mouth, must be confessed to a priest, so that he can judge us according to the Word of God. According to that power permitted by God together with penance, we will be cleansed and purged and will be directed to good.#t_footnote(2756)[5] There is no stronger sacrament found in any religion than an expiation for destroying sin. Hence, the gods themselves, as Ovid testified in 
-#emph[Pontus:]
+    Therefore it must be explained that thoughts and affections of the mind, and every evil that comes from our heart and mouth, must be confessed to a priest, so that he can judge us according to the Word of God. According to that power permitted by God together with penance, we will be cleansed and purged and will be directed to good.#t_footnote(2756)[5] There is no stronger sacrament found in any religion than an expiation for destroying sin. Hence, the gods themselves, as Ovid testified in
+    #emph[Pontus:]
   ]
   #p_poetry[
     #emph[Often sins are lightened and snatched away by the return to light,]
@@ -3528,8 +3528,8 @@ who asked for something, after finishing prayers to the god, threw four dice. Th
     #emph[To the place sulfur and eggs with trembling hands.#t_footnote(2761)[1]]
   ]
   #p_normal[
-    Proclus also wrote that in purifications priests often used sulfur and asphalt or ablutions of seawater, because sulfur purifies due to its sharp odor, but seawater due to its fiery portion.#t_footnote(2762)[2] In a similar way, the herb cinquefoil purifies. Due to its purity, ancient priests used it in purifications.#t_footnote(2763)[3] Likewise, olive branches are said to be of such purity that olive trees planted by courtesans either remain forever unfruitful or will entirely dry up.#t_footnote(2764)[4] In a similar way, they used frankincense, myrrh, verbena, valerian, and an herb called 
-#emph[lucia,] which is also called #emph[phu]#t_footnote(2765)[5] in Arabic. They also employed the blessed clove flower for purification rites. Similarly, a fumigation with the gall of a black dog is said to be especially excellent for the expiation of the crimes of evil daemons, whatever they were. Likewise, a suffumigation of a hoopoe’s feathers drives away phantasms.
+    Proclus also wrote that in purifications priests often used sulfur and asphalt or ablutions of seawater, because sulfur purifies due to its sharp odor, but seawater due to its fiery portion.#t_footnote(2762)[2] In a similar way, the herb cinquefoil purifies. Due to its purity, ancient priests used it in purifications.#t_footnote(2763)[3] Likewise, olive branches are said to be of such purity that olive trees planted by courtesans either remain forever unfruitful or will entirely dry up.#t_footnote(2764)[4] In a similar way, they used frankincense, myrrh, verbena, valerian, and an herb called
+    #emph[lucia,] which is also called #emph[phu]#t_footnote(2765)[5] in Arabic. They also employed the blessed clove flower for purification rites. Similarly, a fumigation with the gall of a black dog is said to be especially excellent for the expiation of the crimes of evil daemons, whatever they were. Likewise, a suffumigation of a hoopoe’s feathers drives away phantasms.
   ]
   #p_normal[
     What is wonderful and scarcely credible, except that Josephus, a serious author who is not to be scorned, wrote in the #emph[History of Jerusalem] of the root of #emph[baaras].#t_footnote(2766)[6] This root is named after a place near Machaerus, a town in Judea. It is said to have a flaming color that emits brilliance at night, yet taking it is very difficult, because it deceives the hand and flees from the eye, nor will it stay until the urine of a menstruating woman is first sprinkled on it. Yet one is not free from danger if it is taken in this way since sudden death follows its extraction unless the person is fortified with an amulet of the same root. If one is without such an amulet, then they should scratch#t_footnote(2767)[7] a circle in the earth, tie a noose around the root, and tie [the other end] to a dog and then suddenly leave. The dog will follow persistently, attempting to draw out the root as if it were paying for the plight of his master. [The dog] will immediately die, but after this, anyone can handle the root without danger. The power of this is in expiations most excellent, as is verified in those who are vexed by unclean spirits who are immediately freed from it.#t_footnote(2768)[8]
@@ -3898,9 +3898,9 @@ who asked for something, after finishing prayers to the god, threw four dice. Th
     In a similar way, we venerate the figure of a lamb because it represents Christ, the figure of a dove because it signifies the Holy Ghost, and the figures of a lion, ox, eagle, and a man signifying the Gospels, and others like this, which we find expressed in the revelations of prophets, and in the holy scripture in various places. In addition, they confer to similar revelations and dreams and are therefore called sacred pictures.
   ]
   #p_normal[
-    There are also sacred rites and sacred observations, which are made for the veneration of gods and religions, just as there are devotional gestures, 
-genuflections, uncovering of the head, ablutions, sprinkling of holy water, 
-fumigations, and outer expiations. There are likewise supplication processions and exterior ornaments of divine praises, including resounding music, lighting candles and lamps, signs and the striking of bells, and the decorating of temples, altars, and likenesses. In all of this is required the highest and most special worship and beauty. For that reason, whatever is the most special, beautiful, and precious—gold, silver, precious stones, and the like—is used. Indeed, these venerations and outer consecrations are, as it were, instructions and invitations to spiritual sacred rites and obtain the favor of the gods, as Proserpina testified in these verses:
+    There are also sacred rites and sacred observations, which are made for the veneration of gods and religions, just as there are devotional gestures,
+    genuflections, uncovering of the head, ablutions, sprinkling of holy water,
+    fumigations, and outer expiations. There are likewise supplication processions and exterior ornaments of divine praises, including resounding music, lighting candles and lamps, signs and the striking of bells, and the decorating of temples, altars, and likenesses. In all of this is required the highest and most special worship and beauty. For that reason, whatever is the most special, beautiful, and precious—gold, silver, precious stones, and the like—is used. Indeed, these venerations and outer consecrations are, as it were, instructions and invitations to spiritual sacred rites and obtain the favor of the gods, as Proserpina testified in these verses:
   ]
   #p_poetry[
     #emph[Which men ignore these brazen forms]
@@ -3930,8 +3930,8 @@ fumigations, and outer expiations. There are likewise supplication processions a
     #emph[From his hallowed head . . .]#t_footnote(2962)[13]
   ]
   #p_normal[
-    However sacred rites of this kind are, as it were, a certain pact between the gods and us, and are exhibited under praises, veneration, or obedience, in the midst of which we often obtain some wonderful virtue from that divine power to whom is devoted such veneration. Thus are sacred hymns, sermons, exorcisms, incantations, and calls composed and dedicated to the praise and veneration of the gods. As Orpheus composed in the song 
-#emph[To the Stars:]
+    However sacred rites of this kind are, as it were, a certain pact between the gods and us, and are exhibited under praises, veneration, or obedience, in the midst of which we often obtain some wonderful virtue from that divine power to whom is devoted such veneration. Thus are sacred hymns, sermons, exorcisms, incantations, and calls composed and dedicated to the praise and veneration of the gods. As Orpheus composed in the song
+    #emph[To the Stars:]
   ]
   #p_poetry[
     #emph[Therefore, with sacred calls, I will invoke the pure daemons.]#t_footnote(2963)[14]
@@ -3991,8 +3991,8 @@ fumigations, and outer expiations. There are likewise supplication processions a
     Chapter 64. Of certain religious observations, ceremonies, and rites of fumigations, anointings, and the like.
   ]
   #p_normal[
-    Whoever desires to labor in this faculty [of magic], must piously pray, entreating to the one God the Father that you can also be one and be made worthy of His mercy. Be clean on the inside and outside and in a clean place, because it is written in Leviticus: “Every man who approaches those things who is consecrated, in whom there is foulness, shall perish in the eyes of the Lord.”#t_footnote(2977)[1] Therefore, wash often and by the days decided according to the mysteries of number; dress yourself in clean garments and abstain from all foulness, pollution, and desire—indeed, the gods are unwilling to hear a man, as Porphyry said, who has not abstained for many days from venereal acts.#t_footnote(2978)[2] You must not touch a woman who is polluted or menstruating, nor one who suffers from bleeding,#t_footnote(2979)[3] nor touch the unclean, nor the dead.#t_footnote(2980)[4] 
-As Porphyry said: “Those who touch the dead cannot be permitted to approach oracles,”#t_footnote(2981)[5] perhaps because they are corrupted by a certain affinity of a funerary odor, the mind becomes senseless in taking in divine influences. Wash, anoint, fumigate#t_footnote(2982)[6] yourself and offer sacrifice; indeed, God receives in the sweetest scent those [things] that are offered to him by a purified and well-disposed man. [His prayers will] likewise rise with that fumigation, oration, and their offering, thus the psalmist sang: “Let my prayer, Lord, be directed to you, as incense in your sight.”
+    Whoever desires to labor in this faculty [of magic], must piously pray, entreating to the one God the Father that you can also be one and be made worthy of His mercy. Be clean on the inside and outside and in a clean place, because it is written in Leviticus: “Every man who approaches those things who is consecrated, in whom there is foulness, shall perish in the eyes of the Lord.”#t_footnote(2977)[1] Therefore, wash often and by the days decided according to the mysteries of number; dress yourself in clean garments and abstain from all foulness, pollution, and desire—indeed, the gods are unwilling to hear a man, as Porphyry said, who has not abstained for many days from venereal acts.#t_footnote(2978)[2] You must not touch a woman who is polluted or menstruating, nor one who suffers from bleeding,#t_footnote(2979)[3] nor touch the unclean, nor the dead.#t_footnote(2980)[4]
+    As Porphyry said: “Those who touch the dead cannot be permitted to approach oracles,”#t_footnote(2981)[5] perhaps because they are corrupted by a certain affinity of a funerary odor, the mind becomes senseless in taking in divine influences. Wash, anoint, fumigate#t_footnote(2982)[6] yourself and offer sacrifice; indeed, God receives in the sweetest scent those [things] that are offered to him by a purified and well-disposed man. [His prayers will] likewise rise with that fumigation, oration, and their offering, thus the psalmist sang: “Let my prayer, Lord, be directed to you, as incense in your sight.”
   ]
   #p_normal[
     Furthermore, the soul—as the offspring and image of God— delights in these fumigations and scents, taking these in through the nostrils, through which they enter into the body of man and by which, as Job testified, the most lively spirits are sometimes sent out. The heart of a man is then unable to be restrained or boils with either wrath or effort. For this reason, many think that scents are the most lively and spiritual of all the senses.#t_footnote(2983)[7]
@@ -4010,10 +4010,10 @@ As Porphyry said: “Those who touch the dead cannot be permitted to approach or
     #emph[Fortunate places confer favor.]
   ]
   #p_normal[
-    Which place is agreeable must be carefully searched from each birth. Those who are cannot do this must observe where their spirits are most prominently restored, where their senses are invigorated, where the health and strength of their body is more proficient, where their work gives better success, where they have more favor, and where enemies 
-succumb. [They must do this so] that they can know that region, and that place 
-preordained by God and the superiors and disposed and prepared by the heavens. 
-Therefore, revere this place and move according to your time and business, but always avoid unfortunate places.
+    Which place is agreeable must be carefully searched from each birth. Those who are cannot do this must observe where their spirits are most prominently restored, where their senses are invigorated, where the health and strength of their body is more proficient, where their work gives better success, where they have more favor, and where enemies
+    succumb. [They must do this so] that they can know that region, and that place
+    preordained by God and the superiors and disposed and prepared by the heavens.
+    Therefore, revere this place and move according to your time and business, but always avoid unfortunate places.
   ]
   #p_normal[
     Favorable names also return more fortunate things to us; however, unfavorable names return unfortunate things.#t_footnote(2985)[9] Hence the Romans, when choosing the enrollment of their soldiers, were careful that the name of the first soldier [enlisted] was not in any way unfortunate; and in placing tributes and purifying a colony or mustering armies, censors selected good names.#t_footnote(2986)[10] Moreover, they believed that if unfortunate names were changed into lucky names, likewise fortunate things would be changed for the better; thus, [when the Romans approached the city of] Epidamnus, so that they did not sail into danger,#t_footnote(2987)[11] decided to call it Dyrrachium; for the same reason Maleventum, because it referred to evil, was called Beneventum.#t_footnote(2988)[12] However, [the Romans] thought Lucrinus was a happy lake because it is the happiest name#t_footnote(2989)[13] of all. Also, select hours and days for your works, for it is not without cause that the Savior said: “Are there not twelve hours of the day?”#t_footnote(2990)[14] and so on.
@@ -4022,25 +4022,25 @@ Therefore, revere this place and move according to your time and business, but a
     #emph[Times can bring fortune.]
   ]
   #p_normal[
-    Indeed, astrologers teach that the times can bring a certain fortune for our events, which magicians [also] observe. Finally, all ancient wise men agree that each moment of time and the disposition of the heavens is of extremely great interest. These [effects apply] to not just natural things but also to artificial things that have received its being in this world. Indeed, they have related that this initial moment [of inception] has such a great power, that the entire course of fortune depends on it. It can be predicted, and for an equal reason the fortune following that initial moment can be searched for backward [in time],#t_footnote(2991)[15] 
-which they firmly believe and profess by experience to have witnessed, just as 
-when Caligula consulted Sulla the astrologer, he predicted [Caligula’s] most certain approaching death.#t_footnote(2992)[16] The astrologer Metheon, predicted the calamity of the future war, [foretelling] the Athenians making a march on Syracuse. When Meson the astrologer was about to sail to Sicily, he predicted a storm. From the knowledge of these times, Anaxagoras forewarned which day a stone would fall from the Sun, as happened later at the Aigos,#t_footnote(2993)[17] a river in Thrace. On the contrary, L. Tarucius Firmianus found the conception and birth of Romulus from his deeds and fortunes. The same man found the day of birth for the city of Rome from notable fortunate successes. Maternus referred to the beginning or birth of the world#t_footnote(2994)[18] from which the events of things can be learned.#t_footnote(2995)[19]
+    Indeed, astrologers teach that the times can bring a certain fortune for our events, which magicians [also] observe. Finally, all ancient wise men agree that each moment of time and the disposition of the heavens is of extremely great interest. These [effects apply] to not just natural things but also to artificial things that have received its being in this world. Indeed, they have related that this initial moment [of inception] has such a great power, that the entire course of fortune depends on it. It can be predicted, and for an equal reason the fortune following that initial moment can be searched for backward [in time],#t_footnote(2991)[15]
+    which they firmly believe and profess by experience to have witnessed, just as
+    when Caligula consulted Sulla the astrologer, he predicted [Caligula’s] most certain approaching death.#t_footnote(2992)[16] The astrologer Metheon, predicted the calamity of the future war, [foretelling] the Athenians making a march on Syracuse. When Meson the astrologer was about to sail to Sicily, he predicted a storm. From the knowledge of these times, Anaxagoras forewarned which day a stone would fall from the Sun, as happened later at the Aigos,#t_footnote(2993)[17] a river in Thrace. On the contrary, L. Tarucius Firmianus found the conception and birth of Romulus from his deeds and fortunes. The same man found the day of birth for the city of Rome from notable fortunate successes. Maternus referred to the beginning or birth of the world#t_footnote(2994)[18] from which the events of things can be learned.#t_footnote(2995)[19]
   ]
   #p_normal[
     It can be shown in many examples how times can do much in natural things, inasmuch as there are trees that invert their leaves after the solstice, such as the poplar, elm, olive, lime, and white willow.#t_footnote(2996)[20] Shellfish, crabs, and oysters grow with the waxing Moon and become thinner with its waning, and the ebbing and flowing of the sea observes the motion and times of the Moon.#t_footnote(2997)[21] And does not Euripus in Euboea#t_footnote(2998)[22] ebb and flow at a wonderful speed?#t_footnote(2999)[23] Likewise, the Moon stands still for three days each month—namely, the seventh, eighth, and ninth. Among the Troglodytes, there is a lake that three times a day is made bitter and salty and again becomes sweet.#t_footnote(3000)[24] In wintry days when everything is withered, the dry pennyroyal flourishes,#t_footnote(3001)[25] and they say that on the same day when inflated bladders break, the willow leaves and pomegranate seeds turn and revolve. It is undoubted (and I have seen it myself and learned of sowing in Italy and France) that a nut tree may be dry for the entire year until the eve of St. John’s day, when leaves, flowers, and ripe fruits are produced. This wonder entirely consists of only the time observed in its sowing.
   ]
   #p_normal[
-    That times can produce some wonderful virtue in artificial things, is constantly affirmed by astrologers in their books on elections and images. For this reason, we read from Plutarch of a likeness among the Pellenians that was built with an art that [created a wondrous effect:] wherever it looked in any direction it caused terror and great disturbances. Thus no one would dare gaze upon it without fear.#t_footnote(3002)[26] And in the 
-#emph[Life of Apollonius,] we read that Babylonian magicians tied four golden birds to the roof, which were called the tongues of the gods, and they had the power to unite the minds of the multitude to the love and obedience of the king.#t_footnote(3003)[27] On the island of Chios, there was the face of Diana placed high, whose face seemed sad to those entering but cheerful to those leaving.#t_footnote(3004)[28] Among the Trojans, sacrifices left around the likeness of Minerva did not putrefy. In the sanctuary of Venus at Paphos, it never rained in that area. If something was taken from the tomb of Antaeus, rains scattered from the heavens until that thing was dug out and retrieved. In the tomb of King Bibria of Pontus there were laurels displayed, which if someone brought some of these onto a ship, quarrels did not cease until they were discarded. In the island of Borysthenes, no birds infested the temple of Achilles. No flies or dogs entered into the Roman temple of Hercules in the ox market. In Olynthus in Thrace, there was a place, in which if a beetle happened to fall, they could not escape, but twisted about and died.#t_footnote(3005)[29] I could give almost innumerable examples even more wonderful than these, which ancients told of the arts of images and observations of times to be made.
+    That times can produce some wonderful virtue in artificial things, is constantly affirmed by astrologers in their books on elections and images. For this reason, we read from Plutarch of a likeness among the Pellenians that was built with an art that [created a wondrous effect:] wherever it looked in any direction it caused terror and great disturbances. Thus no one would dare gaze upon it without fear.#t_footnote(3002)[26] And in the
+    #emph[Life of Apollonius,] we read that Babylonian magicians tied four golden birds to the roof, which were called the tongues of the gods, and they had the power to unite the minds of the multitude to the love and obedience of the king.#t_footnote(3003)[27] On the island of Chios, there was the face of Diana placed high, whose face seemed sad to those entering but cheerful to those leaving.#t_footnote(3004)[28] Among the Trojans, sacrifices left around the likeness of Minerva did not putrefy. In the sanctuary of Venus at Paphos, it never rained in that area. If something was taken from the tomb of Antaeus, rains scattered from the heavens until that thing was dug out and retrieved. In the tomb of King Bibria of Pontus there were laurels displayed, which if someone brought some of these onto a ship, quarrels did not cease until they were discarded. In the island of Borysthenes, no birds infested the temple of Achilles. No flies or dogs entered into the Roman temple of Hercules in the ox market. In Olynthus in Thrace, there was a place, in which if a beetle happened to fall, they could not escape, but twisted about and died.#t_footnote(3005)[29] I could give almost innumerable examples even more wonderful than these, which ancients told of the arts of images and observations of times to be made.
   ]
   #p_normal[
     But so that no one should believe them less and consider [these wonders] as trifles and something that became obsolete long ago, there are some more recent things that can be seen in this time in several places, and I will add some artificial wonders. They say that with the art of making images at Byzantium no serpent can strike, and jackdaws would not fly within the walls; that in Crete there are no owls; that in the Neapolitan fields cicadas cannot be heard;#t_footnote(3006)[30] that in Venice no flies enter the public houses of barbers; that in Toledo in the public market not more than one fly with a conspicuous white color can be seen for an entire year. In the preceding book we have spoken of manners and times, which (if observed) render these and similar things possible.
   ]
   #p_normal[
-    In addition, you must especially observe the power of sermons and words; indeed, through these, the soul expands into inferior natures, stones, metals, plants, animals, and all natural things, impressing figures and various passions into them, giving strength to all creatures or leading and drawing by a certain love. Thus, Cato testified that tired oxen are refreshed by words,#t_footnote(3007)[31] then with words and prayers Tellus#t_footnote(3008)[32] can be reached so that she can cherish trees, and likewise, those trees can be persuaded to move to another place and grow only there. Likewise, turnips grow larger if they are entreated to while sown, that they would graciously contribute to the family and neighbors. Likewise, if a peacock is praised, they will soon unfold their feathers;#t_footnote(3009)[33] 
-however, on the contrary, it is known that when the herb basil is sown with 
-great cursing and disgrace, it brings fruit and is happy. Also, #emph[garus]#t_footnote(3010)[34] being poured onto burns and wounds heals, but only if the name of 
-#emph[garus] is not mentioned.#t_footnote(3011)[35] Those who bewitch can kill trees by calling upon them, and they harm crops and children.#t_footnote(3012)[36]
+    In addition, you must especially observe the power of sermons and words; indeed, through these, the soul expands into inferior natures, stones, metals, plants, animals, and all natural things, impressing figures and various passions into them, giving strength to all creatures or leading and drawing by a certain love. Thus, Cato testified that tired oxen are refreshed by words,#t_footnote(3007)[31] then with words and prayers Tellus#t_footnote(3008)[32] can be reached so that she can cherish trees, and likewise, those trees can be persuaded to move to another place and grow only there. Likewise, turnips grow larger if they are entreated to while sown, that they would graciously contribute to the family and neighbors. Likewise, if a peacock is praised, they will soon unfold their feathers;#t_footnote(3009)[33]
+    however, on the contrary, it is known that when the herb basil is sown with
+    great cursing and disgrace, it brings fruit and is happy. Also, #emph[garus]#t_footnote(3010)[34] being poured onto burns and wounds heals, but only if the name of
+    #emph[garus] is not mentioned.#t_footnote(3011)[35] Those who bewitch can kill trees by calling upon them, and they harm crops and children.#t_footnote(3012)[36]
   ]
   #p_normal[
     In addition, they say that there is such a great power in human imprecations that evil daemons can be expelled and banished. For this reason, Eusebius reported that Serapis among the Egyptians produced symbols that expelled daemons, and he also taught that daemons assumed the figures of brutes so that they can ambush men.#t_footnote(3013)[37]
@@ -4076,7 +4076,7 @@ great cursing and disgrace, it brings fruit and is happy. Also, #emph[garus]#t_f
     them.#t_footnote(3026)[5]
   ]
   #p_img[
-    #t_img("./images/00183.jpeg")     THE OCCULT PHILOSOPHY #t_img("./images/00184.jpeg")
+    #t_img("./images/00183.jpeg") THE OCCULT PHILOSOPHY #t_img("./images/00184.jpeg")
   ]
   #p_normal(center: true)[
     HEINRICH CORNELIUS AGRIPPA
