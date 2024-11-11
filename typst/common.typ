@@ -26,7 +26,17 @@
 #let l_unordered(it) = list(it)
 #let l_unordered_item(it) = list.item(it)
 
-#let t_footnote(target_label, this_label, it) = super([#link(target_label, it) #label(this_label)])
-#let t_footnotecontent = t_footnote
+#let t_footnote(id, it) = {
+	let target_label = label("nr" + str(id))
+	let this_label = label("nt" + str(id))
+
+	super[#link(target_label, it) #this_label]
+}
+#let t_footnotecontent(id, it) = {
+	let target_label = label("nt" + str(id))
+	let this_label = label("nr" + str(id))
+
+	super[#link(target_label, it) #this_label]
+}
 
 #let t_img = image
