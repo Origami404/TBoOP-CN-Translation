@@ -39,7 +39,9 @@ def para_inside(para_elm: bs4.Tag) -> Iterable[AST]:
             case "span" if klass == "dropcaps":
                 return Text(tag.text)
             case "em" if klass == "calibre4":
-                return QuoteInline(tag.text)
+                q = Quote()
+                q += para_inside(tag)
+                return q
             case "em" if klass == "calibre8":
                 return Text(tag.text)
             case "sup" if klass in ["calibre9", "calibre17", "calibre18"]:
@@ -175,11 +177,15 @@ def translate_layer(div: bs4.Tag, *, use_last_layer: Layer | None = None) -> Lay
                         | "fmh6"
                         | "csht"
                     ):
-                        layer.title = elm.text
+                        layer.title += para_inside(elm)
                         layer.ident = ident
                         continue
-                    case "cht" | "csht1" | "auth":
+                    case "csht1" | "auth":
                         para = Para(center=True, italic=True)
+                    case "cht":
+                        layer.title += [Text(text='. ')]
+                        layer.title += para_inside(elm)
+                        continue
                     case "blockc" | "centers" | "center" | "blockci":
                         para = Para(center=True)
                     case "right":
@@ -217,7 +223,7 @@ def translate_layer(div: bs4.Tag, *, use_last_layer: Layer | None = None) -> Lay
             case "ol" | "ul":
                 sub_ast = translate_list(elm)
             case "h2":
-                layer.title = elm.text
+                layer.title += para_inside(elm)
                 layer.ident = ident
                 continue
             case _:

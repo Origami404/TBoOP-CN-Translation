@@ -1,5 +1,5 @@
 from dataclasses import KW_ONLY, dataclass, field
-from typing import Iterable, Literal
+from typing import Any, Callable, Iterable, Literal, Protocol
 
 
 @dataclass
@@ -18,10 +18,14 @@ class AST:
 
 
 @dataclass
+class Title(AST):
+    pass
+
+@dataclass
 class Layer(AST):
     """book, characters, sections, ..."""
 
-    title: str | None = None
+    title: Title = field(default_factory=Title)
 
 
 @dataclass
@@ -33,7 +37,8 @@ class Text(TextLike):
     pass
 
 
-class QuoteInline(TextLike):
+class Quote(AST):
+    # inline, 但是可能有儿子
     pass
 
 
@@ -160,3 +165,25 @@ def print_ast(ast: AST, indent=0):
     # Children
     for child in ast.children:
         print_ast(child, indent + 4)
+
+
+class ASTFunc[T](Protocol):
+    def __call__(self, curr: AST, parent: AST | None) -> T: ...
+
+
+def pre_order_map[T](ast: AST, func: ASTFunc[T]) -> Iterable[T]:
+    def walk(curr: AST, parent: AST | None):
+        yield func(curr, parent)
+        for child in curr.children:
+            yield from walk(child, curr)
+
+    yield from walk(ast, None)
+
+
+def post_order_map[T](ast: AST, func: ASTFunc[T]) -> Iterable[T]:
+    def walk(curr: AST, parent: AST | None):
+        for child in curr.children:
+            yield from walk(child, curr)
+        yield func(curr, parent)
+
+    yield from walk(ast, None)
