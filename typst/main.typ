@@ -1,0 +1,5 @@
+#include "front.typ"
+#include "book1.typ"
+#include "book2.typ"
+#include "book3.typ"
+#include "back.typ"
