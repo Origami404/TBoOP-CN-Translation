@@ -21,12 +21,18 @@
   ]
   #p_normal[
     This book has been a labor of love and an obsession that has occupied more than ten years of my life. I would like to thank Christopher Warnock for being a major cheerleader in this project and helping get this ball rolling in its initial stages. For the many people who have taken my questions, put up with my months of solitude, listened, and supported me, I’d like to thank Jeff Purdue, Janelle Clark, Marcus McCoy, Catamara Rosarium, Stian Kulystin, Tai Fenix Kulystin, Jenn Zahrt, Joel Hutchinson, Ruth Hutchinson, Austin Coppock, Kaitlin Coppock, Maria Miles, and Thomas Brown. This book couldn’t have happened if it wasn’t for a community, and if I’ve left anyone out, I apologize.
+  ][
+    我在这本书上花费了十余年的人生，它是我的心血结晶。我想感谢 Christopher Warnock，他在这个项目中一直是我的主要支持者，帮助我在初期阶段推动这一进程。我还要感谢那些能忍受我的缺点，在我好几个月都不理他们之后仍然愿意倾听与支持我的人，他们是：Jeff Purdue, Janelle Clark, Marcus McCoy, Catamara Rosarium, Stian Kulystin, Tai Fenix Kulystin, Jenn Zahrt, Joel Hutchinson, Ruth Hutchinson, Austin Coppock, Kaitlin Coppock, Maria Miles, Thomas Brown。没有社区的帮助，这本书将永远无法完成；如果名单里遗漏了任何人，我深表歉意。
   ]
   #p_normal[
     Thanks to Robert Fitzgerald and Daniel A. Schulke at Three Hands Press for their editorial work on the manuscript and to Jim Dunk for his work in preparation of the graphics.
+  ][
+    感谢三手出版社（Three Hands Press）的 Robert Fitzgerald 和 Daniel A. Schulke 在 对手稿的编辑工作，并感谢 Jim Dunk 在图片上的工作。
   ]
   #p_normal[
     I make special mention of Odun de Arechaga, my deceased mentor, padrino, and friend, who introduced me to Agrippa and #emph[The Picatrix] at a time when there was little material on astrological magic and fewer specialists of this art. Now, thirty years later, I still haven’t found the end to the rabbit hole he introduced me to.
+  ][
+    特别地，我还要感谢已故的导师、教父和朋友 Odun de Arechaga。他向我介绍了 Agrippa 和《The Picatrix》。那时关于占星魔法的资料很少，专门研究这一艺术的人更是稀缺。如今，三十年过去了，我依然在这个领域里热爱不减、探寻不停。
   ]
   #p_normal(right: true)[
     ERIC PURDUE
