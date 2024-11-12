@@ -1,4 +1,23 @@
 #let indent-width = 2em
+#let lang-variant = "zh" 
+
+#let select-lang-variant(..it) = {
+  let it = it.pos()
+  if it.len() == 1 {
+    it.at(0)
+  } else {
+    let english-it = it.at(0)
+    let chinese-it = it.at(1)
+
+    if lang-variant == "zh" {
+      chinese-it
+    } else if lang-variant == "en" {
+      english-it
+    } else if lang-variant == "zh-en" {
+      [#par(english-it) #par(chinese-it)]
+    }
+  }
+}
 
 #let character(it) = {
   it
@@ -13,8 +32,10 @@
   bold: false,
   right: false,
   spacing: 1em,
-  it,
+  ..it
 ) = {
+
+  let it = select-lang-variant(..it)
 
   let it = if center and right {
     align(center + right, it)
@@ -57,10 +78,10 @@
     it
   )
 }
-#let p_poetry(it) = p_normal(word_indent: "none", para_indent: 1, italic: true, it)
-#let p_quote(it) = p_normal(word_indent: "none", para_indent: 1, italic: true, spacing: 2.5em, it)
-#let p_img(it) = p_normal(center: true, italic: true, it)
-#let p_title(it) = heading(level: 2, it)
+#let p_poetry(..it) = p_normal(word_indent: "none", para_indent: 1, italic: true, ..it)
+#let p_quote(..it) = p_normal(word_indent: "none", para_indent: 1, italic: true, spacing: 2.5em, ..it)
+#let p_img(..it) = p_normal(center: true, italic: true, ..it)
+#let p_title(..it) = heading(level: 2, select-lang-variant(..it))
 
 #let l_ordered(..it) = enum(indent: indent-width, ..it)
 #let l_ordered_item(it) = enum.item(it)
@@ -82,6 +103,3 @@
 }
 
 #let t_img = image
-
-// First level heading only as a marker
-#show heading.where(level: 1): it => []

@@ -9,12 +9,15 @@
   #outline()
 ]
 
-
+// First level heading only as a marker
+#show heading.where(level: 1): it => []
 = Foreword
 
 #character[
   #p_title[
     Acknowledgments
+  ][
+    致谢
   ]
   #p_normal[
     This book has been a labor of love and an obsession that has occupied more than ten years of my life. I would like to thank Christopher Warnock for being a major cheerleader in this project and helping get this ball rolling in its initial stages. For the many people who have taken my questions, put up with my months of solitude, listened, and supported me, I’d like to thank Jeff Purdue, Janelle Clark, Marcus McCoy, Catamara Rosarium, Stian Kulystin, Tai Fenix Kulystin, Jenn Zahrt, Joel Hutchinson, Ruth Hutchinson, Austin Coppock, Kaitlin Coppock, Maria Miles, and Thomas Brown. This book couldn’t have happened if it wasn’t for a community, and if I’ve left anyone out, I apologize.
